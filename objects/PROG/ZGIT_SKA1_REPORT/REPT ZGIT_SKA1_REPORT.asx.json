@@ -1,0 +1,22 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Input data",
+    "LENGTH":20
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"SKA1 report",
+    "LENGTH":11
+   }
+  ]
+ }
+]

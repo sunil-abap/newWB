@@ -1,0 +1,50 @@
+[
+ {
+  "table":"CLS_ASSIGNMENT",
+  "data":
+  [
+   {
+    "GUID":"9B0D2A4498B11EEF969239653AB08C01",
+    "VALUE":"NOT_REQUIRED",
+    "TROBJTYPE":"TABL",
+    "SOBJ_NAME":"ZGIT_SKA1",
+    "OBJECT_TYPE":"",
+    "SUB_KEY":"",
+    "ATTRIBUTE":"TABLE_LOGGING_REQUIREMENT",
+    "SET_BY":"SBORUGADDA",
+    "CHANGED_ON":"2024-08-12",
+    "REMARK":"not required"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"AVAS",
+    "OBJ_NAME":"9B0D2A4498B11EEF969239653AB08C01",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SBORUGADDA",
+    "SRCDEP":"",
+    "DEVCLASS":"ZGIT_BRS_PKG",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-08-12",
+    "CHECK_DATE":"2024-08-12",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

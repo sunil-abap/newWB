@@ -1,0 +1,56 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"PROG",
+    "OBJ_NAME":"ZGIT_INCL_TOP",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SBORUGADDA",
+    "SRCDEP":"",
+    "DEVCLASS":"ZGIT_BRS_PKG",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-08-12",
+    "CHECK_DATE":"2024-08-12",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"ZGIT_INCL_TOP",
+    "VARCL":"X",
+    "SUBC":"I",
+    "RLOAD":"E",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"ZGIT_INCL_TOP",
+    "SPRSL":"E",
+    "TEXT":"Include ZGIT_INCL_TOP"
+   }
+  ]
+ }
+]
