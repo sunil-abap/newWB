@@ -1,0 +1,19 @@
+[
+ {
+  "table":"TVARVC",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "NAME":"ZFI_FILE_PATH",
+    "TYPE":"P",
+    "NUMB":0,
+    "SIGN":"",
+    "OPTI":"",
+    "LOW":"/tmp/",
+    "HIGH":"",
+    "CLIE_INDEP":""
+   }
+  ]
+ }
+]

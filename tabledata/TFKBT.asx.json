@@ -1,0 +1,14 @@
+[
+ {
+  "table":"TFKBT",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "SPRAS":"E",
+    "FKBER":"Z001",
+    "FKBTX":"Allocation"
+   }
+  ]
+ }
+]

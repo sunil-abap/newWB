@@ -1,0 +1,26 @@
+[
+ {
+  "table":"ADRCOMCS2",
+  "data":
+  [
+   {
+    "CLIENT":"100",
+    "TABLENAME":"T001",
+    "FIELDNAME":"ADRNR",
+    "OBJKEY":"100Z001",
+    "COMM_TYPE":"FAX",
+    "DATE_FROM":"0001-01-01",
+    "HIGH_VALUE":"001"
+   },
+   {
+    "CLIENT":"100",
+    "TABLENAME":"T001",
+    "FIELDNAME":"ADRNR",
+    "OBJKEY":"100Z001",
+    "COMM_TYPE":"TEL",
+    "DATE_FROM":"0001-01-01",
+    "HIGH_VALUE":"001"
+   }
+  ]
+ }
+]

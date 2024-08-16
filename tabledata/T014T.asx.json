@@ -1,0 +1,38 @@
+[
+ {
+  "table":"T014T",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "SPRAS":"D",
+    "KKBER":"Z001",
+    "KKBTX":"Kreditsegment 1000"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"E",
+    "KKBER":"Z001",
+    "KKBTX":"US Credit Control Area"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"F",
+    "KKBER":"Z001",
+    "KKBTX":"Segment de crédit 1000"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"N",
+    "KKBER":"Z001",
+    "KKBTX":"Kredietsegment 1000"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"P",
+    "KKBER":"Z001",
+    "KKBTX":"Segmento de crédito 1000"
+   }
+  ]
+ }
+]

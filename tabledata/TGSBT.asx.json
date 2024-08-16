@@ -1,0 +1,38 @@
+[
+ {
+  "table":"TGSBT",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "SPRAS":"D",
+    "GSBER":"Z001",
+    "GTEXT":"Geschäftsbereich 0001"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"E",
+    "GSBER":"Z001",
+    "GTEXT":"Business area z001"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"F",
+    "GSBER":"Z001",
+    "GTEXT":"Domaine d'activité 0001"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"N",
+    "GSBER":"Z001",
+    "GTEXT":"Business area 0001"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"P",
+    "GSBER":"Z001",
+    "GTEXT":"Divisão 0001"
+   }
+  ]
+ }
+]

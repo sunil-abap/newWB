@@ -1,0 +1,26 @@
+[
+ {
+  "table":"TFKB",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "FKBER":"Z001",
+    "AUTHGRP":"",
+    "STR_ID":"",
+    "FNSUB1":"",
+    "FNSUB2":"",
+    "FNSUB3":"",
+    "CREATED_BY":"",
+    "CREATED_ON":"0000-00-00",
+    "CREATED_AT":"00:00:00",
+    "MODIFIED_BY":"",
+    "MODIFIED_ON":"0000-00-00",
+    "MODIFIED_AT":"00:00:00",
+    "DATAB":"0000-00-00",
+    "DATBIS":"0000-00-00",
+    "DATE_EXP":"0000-00-00"
+   }
+  ]
+ }
+]

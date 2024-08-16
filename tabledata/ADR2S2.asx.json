@@ -1,0 +1,28 @@
+[
+ {
+  "table":"ADR2S2",
+  "data":
+  [
+   {
+    "CLIENT":"100",
+    "TABLENAME":"T001",
+    "FIELDNAME":"ADRNR",
+    "OBJKEY":"100Z001",
+    "DATE_FROM":"0001-01-01",
+    "CONSNUMBER":1,
+    "COUNTRY":"US",
+    "FLGDEFAULT":"X",
+    "FLG_NOUSE":"",
+    "HOME_FLAG":"X",
+    "TEL_NUMBER":"858 720 0477",
+    "TEL_EXTENS":"",
+    "TELNR_LONG":"+18587200477",
+    "TELNR_CALL":"8587200477",
+    "DFT_RECEIV":"",
+    "R3_USER":"1",
+    "VALID_FROM":"",
+    "VALID_TO":""
+   }
+  ]
+ }
+]

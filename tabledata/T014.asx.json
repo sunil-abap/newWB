@@ -1,0 +1,19 @@
+[
+ {
+  "table":"T014",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "KKBER":"Z001",
+    "WAERS":"USD",
+    "STAFO":"000012",
+    "PERIV":"K4",
+    "CTLPC":"",
+    "KLIMK":"0",
+    "SBGRP":"",
+    "ALLCC":"X"
+   }
+  ]
+ }
+]

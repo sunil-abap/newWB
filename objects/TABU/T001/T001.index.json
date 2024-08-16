@@ -1,0 +1,22 @@
+[
+ {
+  "table":"T001",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"100"
+     },
+     {
+      "key":"BUKRS",
+      "value":"Z001"
+     }
+    ],
+    "hash":"u9qmtg24f5AqkWAUrTXCJ0BkGKE="
+   }
+  ]
+ }
+]

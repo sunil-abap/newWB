@@ -1,0 +1,30 @@
+[
+ {
+  "table":"TVARVC",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"100"
+     },
+     {
+      "key":"NAME",
+      "value":"ZFI_FILE_PATH"
+     },
+     {
+      "key":"TYPE",
+      "value":"P"
+     },
+     {
+      "key":"NUMB",
+      "value":"0000"
+     }
+    ],
+    "hash":"F/BgniFffT3ag0bqKyulPQwJ62U="
+   }
+  ]
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "table":"ADR3S2",
+  "data":
+  [
+   {
+    "CLIENT":"100",
+    "TABLENAME":"T001",
+    "FIELDNAME":"ADRNR",
+    "OBJKEY":"100Z001",
+    "DATE_FROM":"0001-01-01",
+    "CONSNUMBER":1,
+    "COUNTRY":"US",
+    "FLGDEFAULT":"X",
+    "FLG_NOUSE":"",
+    "HOME_FLAG":"X",
+    "FAX_NUMBER":"858 720 0479",
+    "FAX_EXTENS":"",
+    "FAXNR_LONG":"+18587200479",
+    "FAXNR_CALL":"8587200479",
+    "FAX_GROUP":"",
+    "DFT_RECEIV":"",
+    "R3_USER":"",
+    "VALID_FROM":"",
+    "VALID_TO":""
+   }
+  ]
+ }
+]

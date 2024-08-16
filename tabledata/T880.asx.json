@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"GCTS01",
+    "NAME1":"SNC US - gcts",
+    "CNTRY":"US",
+    "NAME2":"github gcts",
+    "LANGU":"E",
+    "STRET":"",
+    "POBOX":"",
+    "PSTLC":"",
+    "CITY":"San Diego",
+    "CURR":"USD",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
