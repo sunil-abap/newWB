@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Genoemde systeemfunktionaliteit is niet voor batchinput geschikt.       
+U1 &WHAT_TO_DO&                                                            
+AS Maak de toepassing voor batchinput geschikt.                            

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS You called the select functions and flagged n-logs.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+AS                                                                         

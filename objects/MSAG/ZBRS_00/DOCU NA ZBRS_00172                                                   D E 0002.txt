@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Sie haben versucht, eine Transaktion zu starten, für die Sie nicht      
+   berechtigt sind.                                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS Das System lässt das Starten dieser Transaktion nicht zu.               
+U1 &WHAT_TO_DO&                                                            
+AS Wenn Sie die Berechtigung für diese Transaktion haben sollten, so       
+   wenden Sie sich bitte an Ihren Benutzeradministrator.                   

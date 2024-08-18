@@ -1,0 +1,4 @@
+*  The internal session of the background process was interrupted due to a 
+   runtime error. The runtime error has been saved in the database and can 
+   be analyzed using the transaction ST22 (ABAP dump analysis). The runtime
+   error will be deleted automatically in 4 weeks.                         

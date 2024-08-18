@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Uma função da interface de banco de dados do núcleo R3 foi chamada com  
+   parâmetros insuficientes ou errados.                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Notificar o problema à SAP caso seja possível reproduzir. Isto é um     
+   problema interno que não deveria ocorrer.                               

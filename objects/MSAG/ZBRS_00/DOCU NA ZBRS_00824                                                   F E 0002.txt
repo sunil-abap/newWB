@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Vous avez défini une icône. Le nom interne de l'icône contient des      
+   caractères non autorisés.                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS Les icônes ne peuvent pas être sauvegardées.                            
+U1 &WHAT_TO_DO&                                                            
+AS Les caractères suivants sont autrorisés pour les noms internes d'icônes 
+   :                                                                       
+B1 Lettres A à Z                                                           
+B1 Trait de soulignement _                                                 
+AS Le nom interne des icônes ne doit pas contenir de caractère             
+   d'espacement.                                                           
+AS Corrigez le nom interne de l'icône en conséquence et effectuez une      
+   nouvelle sauvegarde.                                                    
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

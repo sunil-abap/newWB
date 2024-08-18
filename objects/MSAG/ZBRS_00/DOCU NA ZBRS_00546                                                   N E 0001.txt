@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS De geselecteerde job wordt al bewerkt (byv. vrijgegeven of vervallen).  
+   Opdat een begonnen verwerkingsequentie consistent uitgevoerd en         
+   afgesloten kan worden, wordt een geselecteerde job geblokkeerd door het 
+   SAP blokkeer-mechanisme. Nadat een job geblokkeerd is kunnen alleen nog 
+   geselecteerde acties (byv. weergeven van job-info) uitgevoerd worden.   
+   De blokkering wordt na afsluiten van de werkzaamheden weer vrijgegeven. 
+U1 &WHAT_TO_DO&                                                            
+AS De tijdsduur tussen begin en afsluiten van een actie is iha. slechts    
+   kort, zodat een herhaalde proberen van de gewenste actie een niet meer  
+   geblokkerde job aantreft waardoor de geplande activiteiten kunnen       
+   worden uitgevoerd.                                                      
+AS Als de blokkering na herhaalde pogingen nog steeds optreedt is de       
+   volgende werwijze aan te bevelen:                                       
+N1 Met transaktie SM12 (blokkeringen weergeven) de geplaatste blokkeringen 
+   van tabel TBTCO (bij vervallen van vrijgegeven jobs ook tabel TBTCS)    
+   bekijken en de gebruiker bepalen die de gewenste job momenteel          
+   blokkeert.                                                              
+N1 Deze gebruiker aansporen om de begonnen handeling te beeindigen.        

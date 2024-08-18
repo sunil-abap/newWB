@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Os primeiros três caracteres da senha não devem surgir nesta sequência  
+   no nome do usuário. Desta forma, deve ser especialmente evitado que o   
+   nome do usuário e a senha sejam idênticos.                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Selecionar uma outra senha.                                             

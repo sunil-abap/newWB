@@ -1,0 +1,20 @@
+U1 &CAUSE&                                                                 
+AS Bij een batch-aanvraag is een programma opgegeven waarvan het type niet 
+   inplanbaar is. Inplanbare programma's onderscheiden zich vooral door    
+   een gedefinieerd startpunt (byv. klasseke ABAP-rapporten of             
+   gedefinieerde modeljobs). Niet inplanbare programma's zijn byv.         
+   modulepools of functiepools.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Met de opgegeven programmanaam kan de batch-aanvraag niet met succes    
+   afgesloten worden. Het systeem toont de inplanningsdynpro waarop het    
+   veld voor opgave van de programmanaam input accepteert, zodat er        
+   correcties opgegeven kunnen worden.                                     
+U1 &WHAT_TO_DO&                                                            
+AS Deze probleemsituatie kan principieel op 2 manieren verholpen worden:   
+N1 Correctie van de programmanaam zodat door de verbeterde naam een        
+   inplanbaar programma (dwz. een programma met gedefinieerd startpunt)    
+   genoemd wordt.                                                          
+N1 Correctie van de attributes van het oorspronkelijk opgegeven programma. 
+   Deze mogelijkheid treedt op als de attributes van het in te plannen     
+   programma kennelijk foutieve waardes hebben. Correctie van de           
+   attributesgebeurt met de programma-editor.                              

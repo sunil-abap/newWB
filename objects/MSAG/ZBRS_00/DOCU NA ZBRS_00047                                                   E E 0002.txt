@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS The timestamps of the tables used in the screen were checked when       
+   loading screen &V1& &V2&. At least one timestamp was not correct. The   
+   screen was therefore regenerated and the timestamps of the tables used  
+   were copied from the Data Dictionary.                                   
+AS After generation, the timestamps were rechecked. Discrepancies in the   
+   timestamps were still found.                                            
+AS This occurs if the table in the Data Dictionary is modified or          
+   activated during generation.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS The transaction was terminated.                                         
+U1 &WHAT_TO_DO&                                                            
+AS Call the transaction again.                                             

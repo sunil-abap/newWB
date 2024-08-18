@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS L'interface DFIES contient des zones avec les spécifications de         
+   longueur : LENG, OUTPUTLEN, DECIMALS, HEADLEN, SCRLEN1, SCRLEN2,        
+   SCRLEN3. Ces zones doivent être numériques, c-à-d. qu'elle ne doit      
+   contenir que des chiffres. Les spécifications de DFIES se rapportent    
+   dans le cas présent à la zone :                                         
+AS   &V1& - &V2&                                                           
+AS Au moins une des deux spécifications de longueur contient des           
+   caractères non numériques.                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS Il s'agit ici d'une erreur dans l'interface DFIES. La transaction       
+   courante a dû être interrompue.                                         
+U1 &WHAT_TO_DO&                                                            
+AS Informez SAP de cette erreur. Vous ne pouvez pas supprimer cette erreur 
+   vous-mêmes.                                                             

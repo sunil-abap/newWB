@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS The system outputs this message at the start of every job step and is   
+   therefore usually located in a job log.                                 
+AS This message means that step &V1& is currently being started. The       
+   additional parameters give further details on the step itself:          
+AS - the ABAp program executed in this step (here &V2&)                    
+AS - the corresponding parameter (here &V3&)                               
+AS   If this field is empty, then program &V2& does not need any           
+   parameters.                                                             
+AS - the name of the user with whose authorization program   &V2& is       
+   executed (here &V4&)                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

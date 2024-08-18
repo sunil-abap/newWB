@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Vous avez essayé de vous connecter au système dans une langue non       
+   installée.                                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Lors de l'annonce, spécifiez l'une des langues installées.              

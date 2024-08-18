@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Foi solicitada a lista do servidor de aplicação com logon efetuado do   
+   servidor de mensagem. Ocorreu um erro durante esta solicitação.         
+AS Causas possíveis do erro:                                               
+B1 o envio desta solicitação falhou;                                       
+B1 o servidor de aplicação não está ligado ao servidor de mensagem;        
+B1 o servidor de mensagem não funciona.                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS O log de sistema contém mais informações sobre as causas possíveis do   
+   erro. Executar a transação SM21 para analisar as entradas ou, se o      
+   usuário não possui autorização para esta transação, informar o          
+   administrador de sistema, para analisar e eliminar o erro.              

@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Na seleção de matchcode foi determinado um erro interno.                
+AS As causas possíveis são:                                                
+/: RESET N1                                                                
+N1 A interface de matchcode não transferiu nenhum campo-chave ou o seu     
+   comprimento é 0.                                                        
+N1 Não foi possível criar a tabela RSMDY para a interface de matchcode.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+/: RESET N1                                                                
+N1 Verificar descrição de matchcode.                                       
+N1 Informar responsável.                                                   

@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS A senha entrada contém menos do que &V1& letras minúsculas.             
+/  Esta condição foi especificada pelo administrador do sistema.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Entrar uma senha que tenha no mínimo &V1& letras minúsculas.            
+/  Como letras minúsculas são válidos os caracteres alfabéticos a - z.     
+U1 &SYS_ADMIN&                                                             
+AS O administrador do sistema pode determinar este valor por meio do       
+   parâmetro de perfil <ZH>login/min_password_lowercase</>.                
+/  Outra documentação: ver atualização de parâmetro de perfil (transação   
+   <DS:TRAN.RZ11>RZ11</>)                                                  

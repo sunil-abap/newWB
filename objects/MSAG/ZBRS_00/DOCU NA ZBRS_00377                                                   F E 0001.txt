@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Une erreur s'est produite dans le CALL TRANSACTION USING ou le CALL     
+AS DIALOG USING lors d'une mise à jour synchrone.                          
+AS L'erreur a été déclenchée par la transaction &V1&.                      
+AS                                                                         
+AS Informations sur la mise à jour                                         
+AS code return :        &V2&                                               
+AS texte       :        &V3& &V4&                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Analysez vos données batch input.                                       
+AS Vous pouvez également controler vos enregistrements de mise à jour à    
+AS l'aide de la transaction SM13.                                          

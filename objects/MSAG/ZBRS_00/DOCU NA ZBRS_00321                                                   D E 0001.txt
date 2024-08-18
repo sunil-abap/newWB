@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Sie haben die Markierfunktionen aufgerufen und n-Protokolle markiert.   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Hinweis.                                                                
+AS                                                                         

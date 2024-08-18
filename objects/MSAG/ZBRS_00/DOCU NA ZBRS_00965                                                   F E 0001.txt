@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Une incohérence s'est produite entre la description de l'exécution      
+   d'un objet (nametab, description du matchcode) et la situation actuelle 
+   de la base de données.                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS L'objet d'exécution doit être regénéré (activer l'objet et l'ID de      
+   matchcode, activer la table).                                           

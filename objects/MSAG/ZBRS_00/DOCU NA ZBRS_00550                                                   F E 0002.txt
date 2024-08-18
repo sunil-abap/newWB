@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Ce message est édité au début de chaque étape de job et survient donc   
+   généralement dans un protocole de job.                                  
+AS Ce message indique que l'étape actuelle &V1& est lancée. Les autres     
+   paramètres fournissent de plus amples informations relatives à l'étape  
+   même :                                                                  
+AS - le programme ABAP exécuté dans cette étape (ici : &V2&)               
+AS - les paramètres utilisés (ici : &V3&)                                  
+AS   Si cette zone est vide, le paramètre &V2& n'a besoin d'aucun          
+   paramètre.                                                              
+AS - le nom de l'utilisateur dont les autorisations sont utilisées pour    
+     l'exécution du programme &V2& (ici : &V4&)                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

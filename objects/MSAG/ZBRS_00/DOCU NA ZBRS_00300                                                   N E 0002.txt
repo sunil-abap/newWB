@@ -1,0 +1,18 @@
+U1                                                                         
+AS Deze melding wordt alleen in het batchinput-verslag vermeld om aan te   
+   geven welke gebruiker de map in welke modus afspeelt.                   
+AS                                                                         
+AS Informatie over het afspelen:                                           
+AS         -  Server               &v4&                                    
+AS         -  Map                  &v1&                                    
+AS         -  Gebruiker            &v2&                                    
+AS         -  Modus                &v3&                                    
+AS            - 'A'   is 'Zichtbaar afspelen'                              
+AS            - 'E'   is 'Alleen fouten tonen'                             
+AS            - 'N'   is 'Achtergrond'                                     
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Informatieve melding.                                                   
+AS                                                                         

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Il n'existe aucune entrée dans le nametab pour le nom indiqué.          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS La table en qustion doit être définie et activée à l'aide du            
+   dictionnaire ABAP/4.                                                    

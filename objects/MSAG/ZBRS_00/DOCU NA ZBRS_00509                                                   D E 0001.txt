@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Für den selektierten Batch-Job konnte kein Job-Protokoll gefunden       
+   werden. Befindet sich der Batch-Job im Zustand 'abgebrochen', so deutet 
+   diese Meldung auf Probleme beim Starten des Batch-Jobs hin.             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Probleme, die beim Starten eines Batch-Jobs auftreten (z.B. das     
+   Protokoll kann wegen Kapazitätsengpaß nicht angelegt werden), werden im 
+   System-Protokoll aufgezeichnet.                                         
+U1 &WHAT_TO_DO&                                                            
+AS Zur genaueren Analyse des Fehlens des Job-Protokolls ist daher ein      
+   Blick in das System-Protokoll des Applikations-Servers, durch den der   
+   betroffene Batch-Job ausgeführt werden sollte, zu empfehlen. Dort sind  
+   insbesondere die Meldungen, welche durch Batch-Workprozesse erfolgt     
+   sind, von Interesse. Die vorgefundenen Meldungen kennzeichnen den Start 
+   eines Jobs und die Probleme, die evtl. beim Starten aufgetreten sind.   

@@ -1,0 +1,24 @@
+U1 &CAUSE&                                                                 
+AS Bei der Freigabe der Batch-Input Mappe &V1& wurde nach entsprechenden   
+   noch vorhandenen Hintergrund- (Batch)-Jobs gesucht. Dabei wurde ein     
+   zugehöriger Job gefunden der sich noch nicht im Status "fertig"         
+   befindet.                                                               
+*  Nach einer Freigabe dieser Mappe könnte es vorkommen, dass die Mappe im 
+   Dialog oder im Hintergrund abgespielt UND der noch existierende Job     
+   ausgeführt wird.                                                        
+/  Dadurch könnten doppelte Daten verbucht werden.                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Es erfolgt keine Freigabe der Mappe &V1&.                               
+U1 &WHAT_TO_DO&                                                            
+AS Analysieren Sie den zugehörigen Batch-Job mit Hilfe der Transaktion     
+   SM37:                                                                   
+T1 Jobname: ,,&V1&                                                         
+/  Job-Ersteller: ,,&V2&                                                   
+/  Geplantes Startdatum: ,,&V3&                                            
+/  Geplante Startzeit: ,,&V4&                                              
+/                                                                          
+*  Prüfen Sie, ob der Job noch ausgeführt werden kann und somit keine      
+   Freigabe mehr benötigt wird.                                            
+/  Ansonsten löschen Sie den Job und führen die Freigabe erneut durch.     
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

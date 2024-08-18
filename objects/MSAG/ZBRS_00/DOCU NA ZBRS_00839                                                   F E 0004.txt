@@ -1,0 +1,21 @@
+U1 &CAUSE&                                                                 
+AS Lors de la validation du dossier batch input, le système a effectué la  
+   recherche d'ordres de mise à jour correspondants encore existants.      
+/  Il a trouvé un enregistrement de mise à jour rattaché pour la           
+   transaction contenue dans le dossier &V1& avec l'index &V2&.            
+AS Après la validation de ce dossier, il est possible que le dossier soit à
+   nouveau exécuté ET que l'ordre de mise à jour encore existant ne soit   
+   pas encore mis à jour.                                                  
+/  Ainsi, des données peuvent être mises à jour deux fois.                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le dossier n'est pas validé.                                            
+U1 &WHAT_TO_DO&                                                            
+AS Analysez l'ordre de mise à jour correspondant en utilisant la           
+   transaction SM13 :                                                      
+T1 Utilisateur :,,&V3&                                                     
+/  Date/heure :,,&V4&                                                      
+AS                                                                         
+AS Contrôlez si l'enregistrement de mise à jour peut encore être exécuté et
+   qu'aucune validation n'est ainsi requise.                               
+U1 &SYS_ADMIN&                                                             
+*                                                                          

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS O usuário tentou efetuar o logon no sistema, mas o número máximo de     
+   usuários foi alcançado.                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Esperar que um outro usuário efetue o logoff para que possa trabalhar   
+   ou adquira uma licença correspondente de SAP AG.                        

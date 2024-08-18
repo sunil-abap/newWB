@@ -1,0 +1,26 @@
+U1 &CAUSE&                                                                 
+AS The transaction sent a screen that was not expected in the batch input  
+   session and which therefore could not be supplied with data.            
+AS Possible reasons:                                                       
+AS 1. The batch input session was created incorrectly. The sequence of     
+   screens was recordly incorrectly.                                       
+AS 2. The transaction behaves differently in background processing in a    
+   batch work process than when running in dialog (SY-BATCH is queried and 
+   changes the screen sequence).                                           
+AS 3. The transaction has undergone user-specific Customizing and          
+   therefore certain screens may be skipped or processed differently,      
+   according to the current user. If the person who created a batch input  
+   session is not the same as the person now processing it, this problem   
+   may occur frequently.                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS None.                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS For 1: Either re-create the session or process it in expert mode.       
+   Correct the batch input program.                                        
+AS For 2. It is very difficult to analyze this problem, particularly in    
+   the case that the screen sequence or the display-only options of fields 
+   differ according to whether the transaction is being processed in the   
+   background or as an online dialog. It could also be that this kind of   
+   transaction cannot run with batch input.                                
+AS For 3: Have the creator of the session process it. If no error occurs   
+   now, then this is a program with user-specific Customizing.             

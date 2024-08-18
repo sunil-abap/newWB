@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Durch Abspielen einer Batch-Input Mappe kam es zu einer synchronen      
+AS Verbuchung mit Fehler.                                                  
+AS Der Fehler wurde durch die Transaktion &V1& ausgelöst.                  
+AS Diese hat in der Mappe die laufende Nummer &V2&.                        
+AS Verbuchungsinformationen:                                               
+AS Returncode:               &V3&                                          
+AS Text      :               &V4&                                          
+U1 &SYSTEM_RESPONSE&                                                       
+U1 &WHAT_TO_DO&                                                            
+AS Bitte analysieren sie ihre Batch-Input Mappe mit der Transaktion SM35   
+AS und Funktion Mappe .                                                    
+AS Ferner können sie mit der Transaktion SM13 ihre Verbuchungssätze        
+AS kontrollieren.                                                          
+AS                                                                         

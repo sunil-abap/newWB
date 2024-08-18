@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Resposta standard em SELECT com êxito na lógica de processamento de     
+   tela                                                                    
+AS sem mensagem autodefinida.                                              
+AS Valor(es) de entrada &V1& &V2& &V3& existe(m) na tabela &V4&.           
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Só nota.                                                                
+AS                                                                         

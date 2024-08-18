@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Beim SELECT SINGLE (SAP-SQL) muß (mindestens) der vollständige          
+   Primärschlüssel der Tabelle spezifiziert sein.                          
+                                                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS SELECT SINGLE-Bedingung ist entsprechend zu vervollständigen.           

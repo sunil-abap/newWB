@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Protocole batch-input n'existe pas.                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS keine                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Vérifier le nom du protocole, affichez éventuellement l'ensemble des    
+   protocoles.                                                             

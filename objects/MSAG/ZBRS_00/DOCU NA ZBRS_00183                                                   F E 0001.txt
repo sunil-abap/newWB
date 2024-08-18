@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Il existe des mots de passe qu'il ne faut en principe pas utiliser,     
+   comme par exemple "PASS" et "SAP*".                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Utilisez un autre mot de passe.                                         

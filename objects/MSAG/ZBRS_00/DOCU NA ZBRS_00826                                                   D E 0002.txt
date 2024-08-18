@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Sie haben eine Ikone definiert. Dabei haben Sie einen Ikonen-Namen      
+   verwendet, der bereits für eine andere Ikone benutzt wird.              
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Ikone kann nicht gesichert werden.                                  
+U1 &WHAT_TO_DO&                                                            
+AS Verwenden Sie für diese Ikone einen anderen, noch nicht vergebenen      
+   Ikonen-Namen.                                                           
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

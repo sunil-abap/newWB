@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS As seguintes atividades só podem ser aplicadas a um log:                
+AS Análise                                                                 
+AS Seleção                                                                 
+AS &SYSTEM_RESPONSE& &WHAT_TO_DO&                                          
+AS Só é possível o processamento de log individual, isto é, não é possível 
+   marcar nenhumas áreas de bloco.                                         

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS COMMIT foi cancelado devido a erro de banco de dados. Assim, as ações   
+   de banco de dados são automaticamente reiniciadas desde o último        
+   COMMIT/ROLLBACK.                                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Repetir a última ação.                                                  

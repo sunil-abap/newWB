@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS You have chosen "processing in the background" and the sessions         
+   are being processed in a batch work process in the background.          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

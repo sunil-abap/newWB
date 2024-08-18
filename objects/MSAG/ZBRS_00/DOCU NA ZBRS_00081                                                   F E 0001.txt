@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS PERFORM ...ON COMMIT est appelé pendant le traitement d'une routine     
+   appelée avec PERFORM ... ON COMMIT. Cette imbrication n'est pas         
+   autorisée.                                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Le programme indiqué sous « Caller: » est à modifier. Il appelle la     
+   routine indiquée sous « Form: » pendant le traitement COMMIT. Cette     
+   routine figure dans le programme indiqué sous « Program: ».             
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

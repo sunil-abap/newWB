@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Le statut CUA ne doit pas être apposé dans un sous-écran.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Supprimez l'instruction ABAP/4 SET PF-STATUS sans la remplacer.         

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Na execução de uma instrução SQL ocorreu um erro de banco de dados      
+   indicado.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS A reação ao erro depende da sua gravidade. No log de sistema deve ser   
+   executado o texto de erro completo.                                     

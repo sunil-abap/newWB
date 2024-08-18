@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Das angesprochene Feld &V1& &V2& ist im Loop des Dynpro &V3& &V4&       
+AS nicht vorhanden.                                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Überprüfen Sie Ihre Batch-Input Daten ob ein Schreibfehler vorliegt     
+   oder sich die Feldnamen des Dynpros geändert haben.                     
+AS Loopfelder müssen im Batch-Input mit folgender Schreibweise angegeben   
+AS werden: LOOPFELD(3). Wobei '(3)' die Zeile des Loops beschreibt.        
+AS                                                                         
+AS                                                                         

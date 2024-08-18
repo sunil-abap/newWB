@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS O usuário tentou modificar novamente a senha. Contudo, isto só é        
+   possível uma vez por dia.                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Esperar até amanhã antes de modificar a senha ou contatar o             
+   administrador de usuários.                                              

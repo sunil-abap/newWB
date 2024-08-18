@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS You want to delete an icon that has already been defined.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS Deleting icons causes problems.                                         
+AS The system cannot display a where-used list for icons. Deleting icons   
+   may cause the programs or transactions used by the icons to be deleted  
+   to function incorrectly.                                                
+AS The strictly ascending order of icons can be broken, but you cannot     
+   save the deletion. If you fill in the gaps created by deleting icons    
+   with different icons, the system alsways displays these other icons     
+   instead of the deleted icons. This may be unsuitable.                   
+U1 &WHAT_TO_DO&                                                            
+AS Only delete icons if this is absolutely necessary and if you are sure   
+B1 that the icon is not yet used or                                        
+B1 that you are filling the gap that appears with an icon with the same    
+   meaning.                                                                
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

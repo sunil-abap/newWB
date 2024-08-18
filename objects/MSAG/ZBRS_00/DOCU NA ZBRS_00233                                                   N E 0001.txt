@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Foutieve waarde van veld Comm-type van tabel TXCOM.  De volgende        
+   waardes zijn toegestaan:                                                
+D1 Waarde Betekenis                                                        
+D1 ---------------------------------------------------------               
+D1 C      Communicatie via SNA/UPIC                                        
+D1 I      Communicatie via TCP/IP, partner is een R/3-systeem              
+D1 E      Communicatie via TCP/IP, partner is ern C-programma              
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS De opbouw van de CPIC-verbinding wordt afgebroken                       
+U1 &WHAT_TO_DO&                                                            
+AS Veld Comm-type corrigeren                                               

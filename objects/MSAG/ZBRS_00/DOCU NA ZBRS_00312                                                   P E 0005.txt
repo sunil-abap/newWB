@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS A pasta solicitada possui uma data de bloqueio, que ainda não excedeu.  
+   A pasta pode ser processada não antes do dia seguinte à data de         
+   bloqueio.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Eliminar a data de bloqueio ou aguardar até que a data de bloqueio      
+   exceda.                                                                 

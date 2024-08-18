@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Ce dossier ne comprend qu'un enregistrement-info. Erreur lors de la     
+   création du dossier.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Procédez à une nouvelle création du dossier.                            

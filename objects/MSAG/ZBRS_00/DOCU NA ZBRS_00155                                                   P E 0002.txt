@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Foi efetuada a tentativa de logon mas, no entanto, o mesmo usuário já   
+   efetuou logon em outro terminal.                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS Isto não é admitido pelo sistema.                                       
+U1 &WHAT_TO_DO&                                                            
+AS Selecionar outro nome de usuário, ou efetuar logon no outro terminal.   

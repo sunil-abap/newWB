@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS SAP-Gateway wurde nicht gestartet oder die Parameter zum Verbindungs-   
+   aufbau sind nicht korrekt. Verständigen Sie den Verantwortlichen.       
+U1 &SYSTEM_RESPONSE&                                                       
+AS Der Aufbau der CPIC-Verbindung wird abgebrochen.                        
+U1 &WHAT_TO_DO&                                                            
+AS SAP-Gateway starten oder die Parameter zum Verbindungsaufbau korri-     
+   gieren.                                                                 

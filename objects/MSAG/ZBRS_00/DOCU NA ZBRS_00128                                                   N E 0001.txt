@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS In deze dynpro is geen matchcodebeschrijving gevonden.                  
+U1 &WHAT_TO_DO&                                                            
+AS Dynpro opnieuw genereren. Als de fout nogmaals optredt systeembeheerder 
+   waarschuwen.                                                            

@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS No job log could be found for the selected background job. If the       
+   background job has the status 'terminated', this message indicates      
+   problems starting the background job.                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS The problems which occur when starting a background job (for example,   
+   the log cannot be created because of a capacity bottleneck), are        
+   recorded in the system log.                                             
+U1 &WHAT_TO_DO&                                                            
+AS For more precise analysis of the absence of a job log, check the system 
+   log of the application server, which ran the background job. Messages   
+   from background work processes are of particular interest here. These   
+   messages indicate when a job started and any problems that occurred     
+   during the start.                                                       

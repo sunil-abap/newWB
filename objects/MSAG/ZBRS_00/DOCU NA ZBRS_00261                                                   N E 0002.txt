@@ -1,0 +1,26 @@
+U1 &CAUSE&                                                                 
+AS Het geheugensegment in de basis-software voor de GUI-status is te klein 
+   voor de opgevraagde status. In dit segment worden vastgelegd:           
+B1 beheergegevens met een vaste lengte,                                    
+B1 menustructuur, F-toetsen en knoppen van een status,                     
+B1 de teksten van de complete interface (dus niet alleen van de status)    
+   alsmede                                                                 
+B1 de actieve en de opgevraagde excluding-lijst (<NP>SET PF-STATUS ...     
+   EXCLUDING ...</>).                                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Als tijdelijke oplossing kan bij de actuele <NP>SET                     
+   PF-STATUS</>-aanwijzing de <NP>EXCLUDING</>-toevoeging worden           
+   weggelaten.                                                             
+AS Indien het een interface met een groot aantal statussen betreft, kan de 
+   interface misschien worden opgesplitst. Dit is meestal mogelijk als de  
+   interface tot een functiegroep behoort die verschillende programma's    
+   van GUI-statussen voorziet (deze programma's roepen functiebouwstenen   
+   uit de groep op die in hoofdzaak een <NP>SET PF-STATUS</>-aanwijziging  
+   bevatten).                                                              
+AS Als de boven genoemde opties geen oplossing bieden moet uw              
+   systeembeheerder de profielparameter "ztta/cua_area" verhogen. Hierbij  
+   moet er rekening mee worden gehouden dat de profielparameter            
+   "ztta/short_area" ten minste een zesvoud van "ztta/cua_area" moet       
+   bedragen.                                                               

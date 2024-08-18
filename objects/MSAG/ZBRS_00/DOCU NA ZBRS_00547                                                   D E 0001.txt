@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Der Job, welcher in der vorliegenden Liste noch angezeigt wird, ist aus 
+   der zugrunde liegenden Datenbank-Tabelle inzwischen gelöscht worden.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Die gewünschte Aktion kann mit diesem Job nicht mehr durchgeführt       
+   werden. Der Job muss evtl. neu eingeplant werden.                       

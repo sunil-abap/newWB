@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS The command is not correct.                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Correct the command.                                                    

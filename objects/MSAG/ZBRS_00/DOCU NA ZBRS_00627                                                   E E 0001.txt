@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Before the start of the reorganization program, the system established  
+   that a server is processing batch input sessions. The system            
+   established a lock entry at BTCREORG.                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS Reorganization is not executed.                                         
+U1 &WHAT_TO_DO&                                                            
+AS Use Transaction SM12 to check whether the lock entry should exist at    
+   all. If the server specified in the lock entry is not processing any    
+   batch input sessions, you can delete the lock entry. You should then    
+   restart the reorganization program.                                     

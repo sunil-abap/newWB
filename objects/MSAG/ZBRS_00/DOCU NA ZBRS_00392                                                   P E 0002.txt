@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Na verificação de autorização foi determinado que o usuário não tem a   
+   autorização para o processamento da pasta &V1& em background.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Contatar a administração de sistema.                                    

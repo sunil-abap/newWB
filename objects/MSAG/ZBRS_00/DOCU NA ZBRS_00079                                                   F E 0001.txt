@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Le système a constaté une erreur interne lors de la sélection via       
+   matchcode.                                                              
+/  Causes probables :                                                      
+/  1. L'interface matchcode n'a pas transmis de zone clé, ou la longueur   
+   de                                                                      
+/     la zone clé est 0.                                                   
+/  2. La table RSMDY nécessaire à l'interface matchcode n'a pu être        
+/     créée.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS 1. Contrôlez la description du matchcode                                
+/  2. Contactez le responsable                                             

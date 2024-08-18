@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Die gelöschte Transaktion kann nicht mehr ausgeführt werden, selbst     
+   wenn Sie die Mappe neu starten.  Den Löschvorgang kann nicht mehr       
+   rückgängig gemacht werden.                                              

@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Er is een fout opgetreden in de CALL TRANSACTION USING of CALL DIALOG   
+   USING bij een synchrone update.                                         
+AS De fout is door de transactie &V1& veroorzaakt.                         
+AS                                                                         
+AS Update-informatie                                                       
+AS Returncode:        &V2&                                                 
+AS Tekst     :        &V3& &V4&                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Analyseer de batch-invoer-gegevens.                                     
+AS Verder kunt u met de transactie SM13 de update-records controleren.     

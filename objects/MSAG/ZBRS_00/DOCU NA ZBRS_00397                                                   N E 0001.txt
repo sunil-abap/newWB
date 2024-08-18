@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Oproep van functiebouwsteen BDC_RUNNING.                                
+AS Er is vastgesteld dat geen batchinput actief is op het opgegeven        
+   tijdstip.                                                               
+AS                                                                         
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Niets                                                                   
+AS                                                                         

@@ -1,0 +1,2 @@
+AS Whilst converting SNC names, an error occurred during execution of XPRA 
+   RSSNC40A. Note the following message.                                   

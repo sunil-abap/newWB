@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS COMMIT s'est interrompu en raison d'une erreur de la base de donnée. Les
+   actions de la base de données sont automatiquement reprises depuis le   
+   dernier COMMIT/ROLLBACK.                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Répétez la dernière action.                                             

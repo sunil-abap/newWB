@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS A seleção matchcode foi abandonada sem seleção.                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

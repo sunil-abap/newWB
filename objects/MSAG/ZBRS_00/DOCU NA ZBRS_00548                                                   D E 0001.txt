@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Damit eine begonnene Arbeitssequenz konsistent durchgeführt und         
+   abgeschlossen werden kann, erfolgt die Sperrung eines selektierten Jobs 
+   durch den SAP Sperr-Mechanismus. Beim vorliegenden Fehler ist dieser    
+   Sperrversuch fehlgeschlagen.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Die Fehlerursache kann von der vorliegenden Transaktion leider nicht    
+   genauer bestimmt werden. Zur weiteren Analyse sollte der System-Log     
+   betrachtet werden.                                                      

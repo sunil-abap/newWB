@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS You entered an inactive function code.                                  
+AS You can trigger this by:                                                
+B1 inputting directly in the OK code field<(>,<)>                          
+B1 inputting the fastpath of an inactive menu function<(>,<)>              
+B1 choosing an inactive function key, or even by                           
+B1 choosing ENTER, if ENTER has an inactive function.                      
+AS In batch input, a function code is included in field <NP>BDC_OKCODE</>  
+   of the session, as long as this function code is not assigned to ENTER. 
+AS As well as activating function codes statically in the Menu Painter     
+   (Transaction SE41), they can also be deactivated dynamically using the  
+   <NP>EXCLUDING</> addition with statement <NP>SET PF-STATUS</>.          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

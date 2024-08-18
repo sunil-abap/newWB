@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS De grenzen waarbinnen een interne tabel moet worden weergegeven, zijn   
+   fout gekozen. Opgave FROM is groter dan TO .                            
+U1 &WHAT_TO_DO&                                                            
+AS Corrigeer de input voor FROM en TO.                                     

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Sie haben versucht, Ihr Kennwort zu ändern und dabei ein Kennwort       
+   verwendet, welches Sie bereits früher einmal verwendet haben.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte wählen Sie ein anderes Kennwort.                                  

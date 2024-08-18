@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS La liste des serveurs d'application connectés est demandée par le       
+   serveur de messages. Une erreur est survenue lors de cette demande.     
+AS Les causes d'erreur possibles sont les suivantes :                      
+B1 l'envoi de cette demande n'a pas abouti                                 
+B1 le serveur d'application n'est pas connecté au serveur de message       
+B1 le serveur de message ne fonctionne pas.                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Le journal système donne des informations complémentaires sur les       
+   causes possibles d'erreurs. Lancez la transaction SM21 pour analyser    
+   les entrées ou si vous ne possédez pas d'autorisation pour cette        
+   transaction, prévenez votre administrateur système afin qu'il analyse   
+   l'erreur et l'élimine.                                                  

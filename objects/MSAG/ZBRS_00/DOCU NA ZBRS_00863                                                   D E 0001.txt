@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS WPs im PRIV-Modus belegen Heapspeicher, aus diesem Grund kann kein      
+   Roll-Out erfolgen. Der Benutzerkontext ist nun fest an den Workprozeß   
+   gebunden.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

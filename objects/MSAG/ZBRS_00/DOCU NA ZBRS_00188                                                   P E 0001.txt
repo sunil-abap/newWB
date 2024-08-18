@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Segundo uma das regras de senha, os primeiros três caracteres da senha  
+   têm de ser diferentes.                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Selecionar uma outra senha.                                             

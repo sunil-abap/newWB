@@ -1,0 +1,21 @@
+U1 &CAUSE&                                                                 
+AS Bei einer Batch-Anforderung wurde ein Programm angegeben, dessen Typ es 
+   als nicht einplanbar ausweist. Einplanbare Programme zeichnen sich      
+   insbesondere durch einen definierten Startpunkt aus (z.B. klassische    
+   ABAP-Reports oder vordefinierte Musterjobs). Nicht einplanbare          
+   Programme sind z.B. Modulpools oder Functionpools.                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS Mit dem angegebenen Programmnamen kann die Batch-Anforderung nicht      
+   erfolgreich abgeschlossen werden. Das System zeigt das                  
+   Einplanungsdynpro an, auf dem das Feld zur Eingabe des Programm-Namens  
+   eingabebereit ist, so daß hier Korrekturen vorgenommen werden können.   
+U1 &WHAT_TO_DO&                                                            
+AS Es gibt prinzipiell zwei Möglichkeiten, diese Problemsituation zu       
+   beheben:                                                                
+N1 Korrektur des Programmnamens, so daß durch den verbesserten Namen ein   
+   einplanberes Programm (d.h. ein Programm mit definierten Startpunkt)    
+   bezeichnet wird.                                                        
+N1 Korrektur der Attribute des ursprünglich angegebenen Programms. Diese   
+   Möglichkeit bietet sich an, wenn die Attribute des einzuplanenden       
+   Programms ersichtlich falsche Werte tragen. Die Korrektur der Attribute 
+   erfolgt mit Hilfe des Programm-Editors.                                 

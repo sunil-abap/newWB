@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Der von der Zentralen Benutzerwerwaltung verwendete RFC-Serviceuser hat 
+   im Tochtersystem &V2& (RFC-Destination) keine Berechtigung zur          
+   Kennwortverwaltung für den Benutzer &V1&.                               
+*  Es wurde das Berechtigungsobjekt S_USER_GRP für die Aktivität 05        
+   geprüft.                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Damit ist es nicht möglich den Benutzer einschließlich dem              
+   Kennworthashwert zu lesen.                                              
+/  Keiner der ausgewählten Benutzer wurde in die ZBV-Zentrale übernommen.  
+U1 &WHAT_TO_DO&                                                            
+AS Erweitern Sie sie Berechtigungen des Serviceusers der ZBV in dem        
+   Zielsystem.                                                             
+/  Benötigte Berechtigungwerte für Berechtigungsobjekt S_USER_GRP:         
+/(   CLASS = '*'                                                           
+/(   ACTVT = '05'                                                          
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

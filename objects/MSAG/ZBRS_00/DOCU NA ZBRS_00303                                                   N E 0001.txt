@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS De volgende activiteiten kunnen slechts op 1 map uitgevoerd worden      
+AS - Analyse                                                               
+AS - Statistiek                                                            
+AS - Queue (dump)                                                          
+AS - Verslag                                                               
+U1 &WHAT_TO_DO&                                                            
+AS Alleen afzonderlijke map verwerking is mogelijk, dwz. geen blokgebieden 
+   markeren.                                                               

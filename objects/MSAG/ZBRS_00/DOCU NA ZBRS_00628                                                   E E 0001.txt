@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS The batch input session has not been processed. A reorganization        
+   program (RSBDCREO) was running at the same time.                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check that the reorganization program is still running. If the program  
+   was terminated and there is still a lock entry, you can delete the lock 
+   entry.                                                                  

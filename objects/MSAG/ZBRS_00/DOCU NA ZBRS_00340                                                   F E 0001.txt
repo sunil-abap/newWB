@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Erreur interne au batch-input                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Cf. journal système (SYSLOG)                                            
+AS Contactez le responsable                                                

@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS '?' '!, when used as the first character of a password, have a special  
+   meaning.                                                                
+/  For this reason, you cannot use either of these characters as the first 
+   character in a password. Otherwise, it would no longer be possible to   
+   have password-based logons using SAP GUI.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Use a different password.                                               

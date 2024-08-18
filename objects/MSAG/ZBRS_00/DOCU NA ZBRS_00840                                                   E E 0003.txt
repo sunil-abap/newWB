@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS You want to start a transaction from a shortcut or URL, skip the initial
+   screen of the transaction, and continue with a non-permitted function   
+   code.                                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS You tried to start the transaction                                      
+AS &V1&                                                                    
+AS with option "Skip Initial Screen" from a SAP GUI shortcut or a URL.     
+U1 &WHAT_TO_DO&                                                            
+AS This is not permitted for this transaction with this function code.     
+U1 &SYS_ADMIN&                                                             
+AS If you require this function, contact your system administrator. For    
+   more information, See SAP Note 1956086.                                 

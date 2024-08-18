@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Some words cannot be used as passwords. These words include 'PASS' and  
+   'SAP*'.                                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Use a different password.                                               

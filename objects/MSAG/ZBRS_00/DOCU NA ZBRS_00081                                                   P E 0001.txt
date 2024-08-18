@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Durante o processamento de uma rotina chamada com PERFORM ...ON COMMIT, 
+   é novamente chamado PERFORM ... ON COMMIT. Este encaixamento não é      
+   admitido.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS O programa indicado após "Autor da chamada:" tem de ser modificado.     
+   Este chama a rotina indicada após "Rotina FORM": durante o              
+   processamento COMMIT. Esta rotina está no programa indicado após        
+   "Programa:"                                                             
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

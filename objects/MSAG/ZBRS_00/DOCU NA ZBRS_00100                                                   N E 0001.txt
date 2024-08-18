@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Foutieve opgave van FROM                                                
+U1 &WHAT_TO_DO&                                                            
+AS Waarde van FROM moet binnen de int. tabel liggen                        

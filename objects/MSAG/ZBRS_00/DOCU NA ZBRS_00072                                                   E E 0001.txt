@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS The memory on your application server is running low.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS You are exclusively using one of the few work processes running on the  
+   application server. So that this does not hinder the other users too    
+   much, the work process is released if you do not work with it for a few 
+   minutes. The system terminates the transaction, causing you to lose data
+   that you previously entered.                                            
+U1 &WHAT_TO_DO&                                                            
+AS Continue to work as normal and exit the transaction before you take a   
+   break.                                                                  

@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Une transaction est exécutée via la technique batch input.              
+U1 &SYSTEM_RESPONSE&                                                       
+AS Un erreur de durée d'exécution survient dans la zone xxx (les entrées ne
+   sont pas autorisées).                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Corrigez les données batch input correspondantes. En fonction du        
+   scénario d'exécution, cette correction peut concerner les objets        
+   suivants :                                                              
+/                                                                          
+/  ,,,,Dossier batch input                                                 
+/  ou,,Procédure CATT                                                      
+/  ou,,Programme d'application                                             

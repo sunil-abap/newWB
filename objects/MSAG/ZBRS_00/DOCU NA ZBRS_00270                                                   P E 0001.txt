@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS O status CUA não deve ser definido em uma subtela.                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Eliminação sem substituição da instrução ABAP SET PF-STATUS.            

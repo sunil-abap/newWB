@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS La tentative de charger une table dans un buffer de tables a échoué car 
+   la place est insuffisante pour les entrées.                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

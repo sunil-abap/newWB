@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Die DFIES-Schnittstelle enthält Felder mit Längenangaben: LENG,         
+   OUTPUTLEN, DECIMALS, HEADLEN, SCRLEN1, SCRLEN2, SCRLEN3. Diese Felder   
+   müssen numerisch sein, d.h. sie dürfen nur Ziffern enthalten. In dem    
+   hier vorliegenden Fall beziehen sich die DFIES-Angaben auf das Feld:    
+AS   &V1& - &V2&                                                           
+AS Mindestens eine der angegebenen Längenangaben enthält nichtnumerische   
+   Zeichen.                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Es handelt sich hier um einen Fehler in der DFIES-Schnittstelle. Die    
+   laufende Transaktion mußte abgebrochen werden.                          
+U1 &WHAT_TO_DO&                                                            
+AS Bitte melden Sie den Fehler bei SAP. Sie können ihn selber nicht        
+   beseitigen.                                                             

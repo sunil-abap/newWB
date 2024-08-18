@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Es wurde die Liste der angemeldeten Applikationsrechner vom Message     
+   Server angefordert. Bei dieser Anforderung ist ein Fehler aufgetreten.  
+AS Folgende Fehlerursachen sind moeglich :                                 
+B1 Das Senden dieser Aufforderung ist misslungen                           
+B1 Der Applikationsrechner ist nicht mit dem Message Server verbunden      
+B1 Der Message Server laeuft nicht                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Der Systemlog gibt weitere Informationen ueber die moeglichen           
+   Fehlerursachen. Starten Sie die Transaktion SM21 um die Eintraege zu    
+   analysieren oder, falls Sie keine Berechtigung fuer diese Transaktio    
+   haben, benachrichtigen Sie Ihren Systemadministrator um den Fehler z    
+   analysieren und zu beseitigen.                                          

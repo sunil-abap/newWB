@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Voor pool- en clustertabellen is momenteel slechts een selectie,        
+   ongesorteerd of oplopend op volgorde van primaire key, mogelijk.        
+   Bij een RSQL-aanvraag met afwijkende indelingscriteria worden de        
+   gevonden records altijd teruggegeven op volgorde van primiare keys.     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

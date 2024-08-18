@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Falscher Wert des Feldes Komm-Typ der Tabelle TXCOM.  Es sind folgende  
+   Werte zulässig:                                                         
+K3 Wert,,Bedeutung                                                         
+T3 C,,Kommunikation via SNA/UPIC                                           
+T3 I,,Kommunikation via TCP/IP, Partner ist ein                            
+T3 ,,R/3-System                                                            
+T3 E,,Kommunikation via TCP/IP, Partner ist ein                            
+T3 ,,C-Programm                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Der Aufbau der CPIC-Verbindung wird abgebrochen.                        
+U1 &WHAT_TO_DO&                                                            
+AS Feld Komm-Typ korrigieren.                                              

@@ -1,0 +1,6 @@
+U1 &DESCRIPTION&                                                           
+/: INCLUDE 'AA_ADA' OBJECT DOKU ID TX LANGUAGE D                           
+U1 Wertfelder                                                              
+AS Für das Reporting stellt die logische Datenbank ADA folgende            
+   Datenelemente mit Anlagenwerten zur Verfügung:                          
+/: INCLUDE 'AA_ANLCV' OBJECT DOKU ID TX LANGUAGE D                         

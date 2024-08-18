@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Die Durchführbarkeit der gewählten Bearbeitungsform ist vom Status des  
+   betroffenen Batch-Jobs abhängig. Der selektierte Batch-Job ist als      
+   beendet bzw. abgebrochen gekennzeichnet. In diesem Status ist die       
+   gewünschte Operation nicht durchführbar.                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Überprüfen Sie die Auswahl der Bearbeitung bzw. den betroffenen         
+   Batch-Job.                                                              

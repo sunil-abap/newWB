@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Erro ao processar uma pasta.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Analisar a pasta para descobrir onde ocorreu o erro. Ou processar a     
+   pasta no modo de processamento <LS>Só exibir erro</>.                   

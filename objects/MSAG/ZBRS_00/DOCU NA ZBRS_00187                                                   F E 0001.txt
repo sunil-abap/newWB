@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Le mot de passe doit avoir une longueur d'au moins 3 caractères. En     
+   fonction du paramètre système login/min_password_lng, cette longueur    
+   minimale peut être également plus grande.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Sélectionnez un mot de passe plus long.                                 

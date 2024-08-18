@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Logs selecionados foram eliminados.                                     
+AS &SYSTEM_RESPONSE&                                                       
+AS Nenhuma.                                                                
+AS &WHAT_TO_DO&                                                            
+AS Nota.                                                                   
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         

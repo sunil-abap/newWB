@@ -1,0 +1,21 @@
+U1 &CAUSE&                                                                 
+AS Deze melding wordt alleen in het batch-input-verslag uitgevoerd om      
+   Diese Meldung wird nur im Batch-Input Protokoll ausgegeben um zu        
+*  dokumentieren, daß der Benutzer in der interaktiven Batch-Input         
+*  Verarbeitung die Transaktion mit der Funktionstaste                     
+*  F3 oder F12 oder F15 verlassen hat.                                     
+*  Dies bedeutet aus Sicht des Batch-Input folgendes.                      
+*  1. Wenn Sie das Batch-Input Bestätigungspopup mit <.NEIN.> quitiert     
+*  haben:                                                                  
+*  - Die Transaktion ist erfolgreich beendet.                              
+*  - Eventuell sind die Batch-Input-Daten nicht mehr vorhanden und die     
+*    Anwenderdaten nicht gesichert.                                        
+*  2. Wenn sie das Batch-Input Bestätigunspopup mit <.JA.> quitiert haben: 
+*  - Die Transaktion ist fehlerhaft beendet.                               
+*  - Die Batch-Input Daten sind weiterhin vorhanden und die Anwenderdaten  
+*    nicht gesichert.                                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Die Funktionstasten F3 oder F12 oder F15 sind im interaktiven           
+*  Batch-Input mit Vorsicht zu gebrauchen.                                 

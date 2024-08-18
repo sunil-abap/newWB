@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Ausgabebereich beim SELECT ist zu klein für Einträge der Tabelle.       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Een geselecteerde map is niet gevonden                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS Geen                                                                    
+U1 &WHAT_TO_DO&                                                            
+AS Corrigeer de mapnaam, geef hen evt. generiek op.                        

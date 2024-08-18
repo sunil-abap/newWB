@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS A synchronous update error occurred during a batch input session.       
+/  The error occurred in the transaction &V1&.                             
+/  This has the serial number &V2& in the session.                         
+AS Update information:                                                     
+AS return code:              &V3&                                          
+AS text       :              &V4&                                          
+U1 &SYSTEM_RESPONSE&                                                       
+U1 &WHAT_TO_DO&                                                            
+AS Please analyse your batch input session using transaction SM35 and the  
+   function session.                                                       
+AS You can also examine your update records with transaction SM13.         

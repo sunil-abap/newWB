@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Each internal session needs one such extended memory slot. (Each        
+   external session can contain up to 9 internal sessions).                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

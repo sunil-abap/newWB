@@ -1,0 +1,28 @@
+U1 &CAUSE&                                                                 
+AS Das Eingabefeld enthielt unzulässige Zeichen. Dies sind im allgemeinen  
+   Zeichen, die vielleicht Ihr Frondend verarbeiten kann, die aber in der  
+   R/3-Datenbank nicht erlaubt sind.                                       
+AS Dafür kann es mehrere Gründe geben:                                     
+/  Die Menge der möglichen Zeichen sind für jeweils ein Sprachgebiet       
+   zwischen ISO, Microsoft, IBM, Apple usw. zwar ähnlich aber selten exakt 
+   gleich. Oft können Fontends noch einige spezielle Zeichen mehr eingeben 
+   und anzeigen, als in den ISO-Zeichensätzen enthalten sind.              
+AS Falls Sie ein Frondend benutzen, daß vom Sprachgebiet her nicht zum R/3 
+   paßt, an dem Sie angemeldet sind, dann gibt es viele nicht-verwendbare  
+   Zeichen auf Ihrer Tastatur.                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Das R/3-System ersetzt die nich erlaubten Zeichen durch andere,         
+   erlaubte Zeichen und gibt diese Fehlermeldung (00.077) aus. Dabei wird  
+   der Cursor bereits in die Zeile oder das Feld gestellt, in dem das      
+   nicht-erlaubte Zeichen entdeckt wurde.                                  
+U1 &WHAT_TO_DO&                                                            
+AS Wenn Sie mit dem Vorschlag einverstanden sind, wiederholen Sie einfach  
+   die letzte Funktionstaste. (Oft wird das [Enter] gewesen sein.)         
+AS Wenn Sie mit dem Vorschlag nicht einverstanden sind, ändern die die     
+   Daten ab. Verwenden Sie hierzu nur erlaubte Zeichen, sonst werden Sie   
+   die gleiche Fehlermeldung erneut erhalten.                              
+AS Falls die gewünschten Texte mit den an Ihrem Frontend erlaubt Zeichen   
+   überhaupt nicht darstellbar sind, brechen Sie die aktuelle Transaktion  
+   geeignet ab. (Meist gibt es die Taste [Abbrechen] oder [F12].)          
+/  Vielleicht gibt es ein anderes Frontend, daß die gewünschten Zeichen    
+   verarbeiten kann.                                                       

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Batch-Input Protokoll ist nicht vorhanden.                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS Keine.                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Protokollname überprüfen, eventuell alle Protokolle anzeigen.           

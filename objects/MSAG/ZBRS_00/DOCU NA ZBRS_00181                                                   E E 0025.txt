@@ -1,0 +1,22 @@
+U1 <ZH>&CAUSE&</>                                                          
+AS You entered a new password, but it does not differ from your old        
+   password by a sufficient number of characters.                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Choose a password that differs from your old password by at least &V1&  
+   characters. The password you entered differs by only &V2& characters.   
+AS <ZU>The number of different characters is calculated as follows:</>     
+AS The two strings are made to overlap as much as possible (by searching   
+   for the longest common string and rotating as necessary). The number of 
+   different characters (after comparing character-by-character) returns   
+   the number the system needs.                                            
+AS For example:,,Old password:,,"BDAFAG",,(6 characters)                   
+/  ,,,,New password:,,"ABC DBA",,(7 characters)                            
+/  ,,,,After rotation:,,"DBAABC ",,(7 characters)                          
+/  ,,,,==> Number of different characters = 4                              
+U1 &SYS_ADMIN&                                                             
+*  The system administrator can specify this value using the profile       
+   parameter <ZH>login/min_password_digits</>.                             
+/  For more documentation, refer to <ZK>Maintain Profile Parameters</>     
+   (transaction <DS:TRAN.RZ11>RZ11</>)                                     

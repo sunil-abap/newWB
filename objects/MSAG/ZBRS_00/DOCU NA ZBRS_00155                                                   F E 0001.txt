@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Vous avez tenté d'entrer dans le système alors que vous êtes déjà entré 
+   depuis un autre terminal.                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le système ne l'autorise pas.                                           
+U1 &WHAT_TO_DO&                                                            
+AS Sélectionnez un autre nom d'utilisateur ou sortez du système dans       
+   l'autre terminal.                                                       

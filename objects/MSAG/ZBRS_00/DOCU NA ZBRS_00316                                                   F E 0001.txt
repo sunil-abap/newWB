@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Dynpro demandé n'existe pas.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Aucune                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Corrigez le nom du dynpro, corrigez les données batch-input             

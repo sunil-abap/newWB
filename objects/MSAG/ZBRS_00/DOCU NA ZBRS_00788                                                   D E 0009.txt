@@ -1,0 +1,35 @@
+U1 &CAUSE&                                                                 
+AS Es wurden ein oder mehrere fehlgeschlagene Versuche unternommen, sich   
+   per Kennwort unter Ihrer Benutzerkennung am System anzumelden. Solche   
+   Fehlanmeldeversuche können von Ihnen verursacht worden sein (Tippfehler 
+   bei der verdeckten Kennworteingabe) oder ein Indiz für einen Versuch    
+   Dritter sein, Ihr Kennwort zu erraten.                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS Bei jedem fehlgeschlagenen Kennwortanmeldeversuch wird ein Zähler       
+   erhöht; nach Überschreiten eines konfigurierbaren Grenzwerts werden     
+   weitere Kennwortanmeldeversuche abgeblockt, um ein Ausspähen Ihres      
+   Kennworts zu verhindern.                                                
+AS Nach einer erfolgreichen <ZH>Kennwortanmeldung</> wird dieser Zähler    
+   zurückgesetzt. Diese Meldung teilt Ihnen den Wert vor der Löschung mit. 
+AS Wenn Sie sich auf andere Weise (nicht mittels Kennwort, sondern per     
+   Single Sign-On) am System anmelden, bleibt der Wert des Zählers         
+   unverändert erhalten. Die Anzahl der fehlgeschlagenen                   
+   Kennwortanmeldeversuche wird dann bei der nächsten Anmeldung erneut     
+   angezeigt.                                                              
+U1 &WHAT_TO_DO&                                                            
+AS Sofern Sie den Verdacht haben, dass andere Personen versuchen, Ihr      
+   Kennwort zu erraten, sollten Sie den Systembetreiber kontaktieren.      
+   Dieser kann die Anmeldevorgänge protokollieren lassen, wobei zusätzliche
+   Informationen (Zeitstempel, Netzwerkadressen, etc.) aufgezeichnet       
+   werden, die helfen können, die Ursache zu ermitteln.                    
+AS Falls Sie sich (dank Verwendung von Single Sign-On Verfahren) auch      
+   <ZH>ohne Kennwort am System anmelden</> können, sollten Sie erwägen, das
+   nicht mehr benötigte Kennwort zu deaktivieren. Mit einem deaktivierten  
+   Kennwort können weder Sie noch andere Personen sich unter Ihrer Kennung 
+   am System anmelden; weitere Kennwortanmeldeversuche werden unterbunden. 
+   Bei fehlender Möglichkeit, sich per Kennwort am System anmelden zu      
+   können, wird Ihnen diese Warnmeldung (über erfolgte fehlgeschlagene     
+   Kennwortanmeldeversuche) nicht mehr angezeigt.                          
+U1 &SYS_ADMIN&                                                             
+AS Nutzen Sie das Security Audit Log, um (fehlgeschlagene und erfolgreiche)
+   Anmeldevorgänge zu protokollieren.                                      

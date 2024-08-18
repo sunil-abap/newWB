@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS L'Eventhandler indiqué lors de l'enregistrement de la demande de service
+   n'est pas disponible.                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

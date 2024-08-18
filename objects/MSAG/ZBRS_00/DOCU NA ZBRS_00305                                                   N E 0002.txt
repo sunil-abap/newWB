@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS De geselecteerde mappen zijn vrijgegeven of geblokkeerd.                
+AS Om performance-redenen worden grote mappen in batch vrijgegeven.        
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Geen.                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Informatieve melding.                                                   

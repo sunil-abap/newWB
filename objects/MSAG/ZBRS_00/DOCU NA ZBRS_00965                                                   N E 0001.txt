@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Er is een inconsistentie opgetreden tussen de runtime-omschrijving      
+   van een object (nametab, matchcode-omschrijving) en de actuele          
+   database-situatie.                                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Het runtime-object moet opnieuw worden gegenereerd (MC-object en MC-ID  
+   activeren, tabel activeren).                                            

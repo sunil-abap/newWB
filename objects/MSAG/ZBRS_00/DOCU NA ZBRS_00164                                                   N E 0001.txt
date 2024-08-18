@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Bij het oplossen van het gebruikersprofiel is een fout opgetreden.      
+   Wellicht is het gebruikersstamrecord vernietigd.                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Waarschuw de systeembeheerder of neem contact op met SAP.               

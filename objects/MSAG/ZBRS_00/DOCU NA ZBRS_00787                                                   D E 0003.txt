@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Das System wurde für die Verwendung der regelbasierten                  
+   Zertifikatsanmeldung konfiguriert (login/certificate_mapping_rulebased =
+   1).                                                                     
+AS In diesem Fall wird die Mapping-Tabelle USREXTID nicht mehr ausgewertet;
+   es ist daher auch nicht sinnvoll, Mapping-Einträge in der Tabelle       
+   USREXTID zu pflegen.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

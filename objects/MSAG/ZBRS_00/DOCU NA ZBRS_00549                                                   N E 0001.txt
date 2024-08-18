@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS De uitvoerbaarheid van de gekozen bewerkingsvorm is afhankelijk van de  
+   status van de betroffen batchjob. De geselecteerde batchjob is als      
+   'niet-uitvoerbaar' gekenmerkt. In deze status kan de gewenste operatie  
+   niet uitgevoerd worden.                                                 
+U1 &WHAT_TO_DO&                                                            
+AS Controleer de selectie vaqn de bewerking resp. van de betroffen         
+   batchjob.                                                               

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Internal batch input error                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS See system log.                                                         

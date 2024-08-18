@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Die Anzahl der in sich verschachtelten Subscreens ist begrenzt durch    
+AS eine Systemvariable. Diese Grenze dient nur Sicherheitszwecken und      
+AS kann in den Anwendungen praktisch nie überschritten werden.             
+AS Wenn dieser Fall trotzdem eintritt, dann liegt mit hoher                
+AS Wahrscheinlichkeit ein Systemfehler vor.                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Das System reagiert mit dem Abbruch der laufenden Transaktion.          
+U1 &WHAT_TO_DO&                                                            
+AS Der eingetretene Fehler muß an SAP (Abteilung Basis) gemeldet werden.   

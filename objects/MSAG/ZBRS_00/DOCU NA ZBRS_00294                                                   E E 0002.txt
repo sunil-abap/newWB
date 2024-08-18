@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS You have entered a password that either consists of more than 8         
+   characters or contains at least one lowercase letter.                   
+*  Older systems or middleware components cannot process such passwords.   
+   Therefore, it is possible that you will not be able to log on to older  
+   systems or via an older middleware component with this password.        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS If you are certain that you are only using password-based logon for     
+   newer systems or newer middleware components, you can ignore this       
+   warning.                                                                
+*  Otherwise you should choose a different password, which should consist  
+   of no more than 8 characters and not contain any lowercase letters.     
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

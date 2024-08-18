@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS O processamento da pasta batch input foi encerrado.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS Informação                                                              
+U1 &WHAT_TO_DO&                                                            
+AS É possível voltar para a síntese da pasta ou encerrar completamente o   
+*  processamento batch input.                                              
+*                                                                          

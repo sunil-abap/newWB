@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Os campos que podem ser indicados em tabela interna LOOP AT (FROM, TO,  
+   CURSOR) têm uma categoria de dados errada.                              
+U1 &RSYSTEM_RESPONSE&                                                      
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Os campos têm de ser definidos como SY-INDEX                            
+AS Exemplo: DATA: ANFANG like sy-index.                                    

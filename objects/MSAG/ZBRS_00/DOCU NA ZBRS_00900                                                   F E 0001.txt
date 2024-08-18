@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Un erreur interne s'est produite dans l'interface de la base de données.
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Lisez le protocole système pour avoir plus d'informations.              

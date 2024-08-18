@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Os processos operacionais no modo PRIV ocupam a memória heap, por isso  
+   não é possível efetuar uma deslocação. O contexto de usuário está       
+   fixamente ligado ao processo operacional.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

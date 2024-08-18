@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS L'option "Ignorer écran initial" n'est pas autorisée p                  
+=  our la transaction &.                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS Vous avez essayé de lancer la transaction & à l'aide de l'option        
+   "Ignorer écran initial" via un raccourci de la SAP GUI, une transaction 
+   initiale ou un URL.                                                     
+U1 &WHAT_TO_DO&                                                            
+AS Cette fonction n'est pas autorisée pour cette transaction.              
+U1 &SYS_ADMIN&                                                             
+AS Si vous avez besoin de cette fonction, contactez votre administrateur   
+   système.                                                                

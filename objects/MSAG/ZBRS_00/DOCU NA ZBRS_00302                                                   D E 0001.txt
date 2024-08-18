@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Eingegebenes Datum ist nicht gültig.                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS Keine.                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Bitte berichtigen Sie das Datum.                                        

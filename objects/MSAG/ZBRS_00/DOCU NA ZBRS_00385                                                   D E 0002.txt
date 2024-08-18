@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Bei Analyse der Mappe haben Sie das Ende dieser Mappe erreicht,         
+   weiterblättern koennen Sie nicht.                                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

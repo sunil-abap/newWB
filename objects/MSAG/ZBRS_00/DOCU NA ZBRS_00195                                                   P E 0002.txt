@@ -1,0 +1,28 @@
+U1 &CAUSE&                                                                 
+AS O campo de entrada contém caracteres não permitidos. Estes são          
+   geralmente caracteres que provavelmente o frontend pode processar, mas  
+   que não são permitidos no banco de dados R/3.                           
+AS Para isso, podem existir vários motivos:                                
+/  A quantidade de caracteres possíveis é idêntica mas raramente é mesmo   
+   igual para uma área de idioma entre ISO, Microsoft, IBM, Apple, etc.    
+   Muitas vezes os frontends podem ainda entrar e exibir alguns caracteres 
+   especiais como os contidos nos sets de caracteres ISO.                  
+AS Se utilizar um frontend, que do ponto de vista da área de idioma não é  
+   compatível com R/3, então existem muitos caracteres que não podem ser   
+   utilizados no teclado.                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS O sistema R/3 substitui os caracteres não permitidos por outros         
+   caracteres permitidos e sai esta mensagem de erro (00.195 ou 00.077). O 
+   cursor é colocado na linha ou no campo, no qual foi encontrado o        
+   caractere não permitido.                                                
+U1 &WHAT_TO_DO&                                                            
+AS Se concordar com a proposta, repetir simplesmente a última tecla de     
+   função. (Geralmente [Enter].)                                           
+AS Se não concordar com a proposta, modificar os dados. Utilizar só        
+   caracteres permitidos, caso contrário obtém de novo a mesma mensagem de 
+   erro.                                                                   
+AS Se não for possível representar os textos pretendidos com os caracteres 
+   permitidos no frontend, cancelar de modo adequado a transação atual.    
+   (geralmente existe a tecla [Cancelar] ou [F12].)                        
+/  Talvez exista um outro frontend que pode processar as caracteres        
+   pretendidos.                                                            

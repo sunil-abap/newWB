@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Für Pool- und Clustertabellen ist gegenwärtig nur eine Selektion        
+   unsortiert oder in Primärschlüsselreihenfolge aufsteigend möglich. Bei  
+   einer RSQL-Anforderung mit abweichenden Ordnungskriterien werden die    
+   gefundenen Sätze immer in Primärschlüsselordnung zurückgeliefert.       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Fehler bei Erstellung einer Batch-Input Mappe.                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verantwortlichen veständigen.                                           

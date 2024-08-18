@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Não foi possível determinar o objeto matchcode para a seleção           
+   matchcode.                                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Indicar o objeto matchcode na descrição de campo na tela e gerar de     
+   novo a tela.                                                            

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS The logs selected for archiving do not have a session status "New" or   
+   "Processed".                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

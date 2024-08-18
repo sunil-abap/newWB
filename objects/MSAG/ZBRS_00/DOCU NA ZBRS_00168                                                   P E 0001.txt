@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Você tentou mudar para o modo de modificação em uma transação. Você não 
+   está autorizado para isso.                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS O sistema não permite a mudança para o modo de modificação.             
+U1 &WHAT_TO_DO&                                                            
+AS Caso o usuário deva ter a autorização para o modo de modificação da     
+   transação, contate o administrador de usuários.                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Selected logs were deleted.                                             
+AS &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+AS &WHAT_TO_DO&                                                            
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         

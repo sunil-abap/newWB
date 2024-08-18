@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS The specified database error occurred when executing a SQL statement.   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS The reaction to the error depends on its seriousness. The complete      
+   error text should be included in the system log.                        

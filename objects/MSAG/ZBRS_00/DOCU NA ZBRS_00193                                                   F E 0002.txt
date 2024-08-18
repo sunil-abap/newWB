@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Vous avez tenté de modifier votre mot de passe et utilisé un mot de     
+   passe que vous aviez auparavant déjà utilisé une fois.                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Choisissez un autre mot de passe.                                       

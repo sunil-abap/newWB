@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Batchinput verwerking is door de gebruiker afgebroken.                  
+U1 &WHAT_TO_DO&                                                            
+AS Informatie.                                                             

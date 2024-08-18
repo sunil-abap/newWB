@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS Interne fout van de batchinput monitoring                               
+AS PERFORM SEND_MSG aanpassen                                              
+U1 &WHAT_TO_DO&                                                            
+AS Noteer de foutsituatie en waarschuw de systeembeheerder.                

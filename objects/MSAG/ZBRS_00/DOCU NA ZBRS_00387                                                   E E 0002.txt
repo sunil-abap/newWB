@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS There was an error deleting the batch input log.                        
+AS With session name date time and queue ID.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Repeat the process and contact your system administrator if necessary.  

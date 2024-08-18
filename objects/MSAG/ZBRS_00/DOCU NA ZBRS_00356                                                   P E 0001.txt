@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Já não é possível executar a transação eliminada, mesmo se a pasta for  
+   executada de novo. Já não é possível anular a operação de eliminação.   

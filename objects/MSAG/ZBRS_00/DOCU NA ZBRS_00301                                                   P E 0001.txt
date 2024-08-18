@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS O cursor não está em uma linha que pode ser selecionada.                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Nenhuma.                                                                
+U1 &WHAT_TO_DO&                                                            
+AS Posicionar o cursor em uma linha da lista.                              

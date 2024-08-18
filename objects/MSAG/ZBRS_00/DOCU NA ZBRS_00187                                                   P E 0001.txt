@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS O comprimento da senha tem de ser pelo menos de 3 posições.             
+   Dependentemente do parâmetro de sistema login/min_password_lng, o       
+   comprimento mínimo da senha pode também ser superior.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Selecionar uma senha mais comprida.                                     

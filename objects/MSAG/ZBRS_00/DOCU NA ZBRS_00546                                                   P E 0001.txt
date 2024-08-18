@@ -1,0 +1,22 @@
+U1 &CAUSE&                                                                 
+AS O job selecionado está a ser processado (por exemplo, liberado ou       
+   eliminado). Para que seja possível executar e encerrar de forma         
+   consistente a sequência de trabalho iniciada, é efetuado um bloqueio de 
+   um job selecionado através do mecanismo de bloqueio SAP. Depois de um   
+   job estar bloqueado, só é possível executar as ações selecionadas (por  
+   exemplo, exibição de infos de job). O bloqueio volta a ser liberado     
+   depois do encerramento das atividades.                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS A duração temporária entre o início e o encerramento de uma ação só é   
+   geralmente curta de forma que uma nova tentativa da ação pretendida     
+   encontre um job que já não esteja bloqueado e, desta forma, seja        
+   possível executar as atividades planejadas.                             
+AS Se o bloqueio ainda estiver definido depois de várias tentativas, é     
+   aconselhável o seguinte procedimento:                                   
+N1 Com a ajuda da transação SM12 (Exibir bloqueio) considerar os bloqueios 
+   definidos para a tabela TBTCO (ao eliminar jobs liberados, também a     
+   tabela TBTCS) e determinar o usuário que está atualmente a bloquear o   
+   job pretendido.                                                         
+N1 Solicitar ao usuário determinado que encerre a ação iniciada.           

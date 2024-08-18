@@ -1,0 +1,23 @@
+U1 <ZH>&CAUSE&</>                                                          
+AS Foi entrada uma senha nova que se distingue da antiga em muito poucos   
+   caracteres.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Selecionar uma senha que se distinga da antiga em pelo menos &V1&       
+   caracteres. A senha entrada distingue-se apenas em &V2& caracteres.     
+AS <ZU>O número de caracteres diferentes está sendo calculado do seguinte  
+   modo:</>                                                                
+AS Ambas as cadeias de caracteres serão levadas (por meio de rotação) ao   
+   excedente máximo (pesquisa de cadeias de caracteres comuns mais longas).
+   O número dos caracteres diferentes (por meio de comparação da posição) é
+   o número pesquisado.                                                    
+AS Exemplo:,,senha antiga:,,"BDAFAG",,(6 caracteres)                       
+/  ,,,,senha nova:,,"ABC DBA",,(7 caracteres)                              
+/  ,,,,depois da rotação:,,"DBAABC ",,(7 caracteres)                       
+/  ,,,,==> número de caracteres diferentes = 4                             
+U1 &SYS_ADMIN&                                                             
+*  O administrador do sistema pode determinar este valor por meio do       
+   parâmetro de perfil <ZH>login/min_password_digits</>.                   
+/  Maior documentação: ver atualização do parâmetro de perfil (transação   
+   <DS:TRAN.RZ11>RZ11</>)                                                  

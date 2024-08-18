@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Das Abspielen einer Mappe ist nicht erlaubt, da diese ein Sperrdatum in 
+   der Zukunft besitzt.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Sperrdatum entsperren oder auf Tagesdatum heruntersetzen.               

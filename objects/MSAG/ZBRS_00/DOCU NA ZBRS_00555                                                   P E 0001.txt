@@ -1,0 +1,22 @@
+U1 &CAUSE&                                                                 
+AS Em uma solicitação de batch foi indicado um programa, cujo tipo não     
+   pode ser planejado. Os programas que podem ser planejados são           
+   especialmente marcados através de um ponto de partida definido (por     
+   exemplo, reports ABAP clássicos ou jobs modelo predefinidos). Os        
+   programas que não podem ser planejados são, por exemplo, pools de       
+   módulos ou pools de funções.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Com o nome do programa indicado não é possível encerrar com êxito a     
+   solicitação de batch. O sistema indica a tela de planejamento, na qual  
+   está pronto para entrada o campo para a entrada do nome do programa, de 
+   forma que seja possível efetuar aqui correções.                         
+U1 &WHAT_TO_DO&                                                            
+AS Existem em princípio duas possibilidades de corrigir esta situação de   
+   problema:                                                               
+N1 Correção do nome do programa de forma que seja marcado um programa que  
+   pode ser planejado (isto é, um programa com ponto de partida definido)  
+   através do nome corrigido.                                              
+N1 Correção dos atributos do programa originalmente indicado. Esta         
+   possibilidade existe se os atributo do programa a planejar tiverem      
+   valores claramente errados. A correção dos atributos é efetuada com a   
+   ajuda do editor de programa.                                            

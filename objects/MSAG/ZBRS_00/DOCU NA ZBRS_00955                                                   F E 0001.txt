@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Une fonction de l'interface de la base de données du noyau R/3 a été    
+   appelée avec des paramètres insuffisants ou erronés.                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Signalez le problème à SAP s'il peut être reproduit. Il s'agit en effet 
+   d'un problème interne qui ne devrait pas survenir.                      

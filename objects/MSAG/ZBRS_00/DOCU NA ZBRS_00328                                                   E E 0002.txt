@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS You have attempted to analyze a block of the batch input session which  
+   occurs outside of the available block area from 1 to &V1&.              
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Please correct the block number to that of a valid block.               
+AS                                                                         

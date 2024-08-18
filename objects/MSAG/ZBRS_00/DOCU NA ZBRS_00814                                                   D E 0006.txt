@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS Der Transaktionsstart ist in diesem logischen System nicht möglich, da  
+   die Transaktion gesperrt wurde.                                         
+AS Eine Transaktion kann entweder lokal (Customizing) seitens der          
+   Systemadministration gesperrt werden<(>,<)>                             
+/  oder bereits durch den Anwendungsentwickler gesperrt ausgeliefert       
+   werden.                                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Wenn die Transaktion trotz Sperre benötigt wird, wenden Sie sich an     
+   Ihren Systemadministrator.                                              
+U1 &SYS_ADMIN&                                                             
+AS Änderungen an derartigen Anwendungsstartsperren gelten als              
+   Modifikation.Die Pflege erfolgt mit der Transaktion SM01_DEV.           
+AS Detailinformationen finden Sie in der Anwendungungsdokumentation oder   
+   dem SAP-Hinweis 2234192.                                                

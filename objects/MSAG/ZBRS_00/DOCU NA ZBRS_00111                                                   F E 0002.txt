@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS La mémoire des données devant transmettre une partie de la liste au     
+   frontend a débordé en raison du trop grand nombre de caractères dans la 
+   fenêtre.                                                                
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Seule une partie s'affiche.                                             
+U1 &WHAT_TO_DO&                                                            
+AS Réduisez la taille de la fenêtre ou agrandissez la police.              
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

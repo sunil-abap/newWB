@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Vous avez changé de mode d'exécution dans le batch input interactif.    
+AS Il est passé de "N'afficher que les erreurs" à "Exécuter à l'écran".    
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Information                                                             

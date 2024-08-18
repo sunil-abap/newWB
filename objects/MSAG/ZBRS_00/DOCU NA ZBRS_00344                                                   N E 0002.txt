@@ -1,0 +1,26 @@
+U1 &CAUSE&                                                                 
+AS De transactie heeft een dynpro gestuurd dat niet werd verwacht in de    
+   batchinput-map en waarin dan ook geen gegevens kunnen worden ingevuld.  
+AS Mogelijke oorzaken:                                                     
+AS 1. Tijdens het opnemen van de batchinput-map is een fout gemaakt. De    
+   volgorde van de dynpro's is niet correct geregistreerd.                 
+AS 2. De transactie gedraagt zich tijdens de achtergrondverwerking in een  
+   batch-proces anders dan in dialoog (SY-BATCH wordt gecontroleerd en     
+   deze wijzigt de schermvolgorde).                                        
+AS 3. De transactie heeft een gebruikersspecifieke customizing-instelling  
+   en daarom worden schermen afhankelijk van de gebruiker                  
+   overgeslagen of anders verwerkt. Deze fout doet zich vaak voor als de   
+   auteur van een batchinput-map verschilt van degene die deze map         
+   afspeelt.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS Geen.                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Ad 1. Creëer de map opnieuw of speel deze af in de expertmodus.         
+   Corrigeer het batchinput-programma.                                     
+AS Ad 2. Deze fout is zeer moeilijk te analyseren, met name als de         
+   schermvolgorde of de invoermogelijkheid van velden bij de               
+   achtergrondverwerking anders is dan in dialoog. Wellicht is een         
+   dergelijke transactie niet geschikt voor batchinput.                    
+AS Ad 3. Laat de map afspelen door de auteur. Als hierbij geen fout        
+   optreedt, is sprake van een programma met gebruikersspecifieke          
+   customizing-instellingen.                                               

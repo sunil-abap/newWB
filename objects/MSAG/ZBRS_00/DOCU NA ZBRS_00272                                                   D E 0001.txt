@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Der Speicherbereich in der Basis-Software für den GUI-Status ist zu     
+   klein für den angeforderten Status. Genauer gesagt: Der angeforderte    
+   Status enthält Include-Menüs, die nicht mehr (vollständig) eingefügt    
+   werden können.                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS Man kann weiterarbeiten, die betroffenen Include-Menüs sind allerdings  
+   nicht verfügbar.                                                        
+U1 &WHAT_TO_DO&                                                            
+AS Ihr Systemverwalter sollte den Profile-Parameter "ztta/cua_area"        
+   maßvoll erhöhen. Dabei ist zu beachten, daß der Profile-Paramter        
+   "ztta/short_area" mindestens 6mal so groß sein muß wie "ztta/cua_area". 

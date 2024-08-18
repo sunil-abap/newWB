@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Ocorreram problemas de atualização durante a atualização. Deste modo,   
+   não foi possível definir o status de transação na pasta batch input.    
+   Caso a atualização tenha chegado ao fim com êxito, a tarefa de          
+   atualização define automaticamente na pasta o status da transação como  
+   com êxito.                                                              
+AS A transação em questão é &V1&. Esta possui na pasta o nº seqüêncial     
+   &V2&.                                                                   
+/  Informações de atualização:                                             
+/  Código de retorno: &V3&                                                 
+/  Texto     : &V4&                                                        
+/                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS A pasta é codificada como incorreta. Após a eliminação da causa para os 
+   problemas de comunicação, é necessário voltar a processar a pasta.      
+   Utilizar, para tal, a transação sm35.                                   

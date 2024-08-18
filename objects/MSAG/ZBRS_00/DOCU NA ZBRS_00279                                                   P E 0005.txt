@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Este sistema foi configurado de modo a permitir somente senhas com      
+   compatibilidade descendente em caso da atribuição de novas senhas. Isso 
+   significa: as senhas só podem conter 8 caracteres no máximo, sem        
+   minúsculas.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS O sistema não permite a atribuição de uma senha com mais de 8 caracteres
+   ou, pelo menos, uma letra minúscula.                                    
+U1 &WHAT_TO_DO&                                                            
+AS Selecione uma senha com 8 caracteres no máximo e sem minúsculas.        
+U1 &SYS_ADMIN&                                                             
+AS O parâmetro de perfil login/password_downwards_compatibility foi        
+   definido para o valor 5.                                                
+AS A fim de possibilitar a utilização de senhas com incompatibilidade      
+   descendente (até 40 caracteres com distinção entre                      
+   maiúsculas/minúsculas) em caso de modificação/atribuição da senha, é    
+   necessário definir o parâmetro de perfil                                
+   login/password_downwards_compatibility para outro valor                 

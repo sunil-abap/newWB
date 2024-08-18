@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS In einem interaktiven Batch-Input (Mappe hell abspielen oder Nur Fehler 
+   anzeigen) wurde ein Feld verändert.                                     
+AS Feldname:         &V1&                                                  
+/  Neuer Feldinhalt: &V2&                                                  
+/  Alter Feldinhalt: &V3&                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

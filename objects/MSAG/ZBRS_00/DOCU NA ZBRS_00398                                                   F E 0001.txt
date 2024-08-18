@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Caractères de remplacement pour message d'erreur btch-input. Ce message 
+AS n'est pas édité.                                                        
+AS &V1&   &V2&    &V3&      &V4&                                           
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS &WHAT_TO_DO&                                                            
+AS néant                                                                   
+AS                                                                         

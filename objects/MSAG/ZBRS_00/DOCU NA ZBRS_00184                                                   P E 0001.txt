@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS O usuário cometeu um erro de digitação na entrada de uma senha nova.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Repetir de modo idêntico a entrada da senha nova.                       

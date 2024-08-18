@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Selected folder &V1& can not be protected.  There was an                
+   error in the lock operation with the Enqueue handler.                   
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Inform your system administrator                                        

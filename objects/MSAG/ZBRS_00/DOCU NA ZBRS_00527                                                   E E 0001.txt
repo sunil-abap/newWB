@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS The feasibility of the chosen form of processing depends on the status  
+   of the background job. The selected background job is characterized as  
+   ready or active. The required operation is not feasible in this status. 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check the choice of processing or the background job.                   

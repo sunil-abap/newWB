@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Textos de erro de batch input não é saído                               
+AS Só caracter de preenchimento                                            
+U1 &WHAT_TO_DO&                                                            
+AS Nenhum                                                                  
+AS                                                                         
+AS                                                                         

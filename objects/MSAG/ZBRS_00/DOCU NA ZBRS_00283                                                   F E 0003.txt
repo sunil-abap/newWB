@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Le mot de passe saisi contient moins de &V1& minuscules.                
+/  Cette condition a été prédéterminée par l'administrateur.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Saisissez un mot de passe comprenant au moins &V1& minuscules.          
+/  Les minuscules valides sont les lettres de l'alphabet allant de a à z.  
+U1 &SYS_ADMIN&                                                             
+AS L'administrateur peut déterminer cette valeur via le paramètre de profil
+   <ZH>login/min_password_lowercase</>.                                    
+/  Autre documentation : voir la gestion des paramètres de profil          
+   (transaction <DS:TRAN.RZ11>RZ11</>).                                    

@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Pour les tables de pool et de cluster, seule une sélection sans tri ou  
+   par ordre croissant de la séquence de clé primaire est possible         
+   actuellement. Lors d'une demande RSQL ayant des critères de classement  
+   différents, les enregistrements trouvés sont toujours fournis selon le  
+   classement de la clé primaire.                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

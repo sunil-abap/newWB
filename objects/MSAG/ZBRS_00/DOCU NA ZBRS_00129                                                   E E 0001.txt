@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS The matchcode object for the matchcode selection could not be           
+   determined.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Enter the matchcode object in the field description on the screen and   
+   regenerate the screen.                                                  

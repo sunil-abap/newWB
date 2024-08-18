@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS When the batch input session was released, the system searched for      
+   relevant update requests that were still present.                       
+/  A relevant update record was found for the transaction with index &V2&  
+   in session &V1&.                                                        
+AS Once this session is released, it may get processed again AND the       
+   existing update request may still not be posted.                        
+/  This can cause duplicate data to be posted.                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS The system cannot release the session.                                  
+U1 &WHAT_TO_DO&                                                            
+AS Analyze the relevant update request using transaction SM13:             
+T1 User:,,&V3&                                                             
+/  Date Time:,,&V4&                                                        
+AS                                                                         
+AS Check whether the update record can still be posted, which would make   
+   the release unnecessary.                                                
+U1 &SYS_ADMIN&                                                             
+*                                                                          

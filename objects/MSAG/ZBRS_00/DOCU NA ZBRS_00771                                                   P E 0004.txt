@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Foi efetuado um logon de diálogo ao utilizar a funcionalidade Secure    
+   Network Communications (SNC). Simultaneamente foi indicado um usuário   
+   R/3. Contudo, o nome externo (nome SNC) fornecido pelo sistema de       
+   segurança externo ao sistema R/3 não está atribuído ao usuário indicado 
+   na tabela USRACL.                                                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS O logon é rejeitado.                                                    
+U1 &WHAT_TO_DO&                                                            
+AS Efetuar o logon com um usuário permitido, ou atribuir o nome SNC ao     
+   usuário pretendido através da atualização de usuário (SU01).            

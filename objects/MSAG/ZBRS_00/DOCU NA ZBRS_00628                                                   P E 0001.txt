@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS A pasta batch input não foi processada. Simultaneamente está a ser      
+   executado um programa de reorganização (RSBDCREO).                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verificar se o programa de reorganização ainda está a ser executado. Se 
+   for aconselhável cancelar o programa e a entrada em tabela de bloqueio  
+   ainda existir em BTCREORG, é possível eliminar esta entrada.            

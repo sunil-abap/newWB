@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Beim Auflösen der Benutzerprofile trat ein Fehler auf. Möglicherweise   
+   ist der Benutzerstammsatz zerstört.                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Benachrichtigen Sie den Systemadministrator oder die SAP.               

@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Vor dem Start des Reorganisations-Programms wurde festgestellt, daß     
+   im Moment auf einem Server Batch-Input Mappen verarbeitet werden.       
+   Das System hat einen Sperreintrag auf BTCREORG festgestellt.            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Reorganisation wurde nicht durchgeführt                                 
+U1 &WHAT_TO_DO&                                                            
+AS Überprüfen Sie mit SM12, ob der Sperreintrag zu Recht besteht. Sollte   
+   auf dem im Sperreintrag angegebenen Server keine Batch-Input            
+   Verarbeitung laufen, dann kann der Sperreintrag gelöscht werden.        
+   Starten Sie danach das Reorganisations-Programm neu.                    

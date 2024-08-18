@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Les activités suivantes peuvent être exécutées uniquement sur un        
+   dossier unique :                                                        
+AS - analyse                                                               
+AS - statistik                                                             
+AS - file d'attente (vidage mémoire)                                       
+AS - protocole                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Les dossiers ne peuvent être traités qu'individuellement. Ne marquez    
+   pas de bloc.                                                            

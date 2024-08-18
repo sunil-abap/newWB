@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Die ausgewählte Mappe &V1& kann nicht bearbeitet werden, da sie zur     
+AS Zeit anderweitig durch Benutzer &V2& bearbeitet wird und daher          
+AS geschützt ist (Enqueue).                                                
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte probieren sie es etwas später noch einmal.                        
+AS                                                                         
+AS                                                                         
+AS                                                                         

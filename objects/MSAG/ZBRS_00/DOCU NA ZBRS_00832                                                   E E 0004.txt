@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS As of Release 5.0, the logs for processed batch input sessions are      
+   stored in TemSe files and can be read from there.                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS Use transaction RZ11 to determine whether profile parameter             
+   'bdc/new_protocol' is set to 'on'.                                      
+AS Use transaction SP11 to determine whether there are TemSe objects named 
+   BDCLG*.                                                                 
+AS Use transaction SM35P (batch input log overview) to check for logs.     
+U1 &WHAT_TO_DO&                                                            
+AS If you find logs using transaction SM35P, but do not find any TemSe     
+   objects named BDCLG*, this means you are using the old process. Use     
+   report RSBDCLCH to convert the session logs from 'common log' to TemSe  
+   file.                                                                   
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

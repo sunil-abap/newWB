@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Une erreur dans la mise à jour asynchrone est survenue lors de          
+/  l'exécution d'un dossier batch input.                                   
+/                                                                          
+AS L'erreur a été déclenchée par la transaction &V1&.                      
+/  Dans le dossier, cette dernière porte le numéro &V2&.                   
+AS Informations concernant la mise à jour :                                
+/  Code retour :             &V3&                                          
+/  Texte       :             &V4&                                          
+U1 &SYSTEM_RESPONSE&                                                       
+U1 &WHAT_TO_DO&                                                            
+AS Analysez votre dossier batch input à l'aide de la transaction SM35      
+/  et de la fonction "dossier".                                            
+AS De plus, la transaction SM13 permet de contrôler vos enregistrements de 
+   mise à jour.                                                            

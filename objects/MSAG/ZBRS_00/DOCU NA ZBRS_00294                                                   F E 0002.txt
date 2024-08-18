@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS Vous avez saisi un mot de passe comportant plus de 8 caractères ou au   
+   moins une minuscule.                                                    
+*  Les systèmes antérieurs ou les composantes middleware ne sont pas en    
+   mesure de traiter de tels mots de passe. Donc, il n'est pas impossible  
+   que vous ne puissiez pas vous connecter avec ce mot de passe si la      
+   connexion a été établie via un ancien système ou une ancienne composante
+   middleware.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Si vous êtes sûr que vous établissez des connexions basées sur des mots 
+   de passe à partir de systèmes récents ou de composantes middleware      
+   récentes uniquement, vous pouvez alors ignorer cet avertissement.       
+*  Dans le cas contraire, vous devez choisir un autre mot de passe.        
+   Celui-ci doit comporter au maximum 8 caractères et l'utilisation de     
+   minuscules doit être évitée.                                            
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

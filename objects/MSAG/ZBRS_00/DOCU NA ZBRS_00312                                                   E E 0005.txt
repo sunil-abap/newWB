@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS The requested session has a lock date in the future. The session cannot 
+   be processed until the day after the lock date at the earliest.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Delete the lock date or wait until the lock date has been passed.       

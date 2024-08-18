@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Em batch input se tentou executar um posicionamento de cursor em um     
+   campo que não existe.                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Indicar um nome de campo que exista na tela.                            

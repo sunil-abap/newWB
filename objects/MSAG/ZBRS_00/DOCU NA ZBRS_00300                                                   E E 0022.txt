@@ -1,0 +1,19 @@
+AS This message is output in the batch input log to document in which mode 
+   a user is processing a session.                                         
+/                                                                          
+/  Processing information:                                                 
+/                                                                          
+T3 ,,Server,,&v4&                                                          
+/  ,,Session,,&v1&                                                         
+/  ,,User,,&v2&                                                            
+/: CASE &v3&                                                               
+/: WHEN A                                                                  
+/  ,,Mode,,&v3& (process in foreground)                                    
+/: WHEN E                                                                  
+/  ,,Mode,,&v3& (display errors only)                                      
+/: WHEN N                                                                  
+/  ,,Mode,,&v3& (process in background)                                    
+/: WHEN OTHERS                                                             
+/  ,,Mode,,&v3&                                                            
+/: ENDCASE                                                                 
+/                                                                          

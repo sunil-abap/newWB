@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Sie haben versucht, sich am System anzumelden, doch die maximale Anzahl 
+AS der Benutzer ist erreicht.                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Sorgen Sie dafür, daß sich ein anderer Benutzer abmeldet, damit Sie     
+   arbeiten können, oder erwerben Sie die eine entsprechende Licenz von    
+   der SAP AG.                                                             
+                                                                           

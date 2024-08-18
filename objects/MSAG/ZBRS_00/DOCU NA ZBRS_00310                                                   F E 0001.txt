@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Vosua vez demandé l'exécution du dossier sans avoir précisé le type de  
+   traitement.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Sélectionnez un type de traitement.                                     

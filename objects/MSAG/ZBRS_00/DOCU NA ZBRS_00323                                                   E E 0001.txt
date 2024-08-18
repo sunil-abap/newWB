@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS The following activities can only be used on a log:                     
+AS Analysis                                                                
+AS Selection                                                               
+AS &SYSTEM_RESPONSE& &WHAT_TO_DO&                                          
+AS Only individual log processing is possible, that is, no block areas can 
+   be selected.                                                            

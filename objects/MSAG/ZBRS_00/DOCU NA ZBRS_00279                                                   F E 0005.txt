@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS Ce système a été configuré pour que, lors de l'attribution de nouveaux  
+   mots de passe, seuls les mots de passe à compatibilité descendante      
+   soient autorisés. Cela signifie que les mots de passe doivent se        
+   composer au maximum de 8 caractères et ne contenir aucune lettre        
+   minuscule.                                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le système n'autorise pas l'attribution de mots de passe se composant de
+   plus de 8 caractères ou d'au moins une lettre minuscule.                
+U1 &WHAT_TO_DO&                                                            
+AS Sélectionnez un mot de passe se composant au maximum de 8 caractères et 
+   ne contenant aucune lettre minuscule.                                   
+U1 &SYS_ADMIN&                                                             
+AS Le paramètre de profil login/password_downwards_compatibility a été     
+   activé sur la valeur 5.                                                 
+AS Pour permettre l'utilisation de mots de passe ayant une incompatibilité 
+   descendante (jusqu'à 40 caractères avec distinction lettres majuscules/ 
+   lettres minuscules), activez le paramètre de profil                     
+   login/password_downwards_compatibility sur une autre valeur.            

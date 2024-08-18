@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS O usuário pretende eliminar um ícone já definido.                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS A eliminação de ícones é problemática.                                  
+AS Uma lista de utilizações para ícones não é possível. A eliminação de    
+   ícones pode desta forma levar a que os programas/transações que         
+   utilizam ícones a eliminar já não funcionem corretamente.               
+AS A sequência ascendente sem lacunas pode ser interrompida, não é         
+   possível gravar a eliminação. Se a lacuna originada pela eliminação for 
+   encerrada através de um outro ícone, este outro ícone é sempre exibido  
+   no lugar do ícone eliminado. Isto pode ser inconveniente.               
+U1 &WHAT_TO_DO&                                                            
+AS Eliminar ícones só em caso de necessidade e só se o usuário tiver a     
+   certeza                                                                 
+B1 que estes ícones ainda não são utilizados ou                            
+B1 que a lacuna ocorrida é fechada com um ícone com o mesmo significado.   
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

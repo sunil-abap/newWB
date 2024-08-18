@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS You attempted to change your password and used one which you have       
+   already used before.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Choose another password.                                                

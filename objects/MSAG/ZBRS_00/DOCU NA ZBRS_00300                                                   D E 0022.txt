@@ -1,0 +1,19 @@
+AS Diese Meldung wird im Batch-Input Protokoll ausgegeben um zu            
+   dokumentieren welcher Benutzer spielt in welchem Modus die Mappe ab.    
+/                                                                          
+/  Informationen zum Abspielen:                                            
+/                                                                          
+T3 ,,Server,,&v4&                                                          
+/  ,,Mappe,,&v1&                                                           
+/  ,,Benutzer,,&v2&                                                        
+/: CASE &V3&                                                               
+/: WHEN A                                                                  
+/  ,,Modus,,&v3& (Sichtbar abspielen)                                      
+/: WHEN E                                                                  
+/  ,,Modus,,&v3& (Nur Fehler anzeigen)                                     
+/: WHEN N                                                                  
+/  ,,Modus,,&v3& (Abspielen im Hintergrund)                                
+/: WHEN OTHERS                                                             
+/  ,,Modus,,&v3&                                                           
+/: ENDCASE                                                                 
+/                                                                          

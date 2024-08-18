@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Comand is too long.                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Please correct your batch input data.                                   

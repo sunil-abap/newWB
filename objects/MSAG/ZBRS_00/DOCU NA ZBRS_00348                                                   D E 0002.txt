@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Einem Dynprofeld wurde per Batch-Input mit einem längeren Feldinhalt    
+   versorgt.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Korrigieren Sie den Feldinhalt in den Batch-Input Daten.                

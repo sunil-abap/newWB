@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS In de database-interface is een inconsistentie toestand geconstateerd.  
+                                                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Meld dit probleem aan SAP.                                              

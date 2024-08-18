@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Caractere de preenchimento para o texto de erro batch input, esta       
+   mensagem não é saída.                                                   
+AS &V1&   &V2&    &V3&      &V4&                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

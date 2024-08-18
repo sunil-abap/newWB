@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Pour permettre le déroulement suivi d'une séquence de travail, le       
+   système SAP procède au blocage du job sélectionné à l'aide du mécanisme 
+   de blocage qui lui est propre. Dans le cas présent, ce mécanisme n'a    
+   pas fonctionné.                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS La cause de l'erreur ne malheureusement pas être définie de manière     
+   plus pointue. Le complément d'analyse est indiqué dans le journal       
+   système (SYSLOG).                                                       

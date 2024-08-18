@@ -1,0 +1,20 @@
+U1 &CAUSE&                                                                 
+AS Das System wurde nicht für SAP Anmeldetickets konfiguriert:             
+AS mindestens einer der beiden Parameter login/create_sso2_ticket bzw.     
+   login/accept_sso2_ticket besitzt zur Zeit den Wert 0.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Verwendung von SAP Anmeldetickets ist nicht möglich.                
+AS Ebenso fehlt daher die Single-SignOn Unterstützung bei Verwendung von   
+   SAPGUI HTML Control und Aufrufen lokaler ICF-Services (siehe SAP-Hinweis
+   612670).                                                                
+U1 &WHAT_TO_DO&                                                            
+AS Verständigen Sie den Systemadministrator.                               
+U1 &SYS_ADMIN&                                                             
+AS <DS:TRAN.RZ11>Prüfen Sie die Werte der beiden Profilparameter</> und    
+   setzen Sie sie auf geeignete Werte, z.B.                                
+B1 login/create_sso2_ticket = 2                                            
+B1 login/accept_sso2_ticket  = 1                                           
+AS Nach dem Setzen der Profilparameter (mittels <DS:TRAN.RZ10>Transaktion  
+   RZ10</>) müssen Sie allerdings den Applikationsserver neu starten, damit
+   die neuen Werte aktiv werden.                                           
+AS                                                                         

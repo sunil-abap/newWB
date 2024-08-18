@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Ausgewählte Mappe &V1& kann nicht geschützt werden.  Es gab einen       
+   Fehler in der Sperroperation mit dem Enqueuehändler.                    
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verständigen sie ihren Systemadministrator                              

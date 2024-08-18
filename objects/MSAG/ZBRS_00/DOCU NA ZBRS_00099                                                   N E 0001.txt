@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Velden die bij LOOP AT int. tab. opgegeven kunnen worden (FROM, TO,     
+   CURSOR) hebben een foutief data-type.                                   
+U1 &WHAT_TO_DO&                                                            
+AS De velden moeten gedefinieerd worden als SY-INDEX                       
+AS Voorbeeld: DATA: BEGIN like sy-index.                                   

@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Les valeurs de saisie doivent être enregistrées dans la table &V4&. La  
+   valeur ou les valeurs "&V1& &V2& &V3&" ne sont pas créée(s) dans cette  
+   table.                                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+U1 Vérifiez et corrigez si nécessaire l'entrée.                            
+U1 &SYS_ADMIN&                                                             
+AS En cas d'erreur de saisie, vérifiez et modifier si nécessaire le        
+   paramétrage système.                                                    
+AS Si un lien au système de customizing est géré, vous pouvez gérer le     
+   paramétrage système via le bouton "Customizing" dans le Performance     
+   Assistant ou via <PF>Gérer entrées</> (<PF>F5</>) dans l'affichage de   
+   l'aide dans la fenêtre modale.                                          

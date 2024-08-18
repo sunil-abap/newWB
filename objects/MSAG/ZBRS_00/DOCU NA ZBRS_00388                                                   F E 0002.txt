@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Vous avez sélectionné la fonction d'exécution en batch : les dossiers   
+   sont exécutés à l'arrière-plan par un processus de travail batch.       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            

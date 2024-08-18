@@ -1,0 +1,33 @@
+U1 &CAUSE&                                                                 
+AS Foi executada uma ou várias tentativas falhadas de efetuar o logon no   
+   sistema através da senha com o seu ID do usuário. Essas tentativas de   
+   logon falhadas podem ter sido causadas por você (erro de digitação na   
+   entrada oculta da senha) ou um indício para uma tentativa de terceiros  
+   para descobrirem sua senha.                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Em cada tentativa de logon com a senha falhada, o contador aumenta; ao  
+   exceder um valor limite configurável, as tentativas seguintes de efetuar
+   o logon com a senha são bloqueadas, para evitar a divulgação da sua     
+   senha.                                                                  
+AS Após um <ZH>logon com a senha</> correto, esse contador é               
+   reinicializado. Esta mensagem comunica o valor antes da eliminação.     
+AS Se você efetuar de outro modo o logon no sistema (não mediante a senha, 
+   mas por Single Sign-On), o valor do contador permanece igual. O número  
+   de tentativas falhadas de logon com senha será exibido de novo no logon 
+   seguinte.                                                               
+U1 &WHAT_TO_DO&                                                            
+AS Se você suspeitar que outras pessoas estão tentando descobrir sua senha,
+   contate o operador do sistema. Ele pode registrar em log as operações de
+   logon, e as informações adicionais (registro da hora, endereços de rede,
+   etc.) serão registradas, para que possam ajudar a determinar a causa.   
+AS Caso você também possa efetuar <ZH>logon no sistema sem senha</>        
+   (utilizando o procedimento Single Sign-On), deverá ponderar a           
+   desativação da senha desnecessária. Com uma senha desativada, nem você  
+   nem outras pessoas podem efetuar logon no sistema com a sua             
+   identificação; outras tentativas de logon com a senha são suprimidas.   
+   Caso você não tenha a possibilidade de efetuar o logon no sistema por   
+   senha, esta mensagem de advertência já não lhe é exibida (sobre         
+   tentativas falhadas de logon com a senha).                              
+U1 &SYS_ADMIN&                                                             
+AS Utilize o log de auditoria de segurança, para registrar em log operações
+   de logon (falhadas e corretas).                                         

@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Sie haben eine Ikone definiert. Der interne Name der Ikone enthält      
+   unzulässige Zeichen.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Ikone kann nicht gesichert werden.                                  
+U1 &WHAT_TO_DO&                                                            
+AS Der interne Name von Ikonen darf folgende Zeichen enthalten:            
+B1 Buchstaben  A bis Z                                                     
+B1 Unterstrich _                                                           
+AS Der interne Name von Ikonen darf kein Space enthalten.                  
+AS Korrigieren Sie den internen Namen der Ikone entsprechend und sichern   
+   Sie erneut.                                                             
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

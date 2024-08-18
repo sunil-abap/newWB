@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS L'opération (INSERT ou UPDATE) que vous avez essayé d'exécuter a échoué 
+   en raison de la non-univocité de la clé primaire ou d'un index qui n'est
+   pas défini comme UNIQUE.                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vérifiez votre programme ABAP/4.                                        

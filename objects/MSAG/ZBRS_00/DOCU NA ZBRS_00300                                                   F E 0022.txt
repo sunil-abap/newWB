@@ -1,0 +1,19 @@
+AS Ce message est édité dans le protocole batch input. Il permet de        
+   communiquer l'auteur et le mode d'exécution du dossier.                 
+/                                                                          
+/  Informations relatives à l'exécution :                                  
+/                                                                          
+T3 ,,serveur,,v4&                                                          
+/  ,,dossier,,&v1&                                                         
+/  ,,utilisateur,,&v2&                                                     
+/: CASE &v3&                                                               
+/: WHEN A                                                                  
+/  ,,mode,,&v3& (exécuter à l'écran)                                       
+/: WHEN E                                                                  
+/  ,,mode,,&v3& (afficher errreurs uniquement)                             
+/: WHEN N                                                                  
+/  ,,mode,,&v3& (exécuter en arrière-plan)                                 
+/: WHEN OTHERS                                                             
+/  ,,mode,,&v3&                                                            
+/: ENDCASE                                                                 
+/                                                                          

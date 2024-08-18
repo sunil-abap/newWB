@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Das Ausführen der Transaktion wurde durch eine Systemkonfiguration      
+AS unterbunden (durch den sogenannten Blacklist Monitor).                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vermeiden Sie die Verwendung dieser Transaktion, oder wenden Sie sich an
+AS Ihren Systemadministrator.                                              
+U1 &SYS_ADMIN&                                                             
+AS Weitere Informationen zum Blacklist Monitor finden Sie insbesondere im  
+AS Hinweis 2476734.                                                        
+AS                                                                         

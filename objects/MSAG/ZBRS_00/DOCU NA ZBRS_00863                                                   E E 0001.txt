@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Work processes in PRIV mode occupy heap memory. For this reason, the    
+   system cannot perform a roll out. The user context is now fixed to the  
+   work process.                                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

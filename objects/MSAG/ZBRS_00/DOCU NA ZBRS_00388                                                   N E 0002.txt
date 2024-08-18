@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS U hebt "Afspelen op de achtergrond" gekozen: De mappen worden in een    
+   batch-werkproces op de achtergrond uitgevoerd.                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

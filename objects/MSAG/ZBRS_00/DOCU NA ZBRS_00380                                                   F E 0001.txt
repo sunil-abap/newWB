@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS L'exécution du dossier n'est pas autorisée, pusiqu'il comporte une date 
+   de blocage définie dans l'avenir.                                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Annulez la date de blocage ou définissez la date du jour.               

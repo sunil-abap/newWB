@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS SAP-gateway is niet gestart of de parameters voor de verbindingsopbouw  
+   zijn niet correct. Waarschuw de systeembeheerder.                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS De opbouw van de CPIC-verbinding wordt afgebroken                       
+U1 &WHAT_TO_DO&                                                            
+AS SAP-gateway starten of de parameters voor verbindingsopbouw corrigeren. 

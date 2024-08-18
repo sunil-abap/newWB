@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS There is no entry in the Nametab for the specified name.                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS The table should be defined and activated using the Dictionary.         

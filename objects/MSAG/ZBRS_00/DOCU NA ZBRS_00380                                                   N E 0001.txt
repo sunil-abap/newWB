@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS Inlezen van een map is niet toegestaan omdat deze een blokkeerdatum in  
+   de toekomst heeft.                                                      
+U1 &WHAT_TO_DO&                                                            
+AS Blokkeerdatum deblokkeren of tot de dagdatum verlagen.                  

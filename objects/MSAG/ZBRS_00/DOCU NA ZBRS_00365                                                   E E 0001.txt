@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Statistical information after processing a batch input session.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS You can analyze the session in order to find out where the errors       
+   occurred.                                                               

@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Em um grupo de campos de seleção tem de estar exatamente definido um    
+   campo (ou seja, o valor 'X').                                           
+AS Se nenhum campo de seleção estiver definido, o sistema define por       
+   default o primeiro campo do grupo.                                      
+AS Se estiver definido mais de um campo, ocorre um cancelamento. Esta      
+   situação ocorreu agora mesmo.                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS Ocorre um cancelamento de transação.                                    
+U1 &WHAT_TO_DO&                                                            
+AS Se trata de um erro de programa.                                        
+AS O campo &V1&                                                            
+AS está definido (este campo tem o foco no momento do erro), enquanto já   
+   existe um campo definido no mesmo grupo de campos de seleção. O erro é  
+   corrigido no programa ao ter em conta que tem de estar definido         
+   exatamente um campo em um grupo de campos de seleção.                   

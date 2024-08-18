@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Une connexion interactive est effectuée via la fonctionnalité SNC       
+   (Secure Network Communication). La table USRACL ne contient aucun       
+   utilisateur R/3 pour le nom d'utilisateur (nom SNC) livré par le        
+   système de sécurité externe relatif au système R/3.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS La connexion est refusée.                                               
+U1 &WHAT_TO_DO&                                                            
+AS Le nom SNC en tant que nom externe doit être affecté à un utilisateur   
+   via la gestion des utilisateurs (SU01).                                 

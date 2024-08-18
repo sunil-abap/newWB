@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Behoeft geen toelichting.                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

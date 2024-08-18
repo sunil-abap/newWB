@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS La tentative de reprendre la dernière transaction de la base de données 
+   a été interrompue en raison d'une erreur SQL.                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS On peut supposer que le traitement du processus concerné ne peut pas se 
+   poursuivre dans ce cas d'erreur. La transaction devrait être reprise    
+   automatiquement du système de base de données.                          

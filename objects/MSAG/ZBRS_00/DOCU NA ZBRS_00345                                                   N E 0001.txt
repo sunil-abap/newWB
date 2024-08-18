@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Batchinput-verwerking is beëindigd                                      
+U1 &WHAT_TO_DO&                                                            
+AS Informatie.                                                             

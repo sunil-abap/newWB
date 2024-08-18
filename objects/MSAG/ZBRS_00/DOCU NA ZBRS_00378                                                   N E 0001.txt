@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Inlezen van een map is niet toegestaan omdat deze al in bewerking is.   
+U1 &WHAT_TO_DO&                                                            
+AS Wacht tot de genoemde map is ingelezen.                                 

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Ocorreu uma inconsistência entre a descrição do tempo de execução de um 
+   objeto (Nametab, descrição de matchcode) e a situação atual do banco de 
+   dados.                                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS O objeto de tempo de execução deve ser gerado de novo (ativar objeto MC 
+   e ID MC, ativar tabela).                                                

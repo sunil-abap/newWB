@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS Het matchcode object voor de matchcodeselectie kon niet bepaald worden. 
+U1 &WHAT_TO_DO&                                                            
+AS In de veldbeschrijving in de dynpro het matchcode object opgeven en de  
+   dynpro opnieuw genereren.                                               

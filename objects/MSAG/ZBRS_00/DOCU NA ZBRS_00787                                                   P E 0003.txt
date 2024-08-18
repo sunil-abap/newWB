@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS O sistema foi configurado para a utilização do logon de certificado     
+   baseado na regra (login/certificate_mapping_rulebased = 1).             
+AS Neste caso, a tabela de mapeamento USREXTID já não será analisada, por  
+   isso, também não é pertinente atualizar entradas de mapeamento na tabela
+   USREXTID.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

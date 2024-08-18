@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Esta mensagem é saída no início de cada etapa job e, desta forma, pode  
+   ser tipicamente encontrada em um log de job.                            
+AS Esta mensagem significa que a etapa V1& está a ser executada. Os outros 
+   parâmetros fornecem indicações mais detalhadas sobre a própria etapa:   
+AS - O programa ABAP executado nesta etapa (aqui: &V2&)                    
+AS - Os parâmetros correspondentes (aqui: &V3&)                            
+AS   Se este campo estiver vazio, o programa &V2& não necessita de nenhuns 
+   parâmetros.                                                             
+AS - O nome do usuário, com cujas autorizações é executado o programa      
+     &V2& (aqui: &V4&)                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

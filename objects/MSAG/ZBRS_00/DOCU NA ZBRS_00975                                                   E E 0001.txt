@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS COMMIT terminated due to a database error. The database activities      
+   since the last COMMIT/ROLLBACK are rolled back automatically.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Repeat the last action.                                                 

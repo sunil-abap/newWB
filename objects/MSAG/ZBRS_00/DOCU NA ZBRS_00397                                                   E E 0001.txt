@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Function module BDC_RUNNING:                                            
+AS It was found that no batch input is active at the specified time.       
+AS                                                                         
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+AS                                                                         

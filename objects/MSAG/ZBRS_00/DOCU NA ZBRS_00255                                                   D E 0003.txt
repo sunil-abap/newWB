@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS Es wurde ein Funktionscode eingegeben, der inaktiv ist.                 
+AS Dies kann ausgelöst werden:                                             
+B1 durch direkte Eingabe im OK-Code-Feld<(>,<)>                            
+B1 durch Eingabe der Direktanwahl einer inaktiven Menüfunktion<(>,<)>      
+B1 durch Drücken einer inaktiven Funktionstaste und sogar                  
+B1 durch Drücken von ENTER, falls nämlich ENTER mit einer inaktiven        
+   Funktion belegt wurde.                                                  
+AS Bei Batch-Input wird ein Funktionscode, sofern er nicht auf ENTER liegt,
+   im Feld <NP>BDC_OKCODE</> der Mappe mitgegeben.                         
+AS Außer statisch im Menu Painter (Transaktion SE41) können Funktionscodes 
+   auch dynamisch deaktiviert werden, und zwar durch den <NP>EXCLUDING     
+=  </>-Zusatz bei der Anweisung <NP>SET PF-STATUS</>.                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Não foi encontrada uma pasta selecionada. É procurada uma pasta com     
+   status 'Novo' ou 'Incorreto'. Só é possível processar pastas com estes  
+   status.                                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS Nenhuma.                                                                
+U1 &WHAT_TO_DO&                                                            
+AS Corrigir o nome da pasta, eventualmente com uma entrada genérica.       

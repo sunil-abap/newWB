@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS O usuário tenta analisar um bloco da pasta batch input que está fora da 
+   área de bloco existente 1 até &V1&.                                     
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Corrigir o nº de bloco em um bloco válido.                              
+AS                                                                         

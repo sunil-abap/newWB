@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS The system was configured for the use of the rule-based certificate     
+   logon (login/certificate_mapping_rulebased = 1).                        
+AS In this case, the mapping table USREXTID is not evaluated. It does not  
+   make sense to maintain mapping entries in the table USREXTID.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Der Versuch, die letzten DB-Transaktion zurückzunehmen, brach eines     
+   SQL-Fehlers wegen ab.                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Man kann davon ausgehen, daß in diesem Fehlerfall der betroffene        
+   Prozeß nicht weiterarbeiten kann. Die Transaktion sollte dann vom       
+   Datenbanksystem automatisch zurückgerollt werden.                       

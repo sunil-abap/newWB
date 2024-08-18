@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Ao carregar as telas &V1& &V2& foram verificados os marcadores de tempo 
+   das tabelas utilizadas na tela. Pelo menos, um marcador de tempo não    
+   está correto. Por isso, a tela foi gerada de novo e, desta forma, o     
+   marcador de tempo das tabelas utilizadas foi transferido do Data        
+   Dictionary.                                                             
+AS Depois da geração, os marcadores de tempo foram verificados de novo.    
+   Desta forma, foram determinadas novamente inconsistências do marcador   
+   de tempo.                                                               
+AS Isto acontece se, durante a geração, a tabela for modificada ou ativada 
+   no Data Dictionary.                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS A transação é cancelada.                                                
+U1 &WHAT_TO_DO&                                                            
+AS Chamar de novo a transação.                                             

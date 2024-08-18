@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Não foi possível criar um file de arquivo novo.                         
+*  É possível que o conjunto de nomes para files de arquivo do objeto      
+   esteja completo ou que o sistema operacional não possa gerar o file.    
+*                                                                          
+*                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

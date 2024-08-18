@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Vous avez fait une erreur de frappe lors de la saisie du nouveau mot de 
+   passe.                                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Répétez votre saisie du nouveau mot de passe.                           

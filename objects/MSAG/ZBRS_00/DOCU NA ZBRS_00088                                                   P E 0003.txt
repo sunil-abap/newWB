@@ -1,0 +1,28 @@
+U1 &CAUSE&                                                                 
+AS A entrada não corresponde à máscara de entrada indicada.                
+U1 &SYSTEM_RESPONSE&                                                       
+AS A entrada neste campo será rejeitada.                                   
+U1 &WHAT_TO_DO&                                                            
+AS A entrada tem que corresponder ao padrão. Os seguintes caracteres de    
+   padrão                                                                  
+AS têm um significado especial:                                            
+D1 <zh>_ (sublinhado) </> neste ponto deve estar um caractere de entrada;  
+   em campos numéricos, esse caractere deve ser um número.                 
+D1 <zh>, (vírgula decimal):</> é válida para campos numéricos e registro da
+   hora do tipo UTCLONG; aqui está a vírgula decimal ou o ponto decimal    
+   (configuração no registro mestre do usuário).                           
+D1 <zh> . (Separador de milhares):</> é válido para campos numéricos; aqui 
+   (opcionalmente), o separador representa 3 números. Dependendo da        
+   configuração no registro mestre do usuário, este é um ponto ou uma      
+   vírgula.                                                                
+D1 <zh>V:</> é válido para campos numéricos: aqui está o sinal             
+   positivo/negativo; caso esteja previsto um, ele deve estar na margem    
+   direita do campo. O sinal positivo/negativo é '-' ou ' ‘ (espaço em     
+   branco)                                                                 
+D1 <zh>~ (til):</> é válido para campos numéricos; a partir desta posição  
+   para a direita (inclusive), também devem ser inseridos zeros principais.
+   Caso contrário, este caractere tem o mesmo significado que o sublinhado.
+   Os zeros principais não podem ser inseridos normalmente, ou seja, à     
+   esquerda do til. Nesta posição, eles também não são saídos.             
+AS Todos os outros caracteres são autônomos e, na entrada, devem estar na  
+   posição que no padrão.                                                  

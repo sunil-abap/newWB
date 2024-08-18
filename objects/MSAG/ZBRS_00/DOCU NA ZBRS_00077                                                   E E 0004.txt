@@ -1,0 +1,28 @@
+U1 &CAUSE&                                                                 
+AS The input field contains prohibited character formats. In general,      
+   these are character formats that your frontend may be able to process.  
+   However, they are not allowed in the R/3 database.                      
+AS There can be several reasons for this:                                  
+/  ISO, Microsoft, IBM, Apple and so on often have a similar number of     
+   character formats for a particular language set, but rarely the same    
+   number. You can often enter and display more character formats than     
+   there are included in the ISO character sets.                           
+AS If you are using a frontend that is installed for a different language  
+   set than the R/3 system which you have logged onto, then there are      
+   several character formats on your keyboard that you cannot use.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS The R/3 System replaces the prohibited character formats with other,    
+   permitted character formats and outputs this error message (00.777).    
+   The system places the cursor in the line or the field where the         
+   prohibited character format is located.                                 
+U1 &WHAT_TO_DO&                                                            
+AS If you agree with the proposal, re-select the last function key used    
+   this is often [Enter]).                                                 
+AS If you do not agree with the proposal, change the data. Only use        
+   permitted character formats, otherwise you will receive the same error  
+   message again.                                                          
+AS If the required texts cannot be displayed with the character formats    
+   permitted on your front-end, terminate the current transaction as       
+   appropriate (by choosing the [Escape] key or [F12]).                    
+/  There may be another front-end that can process the character formats   
+   required.                                                               

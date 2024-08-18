@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS L'exécution du dossier de batch-input est terminé.                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS Information                                                             
+U1 &WHAT_TO_DO&                                                            
+AS Vous pouvez retourner à la synthèse des dossiers ou terminer le         
+*  traitement batch input complètement.                                    
+*                                                                          

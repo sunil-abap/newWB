@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS A partir de la version 5.0, les protocoles des dossiers batch input     
+   exécutés sont archivés dans les fichiers TemSe et par conséquent, leur  
+   lecture y est effectuée.                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS contrôlez en utilisant le code de transaction RZ11 si le paramètre de   
+   profil 'bdc/new_protocol' a la valeur 'on' ;                            
+AS contrôlez en utilisant le code de transaction SP11, si des objets TemSe 
+   portant le nom BDCLG* existent ;                                        
+AS contrôlez en utilisant le code de transaction SM35P  - synthèse des     
+   protocoles batch input - , si des protocoles existent.                  
+U1 &WHAT_TO_DO&                                                            
+AS Si vous trouvez des protocoles en utilisant le code de transaction      
+   SM35P et aucun objet TemSe mit BDCLG*, cela signifie que vous utilisez  
+   encore l'ancien procédé. Le programme RSBDCLCH vous permet de convertir 
+   les protocoles des dossiers de 'common log' au fichier TemSe.           
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

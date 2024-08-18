@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Die Grenzen in denen eine interne Tabelle angezeigt werden soll sind    
+   falsch gewählt. Angabe FROM ist größer als TO .                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte korrigieren Sie die Angaben für FROM und TO.                      

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Informations statistiques après exécution d'un dossier batch-input      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Information                                                             

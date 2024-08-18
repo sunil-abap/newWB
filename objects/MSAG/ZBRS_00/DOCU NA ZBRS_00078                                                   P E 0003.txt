@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS A interface DFIES contém campos com indicações de comprimento: LENG,    
+   OUTPUTLEN, DECIMALS, HEADLEN, SCRLEN1, SCRLEN2, SCRLEN3. Estes campos   
+   devem ser numéricos, ou seja, só devem conter algarismos. No presente   
+   caso, as indicações DFIES se referem ao campo:                          
+AS   &V1& - &V2&                                                           
+AS Pelo menos uma das indicações de comprimento indicada contém caracteres 
+   não numéricos.                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS Se trata de um erro na interface DFIES. A transação atual teve de ser   
+   cancelada.                                                              
+U1 &WHAT_TO_DO&                                                            
+AS Comunicar o erro à SAP. Este erro não pode ser corrigido pelo usuário.  

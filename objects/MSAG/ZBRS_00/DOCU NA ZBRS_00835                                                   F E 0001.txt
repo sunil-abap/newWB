@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Les protocoles sélectionnés pour les archiver ne possèdent pas le       
+   statut de dossier « Nouveau » ou « Traité ».                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

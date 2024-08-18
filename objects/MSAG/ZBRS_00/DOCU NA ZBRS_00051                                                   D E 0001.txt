@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS In einer Gruppe von Auswahlfeldern muß immer genau ein Feld gesetzt     
+   sein (d.i. der Wert 'X').                                               
+AS Wenn kein Auswahlfeld gesetzt ist, dann setzt das System defaultmäßig   
+   das erste Feld aus der Gruppe.                                          
+AS Wenn mehr als ein Feld gesetzt ist, dann findet ein Abbruch statt.      
+   Diese Situation ist soeben eingetreten.                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS Es findet ein Transaktionsabbruch statt.                                
+U1 &WHAT_TO_DO&                                                            
+AS Es handelt sich um einen Programmfehler.                                
+AS Das Feld &V1&                                                           
+AS ist gesetzt (dieses Feld besitzt zum Fehlerzeitpunkt den Focus), wobei  
+   es in der gleichen Gruppe von Auswahlfeldern schon ein gesetztes Feld   
+   gibt. Der Fehler im Programm wird behoben, indem man beachtet, daß in   
+   einer Gruppe von Auswahlfeldern immer genau ein Feld gesetzt sein muß.  

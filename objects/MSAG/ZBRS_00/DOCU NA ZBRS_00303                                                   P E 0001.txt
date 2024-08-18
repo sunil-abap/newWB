@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS As seguintes atividades só podem ser aplicadas a uma pasta:             
+B1 Análise                                                                 
+B1 Estatística                                                             
+B1 Fila (dump)                                                             
+B1 Log                                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Só é possível o processamento de pasta individual, isto é, não é        
+   possível marcar nenhumas áreas de bloco.                                

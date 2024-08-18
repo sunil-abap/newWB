@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Antes do início do programa de reorganização foi determinado que        
+   atualmente são processadas pastas em um servidor batch input. O sistema 
+   detectou uma entrada em tabela de bloqueio em BTCREORG.                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS A reorganização não foi executada                                       
+U1 &WHAT_TO_DO&                                                            
+AS Verificar com SM12 se a entrada em tabela de bloqueio é justificada. Se 
+   não for aconselhável executar nenhum processamento batch input no       
+   servidor indicado na entrada em tabela de bloqueio, então é possível    
+   eliminar a entrada em tabela de bloqueio. Em seguida, executar          
+   novamente o programa de reorganização.                                  

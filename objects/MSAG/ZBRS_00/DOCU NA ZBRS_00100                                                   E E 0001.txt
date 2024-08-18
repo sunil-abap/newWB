@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Incorrect specification of FROM.                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Value of FROM must be contained in the internal table.                  

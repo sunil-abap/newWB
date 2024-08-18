@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS A field was changed in interactive batch input (process session in the  
+   foreground or only display errors)                                      
+AS Field name:         &V1&                                                
+/  New field contents: &V2&                                                
+/  Old field contents: &V3&                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

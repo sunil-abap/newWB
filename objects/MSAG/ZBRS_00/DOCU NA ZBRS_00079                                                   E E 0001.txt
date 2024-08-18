@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS An internal error was found during matchcode selection.                 
+AS The possible causes are :                                               
+/: RESET N1                                                                
+N1 There was no key field transferred by the matchcode interface or it has 
+   a length of 0.                                                          
+N1 Table RSMDY could not be created for the matchcode interface.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+/: RESET N1                                                                
+N1 Check the matchcode description.                                        
+N1 Contact the persons in charge.                                          

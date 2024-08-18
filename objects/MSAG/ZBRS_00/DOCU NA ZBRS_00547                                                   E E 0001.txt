@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS The job which is still displayed in the present list was deleted from   
+   the basic database table.                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS The required action can no longer be carried out with this job. The job 
+   may have to be rescheduled.                                             

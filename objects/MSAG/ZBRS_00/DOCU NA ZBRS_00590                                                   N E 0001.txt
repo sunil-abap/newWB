@@ -1,0 +1,7 @@
+U1                                                                         
+U1 &CAUSE&                                                                 
+AS Uiterste starttermijn voor de batch-verwerking.                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

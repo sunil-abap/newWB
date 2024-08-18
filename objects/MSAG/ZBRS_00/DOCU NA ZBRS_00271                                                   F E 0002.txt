@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Le processeur de menu a également besoin de la mémoire de la classe     
+   SHORT pour gérer le statut GUI, mais celle-ci n'est pas disponible.     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Demandez à l'administrateur système d'incrémenter le paramètre de profil
+   "ztta/short_area". Il doit être au moins 6 fois aussi important que le  
+   paramètre de profil "ztta/cua_area".                                    

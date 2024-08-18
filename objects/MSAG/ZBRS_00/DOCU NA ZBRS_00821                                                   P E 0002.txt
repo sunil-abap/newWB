@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS O usuário definiu ícones. O nome de ícones contém caracteres não        
+   permitidos.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Não é possível gravar os ícones.                                        
+U1 &WHAT_TO_DO&                                                            
+AS Para nomes de ícones são permitidos os seguintes caracteres:            
+B1 Letras A até Z                                                          
+B1 Sublinha _                                                              
+AS Corrigir os nomes de ícones de forma correspondente e gravar de novo.   
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

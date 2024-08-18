@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS L'utilisateur de service RFC utilisé dans l'administration centrale des 
+   utilisateurs (ACU) n'est pas habilité à gérer les mots de passe de      
+   l'utilisateur &V1& dans le système fils &V2& (destination RFC).         
+*  Le système a vérifié l'objet d'autorisation S_USER_GRP pour l'activité  
+   05.                                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS Impossible de lire l'utilisateur, ni la valeur de hachage du mot de     
+   passe.                                                                  
+/  Aucun des utilisateurs sélectionnés n'a été repris dans                 
+   l'administration centrale.                                              
+U1 &WHAT_TO_DO&                                                            
+AS Augmentez le nombre d'autorisations de l'utilisateur de service ACU.    
+/  Valeurs d'autorisation requises pour S_USER_GRP :                       
+/(   CLASS = '*'                                                           
+/(   ACTVT = '05'                                                          
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Définition erronée des limites d'affichage d'une table interne :        
+   Limite FROM > limite TO                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Corrigez les valeurs saisies pour FROM et TO.                           

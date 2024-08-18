@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS L'exécution du type de traitement sélectionné dépend du statut du       
+   job batch concerné. Le job batch sélectionné porte le témoin "terminé"  
+   ou "interrompu". Le statut ainsi défini ne permet pas l'exécution de    
+   l'opération concernée.                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vérifiez le type de traitement choisi pour le job batch sélectionné     

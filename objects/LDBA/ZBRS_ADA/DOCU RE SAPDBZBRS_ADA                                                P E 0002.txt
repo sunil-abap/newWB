@@ -1,0 +1,6 @@
+U1 &DESCRIPTION&                                                           
+/: INCLUDE 'AA_ADA' OBJECT DOKU ID TX LANGUAGE PT                          
+U1 Campos de valor                                                         
+AS Para o reporting, o banco de dados lógico ADA disponibiliza os          
+   elementos de dados seguintes com valores de imobilizado:                
+/: INCLUDE 'AA_ANLCV' OBJECT DOKU ID TX LANGUAGE PT                        

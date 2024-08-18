@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS A dialog logon occurred using Secure Network Communication (SNC). The   
+   system could not find an R/3 user in the table USRACL for the user name 
+   passed from the external security system to the R/3 System.             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Logon is refused.                                                       
+U1 &WHAT_TO_DO&                                                            
+AS Use user maintenance (SU01) to assign the SNC to a user as an external  
+   name.                                                                   

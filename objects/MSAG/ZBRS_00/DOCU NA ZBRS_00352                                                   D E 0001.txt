@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Genannte Systemfunktionalität ist nicht Batch-Input-fähig.              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Machen Sie Ihre Anwendung Batch-Input-fähig.                            

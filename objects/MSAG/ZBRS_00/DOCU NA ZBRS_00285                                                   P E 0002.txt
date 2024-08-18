@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS O manipulador de eventos indicado no registro da requisição do serviço  
+   não existe.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

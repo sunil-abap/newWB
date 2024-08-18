@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Es konnte keine neue Archivdatei erstellt werden.                       
+*  Es könnte sein, daß der Namensraum für Archivdateien des Objekts belegt 
+    ist, oder das Betriebssystem kann die Datei nicht erzeugen.            
+*                                                                          
+*                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

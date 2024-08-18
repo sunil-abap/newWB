@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS A senha entrada contém menos do que &V1& caracteres especiais.          
+/  Esta condição foi especificada pelo administrador do sistema.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Entrar uma senha com pelo menos &V1& caracteres especiais.              
+/  Como caracteres especiais serão analisados todos os caracteres especiais
+   nacionais, caracteres unicode globais (enquanto suportados pelo sistema)
+   bem como os caracteres especiais ASCII seguintes:                       
+AS <NP>!"@ $%&/()=?'`*+~#-_.,;:{[]}\<>|</>                                 
+U1 &SYS_ADMIN&                                                             
+AS O administrador do sistema pode determinar este valor por meio do       
+   parâmetro de perfil <ZH>login/min_password_specials</>.                 
+/  Maior documentação: ver atualização do parâmetro de perfil (transação   
+   <DS:TRAN.RZ11>RZ11</>)                                                  

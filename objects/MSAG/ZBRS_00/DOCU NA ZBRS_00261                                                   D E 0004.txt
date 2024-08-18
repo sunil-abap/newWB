@@ -1,0 +1,28 @@
+U1 &CAUSE&                                                                 
+AS Der Speicherbereich in der Basis-Software für den GUI-Status ist zu     
+   klein für den angeforderten Status. In diesem Speicherbereich wird      
+   abgelegt:                                                               
+B1 Verwaltungsinformation fester Länge,                                    
+B1 Menüaufbau, F-Tasten und Drucktasten eines Status,                      
+B1 die Texte der gesamten Oberfläche (also nicht nur des Status) sowie     
+B1 die aktive und die angeforderte Excluding-Liste (<NP>SET PF-STATUS ...  
+   EXCLUDING ...</>).                                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS Abbruch, da vermutlich nicht mehr sinnvoll weitergearbeitet werden      
+   kann.                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Eine kurzfristige Lösung kann darin bestehen, bei der aktuellen <NP>SET 
+   PF-STATUS</>-Anweisung den <NP>EXCLUDING</>-Zusatz wegzulassen.         
+AS Die betroffene Oberfläche aufräumen: Menu-Painter SE41,                 
+   <LS>Hilfsmittel</> -> <LS>Nicht verw. Objekte</>.                       
+AS Falls es sich um eine Oberfläche mit sehr vielen Status handelt,        
+   besteht vielleicht die Möglichkeit, die Oberfläche zu zerlegen. Diese   
+   Möglichkeit ist meist dann gegeben, wenn die Oberfläche zu einer        
+   Funktionsgruppe gehört, die für mehrere Programme GUI-Status zur        
+   Verfügung stellt (indem diese Programme Funktionsbausteine aus der      
+   Gruppe aufrufen, die im wesentlichen eine <NP>SET                       
+   PF-STATUS</>-Anweisung enthalten).                                      
+AS Falls die oben aufgeführten Lösungmöglichkeiten nicht in Betracht       
+   kommen, muß Ihr Systemverwalter den Profile-Parameter "ztta/cua_area"   
+   erhöhen. Dabei ist zu beachten, daß der Profile-Paramter                
+   "ztta/short_area" mindestens 6mal so groß sein muß wie "ztta/cua_area". 

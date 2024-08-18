@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Batch input log does not exist.                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS None.                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Check log name, possibly displaying all logs.                           

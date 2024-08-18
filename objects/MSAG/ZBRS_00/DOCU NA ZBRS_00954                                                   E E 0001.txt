@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS A memory request within the database interface cannot be fulfilled.     
+   This makes it impossible to continue the current operation.             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Errors can be eliminated by increasing the SHORT storage (profile       
+   parameter ztta/short_area).                                             

@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS A transaction is processed using batch input.                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS The runtime error field xxx occurs (invalid entries)                    
+U1 &WHAT_TO_DO&                                                            
+AS Correct the batch input data. Depending on the processing scenario, this
+   can affect either of the following objects:                             
+/                                                                          
+/  ,,Batch input session                                                   
+/  ,,CATT procedure                                                        
+/  ,,Application program                                                   

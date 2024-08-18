@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Presentemente, para tabelas de pool e de cluster só é possível uma      
+   seleção não ordenada ou em uma sequência ascendente de chave primária.  
+   Em uma solicitação RSQL com critérios de classificação divergentes, os  
+   registros encontrados são sempre fornecidos na ordenação da chave       
+   primária.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

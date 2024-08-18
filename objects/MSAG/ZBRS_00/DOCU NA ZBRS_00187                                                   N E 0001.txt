@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Het wachtwoord moet minstens 3 tekens lang zijn. Afhankelijk van de     
+   waarde van de systeemparameter login/min_password_lng kan de            
+   minimumlengte van een wachtwoord ook groter zijn.                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Kies een langer wachtwoord.                                             

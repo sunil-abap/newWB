@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Zu angegebenem Namen findet sich kein Eintrag in der Nametab.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Die betroffene Tabelle sollte mittels des Dictionarys definiert und     
+   aktiviert werden.                                                       

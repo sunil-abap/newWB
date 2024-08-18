@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Sie haben versucht, sich anzumelden, sind aber bereits an einem anderen 
+   Terminal angemeldet.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS Dies läßt das System nicht zu.                                          
+U1 &WHAT_TO_DO&                                                            
+AS Wählen Sie bitte einen anderen Benutzernamen oder melden Sie sich am    
+   anderen Terminal ab.                                                    

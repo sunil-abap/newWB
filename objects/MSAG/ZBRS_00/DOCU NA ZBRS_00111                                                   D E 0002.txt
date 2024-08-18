@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS  Der Datenspeicher, der einen Teil der Liste an das Frontend übertragen 
+   soll, ist übergelaufen, weil zuviele zeichen in das Fenster passen.     
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Es wird nur ein Teil angezeigt                                          
+U1 &WHAT_TO_DO&                                                            
+AS Fenster kleiner oder Schriftart größer wählen                           
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS De job die nog in deze lijst wordt vermeld is intussen uit de als basis 
+   dienende database-tabel verwijderd.                                     
+U1 &WHAT_TO_DO&                                                            
+AS De gewenste actie kan niet meer met deze job uitgevoerd worden. De job  
+   moet evt. opnieuw ingepland worden.                                     

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS De batchinput-map is na verwerking verwijderd.                          
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Aanwijzing                                                              
+AS                                                                         

@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Valor errado do campo tipo de comunicação da tabela TXCOM. Os seguintes 
+   valores são permitidos:                                                 
+K3 Valor,,Significado                                                      
+T3 C,,Comunicação via SNA/UPIC                                             
+T3 I,,Comunicação via TCP/IP, o parceiro é um                              
+T3 ,,sistema R/3                                                           
+T3 E,,Comunicação via TCP/IP, o parceiro é um                              
+T3 ,,programa C                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS A estrutura da ligação CPIC é cancelada.                                
+U1 &WHAT_TO_DO&                                                            
+AS Corrigir campo tipo de comunicação.                                     

@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS In diesem Dynpro ist kein Funktionscode-Feld (OK-Code-Feld) definiert.  
+   Wenn der Endanwender eine Funktion der Applikation auswählt (keine      
+   Systemfunktion), dann stellt das System diese normalerweise in dem      
+   Funktionscode-Feld (OK-Code- Feld) bereit, zusätzlich auch in SY-UCOMM. 
+   Das ist jetzt nicht möglich.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Das System kann der Anwendung den aktuellen Funktionscode nicht         
+   mitteilen. Das Feld SY-UCOMM sollte von der Anwendung nicht verwendet   
+   werden, da es immer den momentanen Funktionscode enthält, und der ist   
+   nicht immer identisch mit dem für die Anwendung relevanten.             
+U1 &WHAT_TO_DO&                                                            
+AS In jedem Dynpro sollte ein Feld für den Funktionscode definiert werden. 
+   Ein solches Feld wird von dem Screenpainter immer vorgeschlagen (Typ    
+   OK), man muss bloß einen Namen vergeben und die Definition im           
+   ABAP/4-Programm aufnehmen.                                              

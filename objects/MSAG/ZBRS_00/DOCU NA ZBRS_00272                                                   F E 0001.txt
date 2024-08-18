@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS La zone de mémoire dans le logiciel de base pour le statut GUI est trop 
+   petite pour le statut requis. En d'autres termes, le statut requis      
+   contient des menus d'include ne pouvant plus être (complètement)        
+   insérés.                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Vous pouvez poursuivre le traitement mais les menus d'include concernés 
+   ne sont pas disponibles.                                                
+U1 &WHAT_TO_DO&                                                            
+AS Votre administrateur système doit augmenter le paramètre de profils     
+   "ztta/cua_area" en conséquence. Il est important de noter que le        
+   paramètre de profils "ztta/short_area" doit être au moins 6 fois plus   
+   important que le paramètre de profils "ztta/cua_area".                  

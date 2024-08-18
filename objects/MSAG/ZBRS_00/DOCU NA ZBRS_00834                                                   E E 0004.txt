@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Up to Release 4.6B, batch input logs are stored in common log files. As 
+   of Release 46C, these logs are stored in TemSe files. This change       
+   provides the advantage that if one file is corrupt, all the other logs  
+   on the application server are not lost.                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS You use report RSBDCLCH to convert (system-wide) all common log logs to 
+   TemSe file logs. Note, the reverse is not possible. Use transaction     
+   RZ11 to set profile parameter "bdc/new_protocol" to "on".               
+U1 &SYS_ADMIN&                                                             
+AS Logs created using the new interface cannot be read using the old       
+   interface and vice versa. They do not appear in the list of existing    
+   logs.                                                                   

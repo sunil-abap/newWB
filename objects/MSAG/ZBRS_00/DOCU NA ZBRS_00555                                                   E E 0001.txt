@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS During a background processing request, a program was specified which   
+   cannot be scheduled. Programs which can be scheduled are particularly   
+   distinguished by a defined starting point (for example, the classical   
+   ABAP/4 programs or predefined model jobs). Programs which cannot be     
+   csheduled are, for example, module pools or function pools.             
+U1 &SYSTEM_RESPONSE&                                                       
+AS The background processing request cannot be successfully completed with 
+   the entered program name. The system displays the scheduling screen on  
+   which the field for entering the program name is ready for input, so    
+   that corrections can be made here.                                      
+U1 &WHAT_TO_DO&                                                            
+AS There are two options for eliminating this problem situation:           
+N1 Correct the program name, so that a program which can be scheduled      
+   (that is a program with a defined starting point) is referenced by the  
+   improved name.                                                          
+N1 Correct the attributes of the originally entered program. This option   
+   is recommended if the attributes of the program to be scheduled clearly 
+   have incorrect values. Correct the attributes using the program editor. 

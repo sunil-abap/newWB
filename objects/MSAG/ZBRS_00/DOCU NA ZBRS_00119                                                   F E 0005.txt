@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS L'écran à onglets contient une onglet ne pouvant pas être cliqué.       
+AS                                                                         
+AS Celui-ci n'est par conséquent pas géré par l'écran à onglets.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+U1                                                                         
+AS Vérifiez la modification de l'écran ou la définition du Screen Painter  
+   de l'onglet affiché dans l'écran à onglets.                             
+AS Dans la modification de l'écran, INPUT pour l'onglet affiché dans       
+   l'écran à onglets ne peut pas avoir la valeur '0'.                      
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

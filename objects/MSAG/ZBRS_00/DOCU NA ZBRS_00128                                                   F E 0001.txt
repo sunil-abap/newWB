@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Il n'existe aucune description de matchcode pour le dynpro concerné.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Effectuez unbe nouvelle génération du dynpro. Si l'erreur se reproduit, 
+/  contactez le responsable.                                               

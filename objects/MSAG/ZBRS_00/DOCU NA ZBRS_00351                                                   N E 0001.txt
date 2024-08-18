@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS De batchinput gegevens zijn in de dynprovelden ingevoegd.               
+U1 &WHAT_TO_DO&                                                            
+AS Informatie.                                                             

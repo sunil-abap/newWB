@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS An inconsistent status was discovered within the database interface.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Report the problem to SAP.                                              

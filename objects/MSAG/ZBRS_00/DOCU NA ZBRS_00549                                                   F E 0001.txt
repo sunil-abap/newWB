@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS L'exécution du type de traitement sélectionné dépend du statut du job   
+   batch concerné. Le job sélectionné est défini comme "non exécutable".   
+   Ce statut n'autorise pas l'action demandée.                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Contrôlez la sélection du type de traitement et/ ou le job batch        
+   choisi.                                                                 

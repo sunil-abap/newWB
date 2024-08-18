@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS A execução da transação foi suprimida mediante uma configuração do      
+   sistema                                                                 
+AS (mediante o monitor de lista de exclusão)                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Evite a utilização desta transação ou contate                           
+AS seu administrador do sistema.                                           
+U1 &SYS_ADMIN&                                                             
+AS Para mais informações sobre o monitor de lista de exclusão, consulte    
+   sobretudo a                                                             
+AS nota 2476734.                                                           
+AS                                                                         

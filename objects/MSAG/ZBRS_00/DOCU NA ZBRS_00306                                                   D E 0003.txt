@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Eine ausgewählte Mappe wurde nicht gefunden. Es wird eine Mappe mit     
+   Status 'neu' oder 'fehlerhaft' gesucht. Nur Mappen mit diesem Status    
+   können abgespielt werden.                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS Keine.                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Bitte berichtigen Sie den Mappennamen, eventuell generische Eingabe.    

@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Vous avez défini une icône. La représentation interne de cette icône    
+   n'est pas correcte.                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS L'icône n'a pas pu être sauvegardée.                                    
+U1 &WHAT_TO_DO&                                                            
+AS La représentation interne de l'icône doit avoir la forme @xxxxxx@ (avec 
+   x = {lettres de A à Z, trait de soulignement}).                         
+AS Corrigez la représentation interne de l'icône en conséquence et         
+   effectuez une nouvelle sauvegarde.                                      
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

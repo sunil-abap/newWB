@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS En mode batch, essai de positionnement du curseur sur une zone          
+AS inexistante.                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Indiquez le nom d'une zone existant dans le dynpro.                     
+AS                                                                         

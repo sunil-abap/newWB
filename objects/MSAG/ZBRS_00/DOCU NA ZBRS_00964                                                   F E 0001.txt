@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Lors du SELECT SINGLE (SAP-SQL), il faut (au moins) spécifier la clé    
+   primaire complète de la table.                                          
+                                                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vous devez compléter en conséquence la condition SELECT SINGLE.         

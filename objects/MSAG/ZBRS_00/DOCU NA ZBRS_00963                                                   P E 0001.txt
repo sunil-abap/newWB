@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Tentativa de gerar um objeto BD para uma estrutura SAP que não é uma    
+   tabela transparente.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

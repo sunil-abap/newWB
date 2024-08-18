@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS O usuário tentou efetuar o logon com um idioma que não foi instalado.   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Indicar durante o logon um dos idiomas instalados.                      

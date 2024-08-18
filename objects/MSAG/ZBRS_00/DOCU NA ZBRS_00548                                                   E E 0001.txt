@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS So that a work sequence once started can be consistently carried out    
+   and completed, the selected job is locked by the SAP locking mechanism. 
+   This lock attempt failed for the present error.                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS The cause of the error can unfortunately not be determined more exactly 
+   by the present transaction. View the system log for further analysis.   

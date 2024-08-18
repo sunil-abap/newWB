@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Para que uma sequência de trabalho iniciada possa ser executada e       
+   encerrada de forma consistente, é efetuado um bloqueio de um job        
+   selecionado através do mecanismo de bloqueio SAP. No presente erro, a   
+   tentativa de bloqueio não teve êxito.                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS A causa do erro não pode ser exatamente determinada pela transação      
+   existente. Para uma análise mais detalhada deve ser considerado o log   
+   de sistema.                                                             

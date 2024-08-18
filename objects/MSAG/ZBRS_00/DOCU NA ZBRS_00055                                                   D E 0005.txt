@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Sie haben versucht, Daten zu verbuchen oder eine Aktion zu starten. Es  
+   wurden aber noch nicht alle erforderlichen Angaben gemacht.             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Aktion konnte nicht ausgeführt werden.                              
+U1 &WHAT_TO_DO&                                                            
+AS Machen Sie alle erforderlichen Angaben. Felder, für die eine Eingabe    
+   erforderlich ist, erkennen Sie daran, daß vom System ein Kästchen mit   
+   einem Häkchen beziehungsweise ein Fragezeichen ("?") oder Sternchen     
+   ("*") als Feldinhalt vorgegeben ist. Falls das aktuelle Bild            
+   Registerkarten enthält, kontrollieren Sie auch auf den gerade nicht     
+   angezeigten Registerkarten, ob alle eingabepflichtigen Felder gefüllt   
+   sind. Starten Sie die Aktion anschließend noch einmal.                  
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

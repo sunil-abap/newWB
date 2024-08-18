@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS Dieses System wurde so konfiguriert, dass bei Vergabe neuer Kennwörter  
+   nur abwärtskompatible Kennwörter zulässig sind. Dies bedeutet: die      
+   Kennwörter dürfen nur aus maximal 8 Zeichen bestehen und keine          
+   Kleinbuchstaben beinhalten.                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Das System lässt nicht zu, dass Sie ein Kennwort vergeben, welches aus  
+   mehr als 8 Zeichen oder aus mindestens einem Kleinbuchstaben besteht.   
+U1 &WHAT_TO_DO&                                                            
+AS Wählen Sie ein Kennwort, welches aus maximal 8 Zeichen besteht und keine
+   Kleinbuchstaben beinhaltet.                                             
+U1 &SYS_ADMIN&                                                             
+AS Der Profilparameter login/password_downwards_compatibility wurde auf den
+   Wert 5 gesetzt.                                                         
+AS Um die Verwendung abwärtsinkompatibler Kennwörter (bis zu 40 Zeichen mit
+   Unterscheidung zwischen Klein- und Großbuchstaben) bei der              
+   Kennwortänderung / -vergabe zu ermöglichen, muss der Profilparameter    
+   login/password_downwards_compatibility auf einen anderen Wert gesetzt   
+   werden.                                                                 

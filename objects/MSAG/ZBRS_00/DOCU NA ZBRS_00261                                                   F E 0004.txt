@@ -1,0 +1,29 @@
+U1 &CAUSE&                                                                 
+AS La zone de mémoire du logiciel Basis pour le statut GUI est trop petit  
+   pour le statut demandé. Cette zone de mémoire contient :                
+B1 des informations de gestion de longueur fixe,                           
+B1 la structure du menu, les touches F et les boutons de commande d'un     
+   statut,                                                                 
+B1 les textes de l'ensemble de l'interface (pas uniquement le statut),     
+   ainsi que                                                               
+B1 la liste excluding active et appelée (<NP>SET PF-STATUS ... EXCLUDING   
+   ...</>).                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Interruption car le système ne peut sans doute plus poursuivre le       
+   traitement.                                                             
+U1 &WHAT_TO_DO&                                                            
+AS Une solution à court terme peut être de laisser de côté le complément   
+   <NP>EXCLUDING</> dans l'instruction actuelle <NP>SET PF-STATUS</>.      
+AS Supprimez l'interface utilisateur concernée : Menu Painter SE41,        
+   <LS>Utilitaires</> -> <LS>Objets inactifs</>.                           
+AS S'il s'agit d'une interface ayant beaucoup de statuts, il est peut-être 
+   possible de la fractionner. Cette possibilité est surtout utile lorsque 
+   l'interface appartient à un groupe de fonctions qui offre des statuts   
+   GUI pour plusieurs programmes (ces programmes appelent depuis le groupe 
+   des modules fonction qui contiennent principalement une instruction     
+   <NP>SET PF-STATUS</>).                                                  
+AS Si les solutions proposées ci-dessus ne sont pas envisageables, votre   
+   administrateur système doit augmenter le paramètre de profil            
+   "ztta/cua_area". Il faut alors veiller à ce que le paramètre de profil  
+   "ztta/short_area" soit au moins 6 fois aussi important que              
+   "ztta/cua_area".                                                        

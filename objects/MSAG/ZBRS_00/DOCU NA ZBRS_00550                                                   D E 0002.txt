@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Diese Meldung wird beim Beginn eines jeden Job-Steps ausgegeben und     
+   findet sich daher typischerweise in einem Job-Protokoll.                
+AS Die Meldung besagt, daß augenblicklich Step &V1& gestartet wird. Die    
+   weiteren Parameter machen nähere Angaben über den Step selbst:          
+AS - das in diesem Step ausgeführte ABAP-Programm (hier: &V2&)             
+AS - die zugehörigen Parameter (hier: &V3&)                                
+AS   Ist dieses Feld leer, so benötigt das Programm &V2& keine Parameter.  
+AS - den Namen des Benutzers, unter dessen Berechtigungen das Programm     
+     &V2& ausgeführt wird (hier: &V4&)                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

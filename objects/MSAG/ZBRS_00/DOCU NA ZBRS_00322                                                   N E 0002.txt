@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS De gekozen map &V1& kan niet worden bewerkt omdat deze momenteel door   
+   gebruiker &V2& wordt bewerkt en daarom is beveiligd (enqueue).          
+                                                                           
+                                                                           
+U1 &WHAT_TO_DO&                                                            
+AS Probeer de map op een later tijdstip te bewerken.                       

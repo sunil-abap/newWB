@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Der Versuch, eine Tabelle in den Tabellenpuffer zu laden, scheitert,    
+   weil nicht genügend Platz für die Einträge vorhanden ist.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Das eingegebene Kennwort enthält weniger als &V1& Großbuchstaben.       
+/  Diese Bedingung wurde vom Administrator vorgegeben.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Geben Sie ein Kennwort mit mindestens &V1& Großbuchstaben ein.          
+/  Als Großbuchstaben gelten die alphabetischen Zeichen A - Z.             
+U1 &SYS_ADMIN&                                                             
+AS Der Administrator kann diesen Wert mittels Profilparameter              
+   <ZH>login/min_password_uppercase</> festlegen.                          
+/  Weitere Dokumentation: siehe Profilparameterpflege (Transaktion         
+   <DS:TRAN.RZ11>RZ11</>)                                                  

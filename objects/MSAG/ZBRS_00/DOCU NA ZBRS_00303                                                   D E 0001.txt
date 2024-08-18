@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Folgende Aktivitäten können nur auf eine Mappe angewandt werden:        
+B1 Analyse                                                                 
+B1 Statistik                                                               
+B1 Queue (Dump)                                                            
+B1 Protokoll                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Es ist nur Einzelmappenverarbeitung möglich, d.h. keine Blockbereiche   
+   markieren.                                                              

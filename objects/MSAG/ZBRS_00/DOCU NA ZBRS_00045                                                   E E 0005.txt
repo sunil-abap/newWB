@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS The source of the screen "&V2&" of program "&V1&" does not exist.       
+LZ                                                                         
+AS The error was possibly caused by an unknown Include screen being called.
+   In this case the variables specified in the flow logic of the calling   
+   screen in CALL SUBSCREEN should be checked.                             

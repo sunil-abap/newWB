@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS The attempted operation (INSERT or UPDATE) violates the uniqueness of   
+   the primary key or another index defined as UNIQUE.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check your ABAP program.                                                

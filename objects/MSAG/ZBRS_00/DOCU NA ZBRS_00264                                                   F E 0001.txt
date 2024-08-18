@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Le statut GUI indiqué n'est pas disponible ou n'est pas généré.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vérifiez avec le Menu Painter si le statut que vous souhaitez existe.   
+   Le cas échéant, générez l'interface &V1& (avec le Menu Painter).        

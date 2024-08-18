@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS In einem Kennwort sind nur Zeichen aus dem syntactical Characterset     
+   erlaubt. Dies sind die Zeichen von 0 bis 9 die Zeichen des US-Alphabets 
+   und verschiedene Sonderzeichen, die auf allen Tastaturen zu finden      
+   sind.                                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte wählen Sie ein anderes Kennwort.                                  

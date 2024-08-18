@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Der angegebene GUI-Status ist nicht vorhanden oder nicht generiert.     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Mit dem Menu Painter überprüfen, ob der gewünschte Status überhaupt     
+   existiert. Wenn ja, die Oberfläche &V1& generieren (mit dem Menu        
+   Painter).                                                               

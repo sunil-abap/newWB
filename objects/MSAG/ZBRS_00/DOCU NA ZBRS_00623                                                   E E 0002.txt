@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS A list of logged on application servers was requested from the message  
+   server; however, an error occurred.                                     
+AS This may be because:                                                    
+B1 The request could not be sent.                                          
+B1 The application server is not connected to the message server.          
+B1 The message server is not active.                                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check the system log for more information about possible causes of the  
+   error. To analyze the entries, call transaction SM21. If you do not     
+   have authorization for this transaction, have your system administrator 
+   analyze and fix the error.                                              

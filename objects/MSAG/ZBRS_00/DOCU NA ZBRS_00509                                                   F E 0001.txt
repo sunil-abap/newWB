@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Il n'existe pas de protocole pour le job batch sélectionné. Si le job   
+   batch porte le statut "interrompu", le message émis signifie qu'il y a  
+   eu un problème lors du lancement du job batch.                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS Les problèmes apparaissant lors du lancement du job batch (ex. : le     
+   protocole ne peut être créé pour manque de capacité) sont consignés     
+   dans le protocole système.                                              
+U1 &WHAT_TO_DO&                                                            
+AS Pour analyser la cause exacte du manque du protocle du job, il est      
+   conseillé de consulter le protocole du serveur applicatif, sur lequel   
+   le job batch a été lancé. Consultez plus spécialement les messages      
+   relatifs aux processus de travail. Les messages définissent le lancement
+   du job ainsi que les problèmes apparus lors du lancement.               

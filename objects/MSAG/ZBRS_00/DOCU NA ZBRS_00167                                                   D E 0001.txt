@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Das Dynpro &V1& nutzt die Struktur &V2& aus dem ABAP Dictionary. Diese  
+   Struktur wurde während des Laufs der aktuellen Transaktion bzw. des     
+   aktuellen Programms im ABAP Dictionary modifiziert (Zeitstempel der     
+   Struktur im Programm: &V3&, Zeitstempel der Struktur im ABAP Dictionary:
+   &V4&).                                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Fortführung des Programms bzw. der Transaktion ist nicht möglich.   
+   Deshalb wurde die Verarbeitung abgebrochen.                             
+U1 &WHAT_TO_DO&                                                            
+AS Bitte starten Sie das Programm bzw. die Transaktion neu. Dadurch wird   
+   eine aktuelle Version des Programms geladen und der Schiefstand dadurch 
+   beseitigt.                                                              
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Só existe um registro info para a pasta. Erro na criação da pasta.      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Criar novamente a pasta.                                                

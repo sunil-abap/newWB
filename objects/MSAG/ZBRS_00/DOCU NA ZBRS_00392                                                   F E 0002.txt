@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Le contrôle des autorisations indique que vous ne disposez pas de       
+   l'autorisation nécessaire pour exécuter le dossier &V1& à l'arrière-    
+   plan.                                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Contactez l'administrateur système.                                     

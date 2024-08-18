@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS A memória do servidor de aplicação começa a ser reduzida.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS O usuário ocupa exclusivamente um dos poucos processos operacionais no  
+   servidor de aplicação. Para que outros usuários não sejam demasiado     
+   impedidos, o processo operacional volta a ser liberado, se não acionar  
+   nenhumas ações durante alguns minutos. Isto leva ao cancelamento da     
+   transação e à perda dos dados entrados até ao momento.                  
+U1 &WHAT_TO_DO&                                                            
+AS Continuar a processar normalmente e encerrar a transação antes de uma   
+   pausa mais prolongada.                                                  

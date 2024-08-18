@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Les caractères ? ou ! tout au début d'une zone de saisie de dynpro ont  
+   une signification particulière.                                         
+/  Par conséquent, ces caractères ne doivent pas apparaître au tout début  
+   d'un mot de passe. Autrement une connexion basée sur un mot de passe via
+   la SAP GUI n'est plus possible.                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Choisissez un autre mot de passe.                                       

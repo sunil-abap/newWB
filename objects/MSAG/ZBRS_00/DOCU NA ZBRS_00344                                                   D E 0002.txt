@@ -1,0 +1,26 @@
+U1 &CAUSE&                                                                 
+AS Es wurde von der Transaktion ein Dynpro gesendet, das in der            
+   Batch-Input Mappe nicht erwartet wurde und das deshalb auch nicht mit   
+   Daten versorgt werden konnte.                                           
+AS Mögliche Gründe:                                                        
+AS 1. Batch-Input Mappe ist fehlerhaft erstellt. Die Abfolge der Dynpros   
+   wurde nicht korrekt aufgezeichnet.                                      
+AS 2. Die Transaktion verhält sich bei der Hintergrundverarbeitung auf     
+   einem Batch-Workprozeß anders als im Dialog (SY-BATCH wird abgefragt    
+   und ändert die Dynprofolge).                                            
+AS 3. Die Transaktion durchlief ein benutzerspezifisches Customizing und   
+   deshalb werden Dynpros je nach Benutzer übersprungen oder anders        
+   prozessiert. Ist der Ersteller einer Batch-Input Mappe verschieden vom  
+   Abspieler dieser Mappe, tritt dieser Fehler häufig auf.                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS Keine.                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS zu 1. Erstellen Sie die Mappe neu bzw. spielen Sie diese im             
+   Expertenmodus ab. Korrigieren Sie das Batch-Input Programm.             
+AS zu 2. Dieser Fehler ist sehr schwer zu analysieren, insbesondere wenn   
+   sich die Bildfolge oder die Eingabebereitschaft von Feldern bei der     
+   Hintergrundverarbeitung zu der Verarbeitung im Dialog unterscheiden.    
+   Möglicherweise ist eine solche Transaktion nicht batch-input fähig.     
+AS zu 3. Lassen Sie die Mappe vom Ersteller abspielen. Tritt dabei         
+   kein Fehler auf, handelt es sich um ein Programm mit                    
+   benutzerspezifischem Customizing.                                       

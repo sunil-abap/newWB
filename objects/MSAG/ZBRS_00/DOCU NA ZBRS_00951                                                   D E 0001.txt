@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Bei Ausführung einer SQL-Anweisung ist angegebener Datenbankfehler      
+   aufgetreten.                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Die Reaktion auf den Fehler hängt von seiner Schwere ab. Im System-Log  
+   sollte der vollständige Fehlertext aufgeführt sein.                     

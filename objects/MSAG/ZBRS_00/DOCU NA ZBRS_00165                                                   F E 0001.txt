@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Vous avez tenté de vous annoncer dans le système, mais le nombre maximal
+AS d'utilisateurs est atteint.                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Demandez à un autre utilisateur de se déconnecter pour que vous puissiez
+   travailler ou prenez la licence SAP correspondante.                     

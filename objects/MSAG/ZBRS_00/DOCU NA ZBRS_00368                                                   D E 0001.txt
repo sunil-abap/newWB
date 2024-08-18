@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Fehlermeldung des Batch-Input mit variablem Text.  Keine genauere       
+   Erklärung möglich.                                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

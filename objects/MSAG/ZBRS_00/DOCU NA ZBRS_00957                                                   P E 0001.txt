@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS A área de saída em SELECT é demasiado pequena para entradas da tabela.  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

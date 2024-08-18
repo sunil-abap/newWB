@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Die Batch-Input Mappe wurde nicht abgespielt. Es lief zur selben Zeit   
+   ein Reorganisations-Programm (RSBDCREO).                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Überprüfen Sie vorsorglich, ob das Reorgansiations-Programm             
+   wirklich noch läuft. Sollte das Programm abgebrochen sein und der       
+   Sperreintrag auf BTCREORG noch bestehen, können Sie diesen löschen.     

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS For pool and cluster tables, a selection is only possible unsorted or   
+   ascending in primary key sequence at the present time. For a RSQL       
+   request with various order criteria, the records found are always       
+   returned in primary key order.                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

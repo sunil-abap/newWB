@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Pro internem Modus wird ein solcher EM-Slot benötigt. (Jeder externe    
+   Modus kann bis zu 9 interne Modi beinhalten.)                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

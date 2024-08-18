@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Für die Anmeldesprache konnte keine gültige GUI-Codepage eingestellt    
+   werden.                                                                 
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Konvertierung von Zeichen zwischen dem System-Zeichensatz und dem   
+   Zeichensatz des Endbenutzergerätes kann nicht korrekt arbeiten.  Es     
+   kann zur Anzeige falscher Zeichen kommen.  Bei der Eingabe von Zeichen  
+   können unzulässige Daten in die Datenbank gelangen.                     
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte wenden Sie sich an den Systemadministrator.                       
+*                                                                          
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

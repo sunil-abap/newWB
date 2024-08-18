@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS The limits within which an internal table should be displayed are       
+   incorrect. The specification of FROM is larger than TO.                 
+AS &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Correct the specifications for FROM and TO.                             

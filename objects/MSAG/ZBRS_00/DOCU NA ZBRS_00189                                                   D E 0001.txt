@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Die ersten 3 Zeichen des Kennworts dürfen in dieser Reihenfolge nicht   
+   im Benutzernamen vorkommen. Dadurch soll insbesondere verhindert        
+   werden, daß Benutzername und Kennwort identisch sind.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte wählen Sie ein anderes Kennwort.                                  
+                                                                           

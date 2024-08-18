@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Aucune zone de code fonction (zone de code OK) n'est définie dans ce    
+   dynpro. Si l'utilisateur final sélectionne une fonction de              
+   l'application (pas de fonction système), le système la propose          
+   normalement dans la zone de code fonction (zone de code OK) et dans la  
+   zone SY-UCOMM. Cette opération n'est actuellement pas possible.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le système ne peut pas fournir le code fonction actuel à l'application. 
+   La zone SY-UCOMM ne doit pas être utilisée par l'application car elle   
+   contient encore le code fonction actuel et celui-ci n'est pas toujours  
+   identique à celui qui est pertinent pour l'application.                 
+U1 &WHAT_TO_DO&                                                            
+AS Dans chaque dynpro, une zone doit être définie pour le code fonction.   
+   Le Screen Painter propose toujours une telle zone (type OK), il suffit  
+   d'attribuer un nom et de reprendre la définition dans le programme      
+   ABAP.                                                                   

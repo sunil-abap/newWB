@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS When generating the texts of the screen &V1& &V2& in language &V3&, it  
+   was found that the storage area provided was too small, &V4& bytes.     
+U1 &SYSTEM_RESPONSE&                                                       
+AS Generation failed and resulted in a cancellation.                       
+U1 &WHAT_TO_DO&                                                            
+AS You can set the size of this storage area with the profile parameter    
+   <LS>dynpro_language_area</>. Increase this parameter and restart the    
+   system.                                                                 

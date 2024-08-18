@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Le dossier sélectionné &V1& ne peut être traité, car l'utilisateur      
+   &V2& l'utilise déjà. L'accès est donc protégé (mise en file d'attente). 
+                                                                           
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Retentez ultérieurement.                                                
+AS                                                                         
+AS                                                                         
+AS                                                                         

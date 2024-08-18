@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS U hebt in de interactieve batch-invoer de afspeelmodus gewisseld.       
+AS Deze is omgeschakeld van 'Alleen fouten weergeven' naar 'Zichtbaar      
+   afspelen'.                                                              
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Het gaat hier uitsluitend om informatie.                                

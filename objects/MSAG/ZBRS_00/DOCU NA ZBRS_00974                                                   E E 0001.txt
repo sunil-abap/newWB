@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS The attempt to cancel the last database transaction terminated because  
+   of a SQL error.                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS You can assume that the affected process cannot be processed further if 
+   this error occurs. The transaction should then be automatically rolled  
+   back by the database system.                                            

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Sie haben versucht, sich mit einer Sprache anzumelden, die nicht        
+   installiert wurde.                                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Geben Sie bitte beim Anmelden eine der installierten Sprachen an.       

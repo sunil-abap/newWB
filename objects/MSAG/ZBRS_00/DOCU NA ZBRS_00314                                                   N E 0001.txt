@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Een funktionaliteit van de batchinput monitoring die nog niet           
+   ondersteund wordt                                                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS Geen                                                                    
+U1 &WHAT_TO_DO&                                                            
+AS Wachten op nieuw release                                                

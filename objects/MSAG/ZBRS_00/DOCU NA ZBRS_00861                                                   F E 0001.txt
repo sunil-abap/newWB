@@ -1,0 +1,8 @@
+   &CAUSE&                                                                 
+AS Ce slot de mémoire étendue est nécessaire par mode interne (chaque mode 
+   externe peut comprendre jusqu'à 9 modes internes).                      
+AS &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+AS &WHAT_TO_DO& &                                                          
+AS                                                                         
+AS SYS_ADMIN&                                                              

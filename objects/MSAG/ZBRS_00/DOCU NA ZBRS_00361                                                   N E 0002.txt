@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Fout bij het afspelen van een map.                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Analyseer de map om te achterhalen waar de fout zich heeft voorgedaan.  
+   Of speel de map af in de bewerkingsmodus <LS>Alleen fouten tonen</>.    

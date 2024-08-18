@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS You have attempted to update data or start an action. However, not all  
+   required information was specified.                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS The action could not be executed.                                       
+U1 &WHAT_TO_DO&                                                            
+AS Enter all required information. Fields in which you must enter data are 
+   prefilled with a checkmark or question mark ("?") by the system. If the 
+   current screen contains tabs, check all tabs to make sure you have      
+   filled in all required fields. Then restart the action.                 
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

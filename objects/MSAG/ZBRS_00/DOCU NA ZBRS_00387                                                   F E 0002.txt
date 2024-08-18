@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Erreur lors de la suppression du protocole batch-input.                 
+AS Avec le nom de dossier, date, heure et file ID.                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Répétez l'opération ou contactez votre adminisatrateur système          

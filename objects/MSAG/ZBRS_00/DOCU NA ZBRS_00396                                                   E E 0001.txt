@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS You do not have the appropriate authorization.                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check your authorization profile.                                       

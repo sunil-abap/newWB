@@ -1,0 +1,26 @@
+U1 &CAUSE&                                                                 
+AS A transação enviou uma tela que não era esperada na pasta batch input   
+   e, por isso, que não foi possível alimentar com dados.                  
+AS Causas possíveis:                                                       
+AS 1. A pasta batch input foi criada incorretamente. A sequência das telas 
+   não foi marcada corretamente.                                           
+AS 2. No processamento em background a transação se comporta em um         
+   processo operacional batch de modo diferente de no diálogo (SY-BATCH é  
+   consultado e a sequência de tela é modificada).                         
+AS 3. A transação processou um customizing específico do usuário e, por    
+   isso, as telas são omitidas segundo cada usuário ou processadas de      
+   outra forma. Se o criador de uma pasta batch input é diferente da       
+   pessoa que está a processar esta pasta, este erro pode ocorrer          
+   freqüentemente.                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Nenhuma.                                                                
+U1 &WHAT_TO_DO&                                                            
+AS Para 1: criar de novo a pasta ou processar esta pasta no modo           
+   especialista. Corrigir o programa batch input.                          
+AS Para 2: este erro é difícil de analisar, especialmente se a sequência   
+   de tela ou a disponibilidade para entrada de campos são diferentes no   
+   processamento em background e no processamento em diálogo.              
+   Possivelmente uma transação destas não pode ser processada em batch     
+   input.                                                                  
+AS Para 3: a pasta deve ser processada pelo criador. Se não ocorrer nenhum 
+   erro, se trata de um programa com customizing específico do usuário.    

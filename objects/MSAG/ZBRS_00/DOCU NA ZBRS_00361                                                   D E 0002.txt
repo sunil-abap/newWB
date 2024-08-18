@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Fehler bei Abspielen einer Mappe.                                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Analysieren Sie die Mappe, um herauszufinden, wo der Fehler aufgetreten 
+   ist.  Oder spielen Sie die Mappe im Bearbeitungsmodus <LS>Nur Fehler    
+   anzeigen</> ab.                                                         

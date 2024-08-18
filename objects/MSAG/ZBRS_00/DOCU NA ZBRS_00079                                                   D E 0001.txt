@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Bei der Matchcodeselektion wurde ein interner Fehler festgestellt.      
+AS Mögliche Ursachen sind :                                                
+/: RESET N1                                                                
+N1 Von der Matchcodeschnittstelle wurde kein Keyfeld übergeben, oder       
+   dessen Länge ist 0.                                                     
+N1 Die Tabelle RSMDY für die Matchcodeschnittstelle konnte nicht angelegt  
+   werden.                                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+/: RESET N1                                                                
+N1 Matchcode Beschreibung überprüfen.                                      
+N1 Verantwortlichen verständigen.                                          

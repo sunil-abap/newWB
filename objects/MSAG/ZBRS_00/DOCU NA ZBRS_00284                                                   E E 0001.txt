@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS The entered password contains fewer than &V1& uppercase letters.        
+/  This condition was set by the administrator.                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Enter a password with at least &V1& uppercase letters.                  
+/  Valid uppercase letters are the alphabetical characters A - Z.          
+U1 &SYS_ADMIN&                                                             
+AS The administrator can specify this value via the profile parameter      
+   <ZH>login/min_password_uppercase</>.                                    
+/  For additional documentation, see transaction <DS:TRAN.RZ11>RZ11</>     
+   (Profile Parameter Maintenance).                                        

@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Aucun fichier archive n'a pu être créé.                                 
+*  L'espace nom pour les fichiers archive de l'objet est déjà renseigné ou 
+   le système d'exploitation ne peut pas générer le fichier.               
+*                                                                          
+*                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

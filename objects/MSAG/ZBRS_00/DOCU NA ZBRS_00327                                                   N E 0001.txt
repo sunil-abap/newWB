@@ -1,0 +1,2 @@
+U1 &CAUSE&                                                                 
+AS Mapstatus mag niet handmatig gewijzigd worden.                          

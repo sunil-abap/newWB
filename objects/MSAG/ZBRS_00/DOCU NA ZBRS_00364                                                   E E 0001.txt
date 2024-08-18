@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Statistical information after processing a batch input session.         
+   Number of transactions that were processed successfully.                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            

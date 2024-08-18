@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Mensagem 590 criada para ultima data de início para processamento batch 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

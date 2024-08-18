@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Erro de fila interno.                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Ver no log de sistema e informar o responsável.                         

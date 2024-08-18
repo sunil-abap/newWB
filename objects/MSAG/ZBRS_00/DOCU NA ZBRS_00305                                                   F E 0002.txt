@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Blocage ou déblocage des dossiers sélectionnés.                         
+AS Pour des raisons de performance, les dossiers importants sont débloqués 
+   en mode batch.                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS Aucune                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Remarque                                                                

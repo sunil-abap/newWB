@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS An error occurred when cancelling the user profiles. The user master    
+   record may possibly have been destroyed.                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Inform the system administrator or SAP.                                 

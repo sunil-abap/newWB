@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Dados batch input incorretos, nome de campo &V1& inválido. O nome de    
+   campo está vazio ou está mal escrito.                                   
+AS                                                                         
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Corrigir os nomes de campo nos dados batch input.                       

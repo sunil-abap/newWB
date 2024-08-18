@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Lors de la conversion des noms SNC, le produit externe de sécurité doit 
+   redéfinir le nom canonique SNC.                                         
+AS Cette redéfinition n'a pas pu avoir lieu dans au moins un cas.          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vous pouvez exécuter un nettoyage des noms SNC via le programme         
+   <DS:RE.RSSNCCHK>RSSNCCHK</>.                                            

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS The password must have at least 3 characters. The minimum password      
+   length can also be larger depending on the system parameter             
+   login/min_password_lng.                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Choose a longer password.                                               

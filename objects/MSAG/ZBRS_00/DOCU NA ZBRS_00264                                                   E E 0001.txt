@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS The specified GUI status either does not exist or was not generated.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Use the Menu Painter to check whether the status required actually      
+   exists. If it does, then generate the interface &V1& (using the Menu    
+   Painter).                                                               

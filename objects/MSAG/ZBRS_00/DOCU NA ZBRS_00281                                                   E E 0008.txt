@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS The password you entered contains fewer than &V1& letters.              
+/  This number of letters is specified by the administrator.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Enter a password with at least &V1& letters.                            
+/  The letters A-Z and a-z are valid letters.                              
+U1 &SYS_ADMIN&                                                             
+AS The administrator can specify this value using the profile parameter    
+   <ZH>login/min_password_letters</>.                                      
+/  For further documentation, refer to <ZK>Maintain Profile Parameters</>  
+   (transaction <DS:TRAN.RZ11>RZ11</>)                                     

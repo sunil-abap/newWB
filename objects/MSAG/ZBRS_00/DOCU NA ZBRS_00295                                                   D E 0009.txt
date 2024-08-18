@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Während der Verbuchung sind Kommunikationsprobleme aufgetreten. Daher   
+   konnte der Transaktionsstatus in der Batch-Input-Mappe nicht            
+   festgeschrieben werden. Wenn die Verbuchung erfolgreich zum Ende kommt, 
+   wird der Transaktionsstatus automatisch vom Verbucher als erfolgreich   
+   in der Mappe festgeschrieben.                                           
+AS Die betroffene Transaktion ist &V1&. Diese hat in der Mappe die         
+   laufende Nummer &V2&.                                                   
+/  Verbuchungsinformationen:                                               
+/  Returncode: &V3&                                                        
+/  Text      : &V4&                                                        
+/                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Die Mappe wird als fehlerhaft gekennzeichnet. Nachdem die Ursache für   
+   die Kommunikationsprobleme beseitigt worden ist, müssen Sie die Mappe   
+   erneut abspielen. Benutzen Sie dazu Transaktion sm35.                   

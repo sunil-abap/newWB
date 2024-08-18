@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Accès à une table interne via index = 0                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Spécifiez un index supérieur à 0                                        

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS A pasta selecionada &V1& não pode ser protegida. Ocorreu um erro na     
+   operação de bloqueio com um handler enfileirar.                         
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Informar o administrador de sistema                                     

@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS Er moet een map ingelezen worden maar er is geen bewerkingssoort        
+   geselecteerd                                                            
+U1 &WHAT_TO_DO&                                                            
+AS Selecteer een bewerkingssoort.                                          

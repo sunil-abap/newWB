@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Der Speicher Ihres Applikationsservers beginnt knapp zu werden.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Sie belegen nun exklusiv einen der wenigen Workprozesse auf dem         
+   Applikationsservers. Damit andere Benutzer nicht zu sehr behindert      
+   werden, wird der Workprozeß wieder freigegeben, falls Sie einige        
+   Minuten keine Aktionen auslösen. Das führt zum Abbruch Ihrer            
+   Transaktion und zum Verlust bislang erfaßter Daten.                     
+U1 &WHAT_TO_DO&                                                            
+AS Bitte arbeiten Sie normal weiter und beenden Sie die Transaktion vor    
+   einer längeren Pause.                                                   

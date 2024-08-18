@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS The following activities can only be used for a session:                
+B1 analysis                                                                
+B1 statistics                                                              
+B1 queue (dump)                                                            
+B1 log                                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Only individual session processing is possible, that is, do not         
+   select any block areas.                                                 

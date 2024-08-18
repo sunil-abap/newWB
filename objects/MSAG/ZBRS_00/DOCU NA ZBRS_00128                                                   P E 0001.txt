@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Nesta tela não foi encontrada nenhuma descrição matchcode.              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Gerar de novo tela. Se o erro ocorrer novamente, informar o             
+   responsável.                                                            

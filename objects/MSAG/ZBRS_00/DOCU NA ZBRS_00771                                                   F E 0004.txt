@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Une connexion par dialogue a eu lieu suite à l'utilisation de la        
+   fonctionnalité Secure Network Communications (SNC). Un utilisateur R/3  
+   a été spécifié simultanément. Le nom externe (nom SNC) livré par le     
+   système de sécurité au système R/3 n'est cependant pas affecté dans la  
+   table USRACL à l'utilisateur entré.                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS La connexion est refusée.                                               
+U1 &WHAT_TO_DO&                                                            
+AS Connectez-vous avec l'utilisateur autorisé ou affectez le nom SNC à     
+   l'utilisateur souhaité via la gestion des utilisateurs (SU01).          

@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Um campo foi modificado em um batch input interativo (processar pasta   
+   de forma visível ou só exibir erros).                                   
+AS Nome do campo:            &V1&                                          
+/  Novo conteúdo do campo:   &V2&                                          
+/  Conteúdo antigo do campo: &V3&                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

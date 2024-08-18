@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Vous avez demandé la fonction de marquage et marqué n dossiers.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Remarque                                                                

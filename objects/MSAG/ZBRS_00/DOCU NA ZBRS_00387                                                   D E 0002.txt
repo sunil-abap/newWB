@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Es gab einen Fehler beim Löschen des Batch-Input-Protokolls.            
+AS Mit Mappenname Datum Zeit und Queue ID.                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Wiederholen Sie den Vorgang und verständigen Sie ggf. die               
+   Systemverwaltung.                                                       

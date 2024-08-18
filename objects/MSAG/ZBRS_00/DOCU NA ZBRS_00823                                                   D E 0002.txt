@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Sie haben eine Ikone definiert. Die interne Darstellung dieser Ikone    
+   ist nicht korrekt.                                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Ikone kann nicht gesichert werden.                                  
+U1 &WHAT_TO_DO&                                                            
+AS Die interne Darstellung der Ikone muß in der Form @xxxxxx@ (mit x =     
+   {Buchstaben von A bis Z, Unterstrich}) erfolgen.                        
+AS Korrigieren Sie die interne Darstellung der Ikone entsprechend und      
+   sichern Sie erneut.                                                     
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

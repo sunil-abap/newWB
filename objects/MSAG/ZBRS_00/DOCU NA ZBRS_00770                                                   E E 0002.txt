@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Communication from another system (R/3 System or other system) using    
+   Secure Network Communications (SNC) was encountered. The SNC name (name 
+   for the external security system) of the R/3 partner system is not in   
+   the table SNCSYSACL for the target system or not permitted for the      
+   corresponding communication mode (RFC/CPIC/DIAG).                       
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS The target system terminates the connection.                            
+U1 &WHAT_TO_DO&                                                            
+AS The table SNCSYSACL is an Access Control List (ACL) containing a list   
+   of valid partner systems for SNC protected communication.               
+AS If communication was terminated by a valid system, add an entry to the  
+   table SNCSYSACL or activate the relevant communication mode.            

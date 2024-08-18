@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Statistiekinformatie na inlezen van een batchinput map.                 
+U1 &WHAT_TO_DO&                                                            
+AS Informatie.                                                             

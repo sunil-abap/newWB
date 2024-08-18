@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS The selected session &V1& cannot be worked on because it is currently   
+   being worked on by user &V2& and is therefore protected (enqueue).      
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Please try again later.                                                 
+AS                                                                         
+AS                                                                         
+AS                                                                         

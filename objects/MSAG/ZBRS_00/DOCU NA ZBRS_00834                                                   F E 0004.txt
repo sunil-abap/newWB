@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Les protocoles batch input sont archivés jusqu'à la version 4.6B        
+   incluse dans des fichiers Common log. A partir de la version 46C, les   
+   protocoles sont archivés dans les fichiers TemSe. Cette modification a  
+   l'avantage qu'en cas de fichier corrompu tous les autres protocoles du  
+   serveur d'application ne sont pas perdus.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Le programme RSBDCLCH vous permet de convertir tous les anciens         
+   protocoles Common-Log en nouveaux fichiers TemSe. Ceci n'est pas        
+   possible inversement. Le code de transaction RZ11 permet de définir le  
+   paramètre de profil 'bdc/new_protocol' en tant qu''activé'.             
+U1 &SYS_ADMIN&                                                             
+AS Les protocoles qui ont été créés via la nouvelle interface, ne peuvent  
+   plus être lus par l'ancienne interface et inversement. Ils              
+   n'apparaissent pas lors du listage des protocoles existants.            
+*                                                                          

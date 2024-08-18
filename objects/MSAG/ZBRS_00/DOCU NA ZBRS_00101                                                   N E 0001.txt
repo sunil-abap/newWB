@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS In de interactieve batchinput is overgeschakeld op een andere           
+   afspeelmodus.                                                           
+AS Er is van "Zichtbaar afspelen" overgeschakeld op "Alleen fouten         
+   weergeven".                                                             
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Ter informatie.                                                         

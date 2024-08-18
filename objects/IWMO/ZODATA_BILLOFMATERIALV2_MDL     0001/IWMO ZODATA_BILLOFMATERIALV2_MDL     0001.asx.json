@@ -1,0 +1,60 @@
+[
+ {
+  "table":"/IWBEP/I_MGW_OHD",
+  "data":
+  [
+   {
+    "TECHNICAL_NAME":"ZODATA_BILLOFMATERIALV2_MDL",
+    "VERSION":1,
+    "CLASS_NAME":"ZCL_ZODATA_BILLOFMATER_MPC_EXT",
+    "CREATED_BY":"SBORUGADDA",
+    "CHANGED_BY":"",
+    "CREATED_TIMESTMP":"+020240818075951",
+    "CHANGED_TIMESTMP":"0",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"/IWBEP/I_MGW_OHT",
+  "data":
+  [
+   {
+    "TECHNICAL_NAME":"ZODATA_BILLOFMATERIALV2_MDL",
+    "VERSION":1,
+    "LANGUAGE":"E",
+    "DESCRIPTION":"BOM Service for Draft 2.0"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"IWMO",
+    "OBJ_NAME":"ZODATA_BILLOFMATERIALV2_MDL     0001",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SBORUGADDA",
+    "SRCDEP":"",
+    "DEVCLASS":"ZGIT_BRS_PKG",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-08-18",
+    "CHECK_DATE":"2024-08-18",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

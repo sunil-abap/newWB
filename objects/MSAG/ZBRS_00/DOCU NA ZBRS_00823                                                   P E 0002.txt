@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS O usuário definiu um ícone. A representação interna deste ícone não     
+   está correta.                                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS Não é possível gravar o ícone.                                          
+U1 &WHAT_TO_DO&                                                            
+AS A representação interna do ícone tem de ser efetuada na forma @xxxxxx@  
+   (com x = {letras de A até Z, sublinha}).                                
+AS Corrigir a representação interna do ícone de forma correspondente e     
+   gravar de novo.                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

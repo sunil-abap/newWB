@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Lors de l'exécution d'une instruction SQL, l'erreur indiquée de la base 
+   de données s'est produite.                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vous devez réagir à cette erreur en fonction de son importance. Dans le 
+   protocole système, vous devriez trouver le texte d'erreur complet.      

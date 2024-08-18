@@ -1,0 +1,23 @@
+U1 <ZH>&CAUSE&</>                                                          
+AS Sie haben ein neues Kennwort eingegeben, welches sich in zu wenigen     
+   Zeichen vom alten Kennwort unterscheidet.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Wählen Sie ein Kennwort, welches sich in mindestens &V1&                
+   Zeichen vom alten Kennwort unterscheidet. Das von Ihnen eingegebene     
+   Kennwort unterscheidet sich nur in &V2& Zeichen.                        
+AS <ZU>Die Anzahl unterschiedlicher Zeichen wird wie folgt berechnet:</>   
+AS Beide Zeichenketten werden (durch Rotation) zu maximaler Überdeckung    
+   gebracht (Suche nach längster gemeinsamer Zeichenfolge). Die Anzahl der 
+   (bei stellenweisem Vergleich) dann unterschiedlichen Zeichen ist die    
+   gesuchte Zahl.                                                          
+AS Beispiel:,,altes Kennwort:,,"BDAFAG",,(6 Zeichen)                       
+/  ,,,,neues Kennwort:,,"ABC DBA",,(7 Zeichen)                             
+/  ,,,,nach Rotation:,,"DBAABC ",,(7 Zeichen)                              
+/  ,,,,==> Anzahl unterschiedlicher Zeichen = 4                            
+U1 &SYS_ADMIN&                                                             
+*  Der Administrator kann diesen Wert mittels Profilparameter              
+   <ZH>login/min_password_digits</> festlegen.                             
+/  Weitere Dokumentation: siehe Profilparameterpflege (Transaktion         
+   <DS:TRAN.RZ11>RZ11</>)                                                  

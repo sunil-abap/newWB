@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Destination erronée ou problème de BD                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS Interruption de la communication CPIC                                   
+U1 &WHAT_TO_DO&                                                            
+AS Vérifiez la destination et le journal système (system-log)              

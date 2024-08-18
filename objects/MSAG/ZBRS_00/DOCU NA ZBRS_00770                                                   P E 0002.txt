@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Outro sistema (sistema R/3 ou outro sistema) entrou em comunicação      
+   durante a utilização das funções Secure-Network-Communications (SNC). O 
+   nome SNC (nome de um sistema de segurança externo) do sistema do        
+   parceiro R/3 não existe na tabela SNCSYSACL do sistema destino ou não é 
+   permitido para o tipo de comunicação correspondente (RFC/CPIC/DIAG).    
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS O sistema destino cancelou a conexão.                                   
+U1 &WHAT_TO_DO&                                                            
+AS A tabela SNCSYSACL é uma lista de controle de acesso (ACL), que contém  
+   sistemas do parceiro aceites para a comunicação suportada por SNC.      
+AS Caso a comunicação cancelada tenha sido iniciada por um sistema         
+   permitido, deverá ser executada uma entrada na tabela SNCSYSACL ou      
+   deverá ser ativado o modo de comunicação correspondente.                

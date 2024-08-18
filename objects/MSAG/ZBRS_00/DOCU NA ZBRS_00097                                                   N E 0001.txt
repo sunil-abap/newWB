@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Benadering van interne tabel met index = 0                              
+U1 &WHAT_TO_DO&                                                            
+AS Index groter dan 0 gebruiken                                            

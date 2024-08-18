@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Não é possível preencher uma necessidade de memória dentro da interface 
+   banco de dados. Isto impossibilita uma continuação da operação atual.   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS É possível evitar o erro ao incrementar a memória SHORT (parâmetro de   
+   perfil ztta/short_area).                                                

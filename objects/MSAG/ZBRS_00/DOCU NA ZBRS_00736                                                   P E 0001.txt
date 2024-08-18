@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Na conversão de nomes SNC, o produto de segurança externo tem de        
+   determinar novamente o nome SNC canônico.                               
+AS Em pelo menos um caso isto não teve êxito.                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS É possível executar a depuração dos nomes SNC com o report              
+   <DS:RE.RSSNCCHK>RSSNCCHK</>.                                            

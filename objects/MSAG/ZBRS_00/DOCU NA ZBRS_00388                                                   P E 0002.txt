@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS O usuário selecionou "Processar em background": as pastas são           
+   processadas em um processo operacional batch em background.             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

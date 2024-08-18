@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Un raccourci ou une URL doit permettre de lancer une transaction,       
+   d'ignorer l'écran initial de la transaction et de poursuivre avec un    
+   code de fonction non autorisé.                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS Vous voulez lancer la transaction                                       
+AS &V1&                                                                    
+AS avec l'option "Ignorer écran initial" via un raccourci SAPGUI ou une    
+   URL.                                                                    
+U1 &WHAT_TO_DO&                                                            
+AS Ceci n'est pas autorisé pour cette transaction avec ce code de fonction.
+U1 &SYS_ADMIN&                                                             
+AS Si cette fonctionnalité est requise, contactez votre administrateur     
+   système. Pour ce faire, lisez la note 1956086.                          

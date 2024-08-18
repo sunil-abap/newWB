@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Bij het afspelen van een batchinput-map is een synchone update met      
+   fouten geëindigd. De fout is veroorzaakt door transactie &V1&. In de    
+   map heeft deze het volgnummer &V2&.                                     
+AS Update-informatie:                                                      
+/  Returncode:               &V3&                                          
+/  Tekst     :               &V4&                                          
+U1 &SYSTEM_RESPONSE&                                                       
+U1 &WHAT_TO_DO&                                                            
+AS Analyseer uw batchinput-map met transactie SM35, functie "Map". Voorts  
+   kunt u met transactie SM13 de update-records controleren.               

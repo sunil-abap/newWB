@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS A pasta selecionada &V1& não pode ser processada, pois atualmente está  
+AS a ser processada pelo usuário &V2& e, por isso, está protegida          
+AS (enfileirar).                                                           
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Tentar novamente um pouco mais tarde.                                   
+AS                                                                         
+AS                                                                         
+AS                                                                         

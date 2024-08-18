@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS No planejamento de uma pasta para processar em background ocorreu um    
+   erro.                                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS A pasta não foi planejada. Foi criada uma entrada de log de sistema.    
+U1 &WHAT_TO_DO&                                                            
+AS Verificar no log de sistema que erros possíveis ocorreram.              
+AS 1. O usuário não tem a autorização para o planejamento de jobs em       
+      background ?                                                         
+AS 2. O servidor de aplicação indicado pelo usuário está ativo ?           
+AS 3. Está a ser processado um 'processo operacional batch' no servidor de 
+      aplicação ?                                                          

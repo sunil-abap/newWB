@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS In een password zijn alleen tekens uit de 'syntactical characterset'    
+   toegestaan. Dit zijn de tekens van 0 t/m 9, de tekens uit het           
+   Amerikaanse alfabet en diverse speciale tekens die op elk toetsenbord   
+   voorkomen.                                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Kies een ander password.                                                

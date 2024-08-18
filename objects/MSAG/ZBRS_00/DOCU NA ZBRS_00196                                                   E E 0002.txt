@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS The system was unable to set a valid GUI codepage for the logon         
+   language.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS Conversion of characters between the system character set and the       
+   character set of the end user device will not function correctly.       
+   Incorrect characters may be displayed. When characters are entered,     
+   invalid data may be saved to the database.                              
+*                                                                          
+U1 &WHAT_TO_DO&                                                            
+AS Contact your system administrator.                                      
+*                                                                          
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

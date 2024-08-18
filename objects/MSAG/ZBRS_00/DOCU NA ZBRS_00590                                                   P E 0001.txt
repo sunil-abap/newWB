@@ -1,0 +1,7 @@
+U1                                                                         
+U1 &CAUSE&                                                                 
+AS Última data de início do processamento batch                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

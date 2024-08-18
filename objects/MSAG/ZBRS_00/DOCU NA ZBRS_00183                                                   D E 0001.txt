@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Es gibt Kennworte, die grundsätzlich nicht verwendet werden sollen.     
+   Hierzu gehören die Kennworte 'PASS' und 'SAP*'.                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte verwenden Sie ein anderes Kennwort.                               

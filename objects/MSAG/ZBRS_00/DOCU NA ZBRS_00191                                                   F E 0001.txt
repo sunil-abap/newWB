@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Depuis un programme ABAP/4, le programme système CPASS a été appelé avec
+   trop peu de paramètres.                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vérifiez le programme si vous en êtes l'auteur. Sinon, informez-en      
+   l'auteur de ce programme.                                               

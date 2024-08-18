@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Caractères de remplacement pour messages d'erreur batch-input.          
+   Ce message n'est pas édité.                                             
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS néant                                                                   
+AS                                                                         

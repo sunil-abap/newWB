@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS The password you entered contains fewer than &V1& special characters.   
+/  This number of special characters is specified by the administrator.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Enter a password with at least &V1& special characters.                 
+/  Valid special characters are !\"@$%&/()=?'`*+~#-_.,;:{[]}\\<>  .        
+U1 &SYS_ADMIN&                                                             
+AS The administrator can specify this value using the profile parameter    
+   <ZH>login/min_password_specials</>.                                     
+/  For further documentation, refer to <ZK>Maintain Profile Parameters</>  
+   (transaction <DS:TRAN.RZ11>RZ11</>)                                     

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS During batch input, you attempted to position the cursor on a field     
+   that does not exist.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Enter a field name which does exist.                                    

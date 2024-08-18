@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS Bij analyse van de map is het begin ervan bereikt, verder terugbladeren 
+   kan niet.                                                               
+U1 &WHAT_TO_DO&                                                            
+AS Informatie.                                                             

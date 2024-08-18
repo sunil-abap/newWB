@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Standardized response for a successful SELECT in the screen processing  
+   logic without a self-defined message.                                   
+AS Your input value(s) &V1& &V2& &V3& are in the table &V4&.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS information only.                                                       
+AS                                                                         

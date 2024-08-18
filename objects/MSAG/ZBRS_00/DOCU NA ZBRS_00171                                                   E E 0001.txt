@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS You attempted to log on in a language that is not installed.            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Specify one of the installed languages when logging on.                 

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Pelo menos uma etapa de instalação não foi corretamente encerrada, de   
+   preferência durante a fase de instalação posterior.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS O administrador de sistema e/ou o instalador têm de verificar a         
+   instalação.                                                             

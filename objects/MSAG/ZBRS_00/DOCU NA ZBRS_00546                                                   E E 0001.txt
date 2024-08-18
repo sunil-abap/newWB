@@ -1,0 +1,20 @@
+U1 &CAUSE&                                                                 
+AS The selected job is already processed (for example, released or         
+   deleted). In order that a work sequence once started can be             
+   consistently carried out and completed, the selected job is locked by   
+   the SAP locking mechanism. After a job is locked, only selected actions 
+   (for example, display of job information) can be carried out. The lock  
+   is released again upon completion of the activities.                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS The time between the start and the end of an action is generally only   
+   short, so that a repeated attempt of the required action encounters a   
+   job which is no longer locked, and the planned activities can therefore 
+   be executed.                                                            
+AS If the lock is still set even after repeated attempts, proceed as       
+   follows:                                                                
+N1 'Use transaction SM12 (display locks) to look at the locks that are set 
+   for table TBTCO (also table TBTCS for deletion of released jobs) and    
+   find out which user is currently locking the required job.              
+N1 Ask this user to end the action that he or she has started.             

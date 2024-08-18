@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Répertoire des protocoles batch-input (paramètre de profil) inexistant. 
+U1 &SYSTEM_RESPONSE&                                                       
+AS Contactez l'administrateur du système                                   
+U1 &WHAT_TO_DO&                                                            
+AS Corriger paramètre de profil dans "rsparam??"                           

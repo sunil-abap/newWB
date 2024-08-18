@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS There is only one info record for the session. Error creating the       
+   session.                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Create session again.                                                   

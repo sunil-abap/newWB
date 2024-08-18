@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS During batch input or when executing CALL TRANSACTION... USING a screen 
+   field was filled with an invalid input format.                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS Processing was terminated.                                              
+U1 &WHAT_TO_DO&                                                            
+AS The screen field has the technical name &V1& . The cause of the error   
+   is described in the following message.                                  
+AS Correct  the appropriate BDC data.                                      
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

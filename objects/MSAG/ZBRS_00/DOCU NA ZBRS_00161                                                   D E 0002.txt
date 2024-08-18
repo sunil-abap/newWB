@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Es wurde versucht, eine CPIC-Verbindung zu einem R/3 System aufzubauen. 
+AS Laut Profil-Parameter login/disable_cpic ist dies nicht erlaubt.        
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Anmeldung wird abgelehnt.                                           
+U1 &WHAT_TO_DO&                                                            
+AS Bitte wenden Sie sich an Ihren Systemverwalter oder benutzen Sie RFC    
+   anstatt CPIC zur Kommunikation.                                         

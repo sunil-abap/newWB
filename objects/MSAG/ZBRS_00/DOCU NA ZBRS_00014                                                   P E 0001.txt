@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Ao gerar os textos da tela &V1& &V2& no idioma &V3& foi determinado que 
+   a área de memória prevista para tal é demasiado pequena, nomeadamente   
+   &V4& bytes.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS A geração falhou e leva ao cancelamento.                                
+U1 &WHAT_TO_DO&                                                            
+AS É possível definir o tamanho desta área de memória com o parâmetro de   
+   perfil <LS>dynpro_language_area </>. Aumentar este parâmetro e executar 
+   de novo o sistema.                                                      

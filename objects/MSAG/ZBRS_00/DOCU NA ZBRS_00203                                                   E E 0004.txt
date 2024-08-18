@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS The user &v1& you have entered is not intended for debugging  because it
+   is not of type <ZK>dialog</>.                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Enter a user of type <ZK>dialog</>.                                     
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

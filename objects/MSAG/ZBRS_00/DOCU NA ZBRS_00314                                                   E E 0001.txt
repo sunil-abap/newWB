@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS A monitoring of batch input which is not yet supported was chosen.      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

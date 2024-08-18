@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS O processamento de uma pasta não é permitido, pois esta já está em      
+   processamento.                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Esperar até que a pasta mencionada tenha sido processada.               

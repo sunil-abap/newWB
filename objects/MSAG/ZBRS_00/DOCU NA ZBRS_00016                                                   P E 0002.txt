@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS O número das subtelas encadeadas em si mesmas está limitado através de  
+   uma variável de sistema. Este limite só serve para fins de segurança e  
+   não pode praticamente ser excedido nas aplicações.                      
+AS Se, apesar disso, este caso ocorrer, então muito possivelmente ocorre   
+   um erro de sistema.                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS O sistema reage com o cancelamento da transação atual.                  
+U1 &WHAT_TO_DO&                                                            
+AS O erro ocorrido tem de ser comunicado à SAP (departamento de Base).     

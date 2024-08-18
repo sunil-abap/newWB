@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Im Batch-Input wurde versucht, eine Cursor-Positionierung auf einem Feld
+   durchzuführen, das nicht vorhanden ist.                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Geben Sie einen Feldnamen an, der im Dynpro vorhanden ist.              

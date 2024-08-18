@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Screen &V1& uses structure &V2& from the ABAP Dictionary. This structure
+   was modified in the ABAP Dictionary during the run of the current       
+   transaction or the current program (time stamp of the structure in the  
+   program: &V3&, time stamp of the structure in the ABAP Dictionary: &V4& 
+=  ).                                                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS The execution of the program/transaction cannot be continued. For this  
+   reason processing has been terminated.                                  
+U1 &WHAT_TO_DO&                                                            
+AS Start the program/transaction again. The current version of the program 
+   will be loaded and the inconsistency rectified.                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

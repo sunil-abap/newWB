@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Un autre système (système R/3 ou autre système) est lancé en utilisant  
+   la fonctionnalité SNC (Secure Network Communication). Le nom SNC (nom   
+   dans le système de sécurité externe) du système partenaire R/3 n'est    
+   pas disponible dans la table SNCSYSACL du système cible ou il n'est pas 
+   autorisé pour le type de communication correspondant (RFC/CPIC/DIAG).   
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le système cible interrompt la connexion.                               
+U1 &WHAT_TO_DO&                                                            
+AS La table SNCSYSACL est une liste de contrôle d'accès (ACL) qui comprend 
+   les systèmes partenaires acceptés pour les communications SNC           
+   protégées.                                                              
+AS Si un système autorisé a initié la communication interrompue, vous      
+   devez effectuer une entrée dans la table SNCSYSACL ou activer le mode   
+   de communication correspondant.                                         

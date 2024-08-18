@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Het benaderde veld &V1& &V2& is in de loop van dynpro &V3& &V4&         
+   niet aanwezig.                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Controleer of uw batchinput-gegevens een tikfout bevatten of dat de     
+   veldnamen van het dynpro zijn veranderd.                                
+AS Loop-velden moeten in de batchinput als volgt worden aangegeven:        
+   LOOPFELD(3). Hierbij beschrijft '(3)' de regel van de loop.             

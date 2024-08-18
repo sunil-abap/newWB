@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS Aucune page de code GUI valable n'a pu être paramétrée pour la langue   
+   de travail.                                                             
+*                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS La conversion de caractères entre le jeu de caractères du système et le 
+   jeu de caractères de l'appareil de l'utilisateur final ne peut pas être 
+   effectuée correctement. Des caractères incorrects peuvent être          
+   affichés. Lors de l'entrée de caractères, des données non autorisées    
+   peuvent être envoyées dans la base de données.                          
+AS                                                                         
+*                                                                          
+U1 &WHAT_TO_DO&                                                            
+AS Adressez-vous à l'administrateur système.                               
+*                                                                          
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS A executabilidade da forma de processamento selecionada está dependente 
+   do status do batch job correspondente. O batch job selecionado está     
+   marcado como encerrado ou cancelado. Neste status não é possível        
+   executar a operação pretendida.                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verificar a seleção do processamento ou o batch job correspondente.     

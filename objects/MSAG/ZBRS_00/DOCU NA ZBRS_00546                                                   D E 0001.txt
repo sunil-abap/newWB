@@ -1,0 +1,22 @@
+U1 &CAUSE&                                                                 
+AS Der selektierte Job wird bereits bearbeitet (z.B. freigegeben oder      
+   gelöscht). Damit eine begonnene Arbeitssequenz konsistent durchgeführt  
+   und abgeschlossen werden kann, erfolgt eine Sperrung eines selektierten 
+   Jobs durch den SAP Sperr-Mechanismus. Nachdem ein Job gesperrt ist,     
+   können nur noch ausgewählte Aktionen (z.B. Anzeigen von Job-Infos)      
+   durchgeführt werden. Die Sperre wird nach Abschluß der Tätigkeiten      
+   wieder freigegeben.                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Die zeitliche Dauer zwischen Beginn und Abschluß einer Aktion ist i.a.  
+   nur kurz, so daß ein nochmaliger Versuch der gewünschten Aktion auf     
+   einen nicht mehr gesperrten Job trifft und damit die geplanten          
+   Tätigkeiten ausgeführt werden können.                                   
+AS Ist die Sperre auch nach mehrmaligen Versuchen immer noch gesetzt, so   
+   empfiehlt sich folgendes Vorgehen:                                      
+N1 Mit Hilfe der Transaktion SM12 (Sperren anzeigen) die gesetzten Sperren 
+   zur Tabelle TBTCO (beim Löschen freigegebener Jobs auch Tabelle TBTCS)  
+   betrachten und den Benutzer ermitteln, welcher den gewünschten Job      
+   z.Zt. sperrt.                                                           
+N1 Den ermittelten Benutzer auffordern, die begonnene Handlung zu beenden. 

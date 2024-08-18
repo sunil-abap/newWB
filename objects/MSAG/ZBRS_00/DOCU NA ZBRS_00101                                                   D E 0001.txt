@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Sie haben im interaktiven Batch-Input den Abspielmodus gewechselt.      
+AS Es wurde umgeschaltet von 'Sichtbar abspielen' auf 'Nur Fehler          
+   anzeigen'.                                                              
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Information                                                             

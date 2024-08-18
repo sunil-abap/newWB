@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Um slot de memória estendida está sendo necessário por cada modo        
+   interno. (Cada modo externo pode conter até 9 modos internos).          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

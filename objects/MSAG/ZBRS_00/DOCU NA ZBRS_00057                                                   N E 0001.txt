@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Standaard antwoord bij geslaagde SELECT in de dynproverwerkingslogica   
+U1 &WHAT_TO_DO&                                                            
+AS Slechts ter informatie                                                  

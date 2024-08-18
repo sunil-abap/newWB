@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Sie haben Ikonen definiert. Der Ikonen-Name enthält unzulässige         
+   Zeichen.                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Ikonen können nicht gesichert werden.                               
+U1 &WHAT_TO_DO&                                                            
+AS Für Ikonen-Namen sind die folgenden Zeichen zulässig:                   
+B1 Buchstaben  A bis Z                                                     
+B1 Unterstrich _                                                           
+AS Korrigieren Sie den Ikonen-Namen entsprechend und Sichern Sie erneut.   
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

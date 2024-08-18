@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Sie versuchen einen Block der Batch-Input Mappe zu analysieren, der     
+   sich außerhalb des vorhandenen Blockbereiches  1 bis &V1&  befindet.    
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte berichtigen Sie die Blocknummer auf einen gültigen Block.         
+AS                                                                         

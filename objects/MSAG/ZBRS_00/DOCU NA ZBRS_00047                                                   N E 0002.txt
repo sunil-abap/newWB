@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Bij het laden van dynpro &V1& &V2& zijn de timestamps van de in de      
+   dynpro gebruikte tabellen gecontroleerd. Ten minste een timestap was    
+   onjuist. Daarom is het dynpro opnieuw gegenereerd en hierbij is de      
+   timestap van de gebruikte tabellen uit de data-dictionary overgenomen.  
+AS Na de generering zijn de timestamps opnieuw gecontroleerd. Hierbij zijn 
+   wederom ongerechtigheden ten aanzien van de timestamps vastgesteld.     
+AS Dit kan voorkomen als tijdens de generering de tabel in de              
+   data-dictionary wordt gemodificeerd of geactiveerd.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS De transactie wordt afgebroken.                                         
+U1 &WHAT_TO_DO&                                                            
+AS Start de transactie opnieuw.                                            

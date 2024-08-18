@@ -1,0 +1,10 @@
+AS                                                                         
+AS                                                                         
+U1 &CAUSE&                                                                 
+AS Ausgewählte Mappe oder Mappen mit Protokoll wurden gelöscht.            
+AS Aus Performancegründen werden große Mappen und deren Protokolle         
+AS im Batch gelöscht                                                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS Keine.                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Hinweis.                                                                

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Erro na criação de uma pasta batch input.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Informar o responsável.                                                 

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS L'objet matchcode n'a pu être défini pour la sélection via matchcode.   
+/                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Indiquez l'objet matchcode dans la description de la zone du dynpro et  
+   re-générez le dynpro.                                                   

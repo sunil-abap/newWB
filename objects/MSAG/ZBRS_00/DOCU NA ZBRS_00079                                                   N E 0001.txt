@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Bij de matchcodeselectie is een interne fout vastgesteld.               
+/  Mogelijke oorzaken:                                                     
+/  1. Door het matchcodeinterface is geen keyveld                          
+/     doorgegeven of de lengte ervan is 0.                                 
+/  2. Tabel RSMDY voor het matchcodeinterface kon niet                     
+/     aangelegd worden.                                                    
+U1 &WHAT_TO_DO&                                                            
+AS 1. Matchcode beschrijving controleren.                                  
+/  2. Verantwoordelijke inlichten.                                         

@@ -1,0 +1,21 @@
+U1 &CAUSE&                                                                 
+AS Bei der Freigabe der Batch-Input Mappe wurde nach entsprechenden noch   
+   vorhandenen Verbuchungsaufträgen gesucht.                               
+/  Dabei wurde für die in der Mappe &V1& enthaltene Transaktion mit dem    
+   Index &V2& ein zugehöriger Verbuchungssatz gefunden.                    
+AS Nach einer Freigabe dieser Mappe könnte es vorkommen, dass die Mappe    
+   erneut abgespielt wird UND der noch existierende Verbuchungsauftrag noch
+   nicht verbucht ist.                                                     
+/  Dadurch könnten Daten doppelt verbucht werden.                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS Es erfolgt keine Freigabe der Mappe.                                    
+U1 &WHAT_TO_DO&                                                            
+AS Analysieren Sie den zugehörigen Verbuchungsauftrag mit Hilfe der        
+   Transaktion SM13:                                                       
+T1 Benutzer:,,&V3&                                                         
+/  Datum Zeit:,,&V4&                                                       
+AS                                                                         
+AS Prüfen Sie, ob der Verbuchungssatz noch ausgeführt werden kann und somit
+   keine Freigabe benötigt wird.                                           
+U1 &SYS_ADMIN&                                                             
+*                                                                          

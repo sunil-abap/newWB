@@ -1,0 +1,5 @@
+*  Der interne Modus des Hintergrundprozesses wurde wegen einem            
+   Laufzeitfehlers abgebrochen. Der Laufzeitfehler wurde in der Datenbank  
+   gespeichert und kann mit der Transaktion ST22 (ABAP Dumpanalyse)        
+   analysiert werden. Der Laufzeitfehler wird automatisch in 4 Wochen      
+   gelöscht.                                                               

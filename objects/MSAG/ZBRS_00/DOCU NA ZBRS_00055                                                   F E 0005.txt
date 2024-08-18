@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Vous avez essayé de mettre à jour des données ou de lancer une action.  
+   Cependant, toutes les indications nécessaires n'ont pas été fournies.   
+U1 &SYSTEM_RESPONSE&                                                       
+AS L’action n’a pas pu être exécutée.                                      
+U1 &WHAT_TO_DO&                                                            
+AS Saisissez toutes les indications requises. Les zones à renseigner       
+   obligatoirement sont reconnaissables à une case avec une coche, un point
+   d'interrogation ("?") ou à un astérisque ("*") indiqués comme contenu de
+   zone par le système. Si l'écran actuel comprend des pages d'onglets,    
+   vérifiez également celles qui ne sont pas affichées et si toutes les    
+   zones à renseigner obligatoirement sont remplies. Ensuite, relancez     
+   l'action.                                                               
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

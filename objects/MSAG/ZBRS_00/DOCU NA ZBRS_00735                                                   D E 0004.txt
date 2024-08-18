@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Mindestens ein Installationsschritt ist nicht korrekt beendet worden,   
+   vorzugsweise während der Post-Installations-Phase.                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Systemadministrator und/oder Installateur müssen die Installation       
+   überprüfen.                                                             

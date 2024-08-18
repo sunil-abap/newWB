@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Para o batch job selecionado não foi possível encontrar nenhum log de   
+   job. Se o batch job estiver no estado 'Cancelado', esta mensagem indica 
+   problemas ao executar o batch job.                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS Os problemas que ocorrem ao executar um batch job (por exemplo, não é   
+   possível criar o log devido a falta de capacidade) são marcados no log  
+   de sistema.                                                             
+U1 &WHAT_TO_DO&                                                            
+AS Para uma análise exata da falta do log de job é aconselhável consultar  
+   o log de sistema do servidor de aplicação, através do qual deve ser     
+   executado o batch job correspondente. Aí são especialmente pertinentes  
+   as mensagens que são efetuadas através de processos operacionais batch. 
+   Estas mensagens marcam o início de um job e os problemas que ocorreram  
+   eventualmente ao executar.                                              

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Deze activiteiten zijn alleen mogelijk voor een verslag:                
+AS Analyse                                                                 
+AS Selectie                                                                
+AS &SYSTEM_RESPONSE& &WHAT_TO_DO&                                          
+AS Er kan alleen een afzonderlijk verslag worden bewerkt, er kunnen geen   
+   blokken worden gemarkeerd.                                              

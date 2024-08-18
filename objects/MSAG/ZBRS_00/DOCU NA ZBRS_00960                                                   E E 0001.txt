@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS The maximum number of cursors for this interface (RSQL, RTAB,           
+   DSQL) has already been reached; a further cursor cannot be opened.      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

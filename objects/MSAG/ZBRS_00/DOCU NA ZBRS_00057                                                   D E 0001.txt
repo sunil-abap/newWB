@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Standisierte Antwort bei erfolgreichem SELECT in der Dynproablauflogik  
+AS ohne selbstdefinierte Meldung.                                          
+AS Ihre Eingabewert(e) &V1& &V2& &V3& sind in der Tabelle &V4& vorhanden.  
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Nur Hinweis.                                                            
+AS                                                                         

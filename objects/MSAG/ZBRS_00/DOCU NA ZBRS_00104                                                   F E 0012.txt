@@ -1,0 +1,26 @@
+AS Ce message est édité dans le protocole batch input pour documenter que  
+   l'utilisateur a quitté le traitement de la transaction dans le batch    
+   input interactif avec la touche de fonction F3, F12 ou F15.             
+AS Du point de vue du batch input, cela signifie que :                     
+/                                                                          
+B1 si vous avec quitté l'écran de confirmation du batch input avec <.OUI.> 
+   :                                                                       
+B2 Le dossier batch input reçoit le statut « erroné » ;                    
+B2 la transaction est terminée de manière incorrecte, mais elle reste dans 
+   le dossier ;                                                            
+B2 les données qui ne sont pas encore mises à jour, c.-à-d. la transaction 
+   marquée comme incorrecte, peut être remise à jour en exécutant à        
+   nouveau le dossier batch input.                                         
+/                                                                          
+B1 si vous avez quitté l'écran de confirmation du batch input avec <.NON.> 
+   :                                                                       
+B2 la transaction dans le dossier batch input se termine reçoit le statut  
+   « traité correctement » ;                                               
+B2 la transaction n'est plus exécutable ;                                  
+B2 si les données dans la transaction n'ont pas encore mises à jour dans   
+   la transaction sont perdues.                                            
+/                                                                          
+U1 &WHAT_TO_DO&                                                            
+AS Utilisez la fonction de menu « Système -> Services -> Batch input ->    
+   Interrompre » pour interrompre un batch input interactif.               
+AS                                                                         

@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS O usuário definiu ícones. As IDs destes ícones são crescentes sem       
+   lacunas.                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Não é possível gravar os ícones.                                        
+U1 &WHAT_TO_DO&                                                            
+AS Obter informações no report <ICON> sobre que ID tem de ser atribuída    
+   como seguinte.                                                          
+AS Eliminar os ícones acima definidos e definir os ícones de novo.         
+   Utilizar a ID seguinte em uma sequência sem lacunas.                    
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

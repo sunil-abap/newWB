@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS De poging om de laatste DB-transactie terug te nemen is wegens een      
+   SQL-fout afgebroken.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Aangenomen kan worden dat ingeval van deze fout het desbetreffende      
+   proces niet kan worden voortgezet. De transactie moet in dit geval      
+   door het database-systeem automatisch ongedaan worden gemaakt.          

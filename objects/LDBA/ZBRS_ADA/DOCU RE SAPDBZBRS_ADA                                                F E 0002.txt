@@ -1,0 +1,6 @@
+U1 &DESCRIPTION&                                                           
+/: INCLUDE 'AA_ADA' OBJECT DOKU ID TX LANGUAGE F                           
+U1 Zones de valeur                                                         
+AS La banque de données logiques ADA fournit pour le reporting les         
+   éléments de données suivants avec des valeurs d'immobilisations.        
+/: INCLUDE 'AA_ANLCV' OBJECT DOKU ID TX LANGUAGE F                         

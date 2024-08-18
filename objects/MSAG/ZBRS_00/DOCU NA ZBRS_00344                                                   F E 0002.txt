@@ -1,0 +1,30 @@
+U1 &CAUSE&                                                                 
+AS La transaction est à l'origine de l'envoi d'un dynpro imprévu dans le   
+   dossier batch input. C'est pourquoi, ce dynpro n'est pas renseigné.     
+AS Raisons possibles :                                                     
+AS 1. Création du dossier batch input est erronée. La séquence des         
+   dynprosn'a pas été correctement enregistrée.                            
+AS 2. La transaction fonctionne différemment, selon s'il s'agit d'un       
+   traitement à l'arrière-plan d'un processus de travail batch ou d'un     
+   processus en mode interactif (SY-BATCH est interrogé. Il permet de      
+   modifier la séquence de dynpros).                                       
+AS 3. La transaction a été paramétrée dans le customizing spécifique au    
+   client. C'est la raison pour laquelle, les dynpros sont ignorés ou      
+   traités de manière différente selon l'utilisateur. Si l'auteur d'un     
+   dossier batch input est n'est pas l'utilisateur exécutant le dossier,   
+   cette erreur apparaît.                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS Aucune                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Dans le premier cas :                                                   
+/  Créez le dossier ou relancez-le dans un mode expert. Corrigez le        
+   programme batch input.                                                  
+AS Dans le deuxième cas : Il est difficile d'analyser cette erreur,        
+   notamment lorsque la séquence d'écrans ou l'accessibilité des zones     
+   diffère selon si le traitement s'effectue à l'arrière-plan ou en mode   
+   dialogue.                                                               
+AS Il est possible qu'une telle transaction ne soit pas prévue pour être   
+   lancée en mode batch input.                                             
+AS Dans le troisième cas : Le dossier doit être exécutée par son auteur.   
+   Si l'exécution est correcte, il s'agit alors d'un programme avec un     
+   customizing défini par l'utilisateur.                                   

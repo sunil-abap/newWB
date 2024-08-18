@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Bei Batch-Input oder Call Transaction ... Using wurde ein Dynprofeld    
+   mit einem ungültigem Eingabeformat versorgt.                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Verarbeitung wurde abgebrochen.                                     
+U1 &WHAT_TO_DO&                                                            
+AS Das Dynprofeld hat den technischen Namen &V1& . Die Fehlerursache wird  
+   in der folgenden Nachricht beschrieben.                                 
+AS Bitte korrigieren Sie die entsprechenden BDC-Daten.                     
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

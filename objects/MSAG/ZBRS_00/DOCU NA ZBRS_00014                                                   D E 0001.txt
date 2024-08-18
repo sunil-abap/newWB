@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Beim Generieren der Texte des Dynpros &V1& &V2& in der Sprache &V3&     
+   wurde festgestellt, daß der dafür vorgesehene Speicherbereich zu klein  
+   ist, nämlich &V4& Bytes.                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Generierung ist mißlungen und führt zum Abbruch.                    
+U1 &WHAT_TO_DO&                                                            
+AS Sie können die Größe dieses Speicherbereiches mit dem Profil-Parameter  
+   <LS>dynpro_language_area </>einstellen. Erhöhen Sie diesen Parameter    
+   und starten Sie das System neu.                                         

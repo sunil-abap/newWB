@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Die Eingabewerte müssen in der Tabelle &V4& hinterlegt sein. Der oder   
+   die Werte "&V1& &V2& &V3&" sind in der Tabelle nicht angelegt.          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Prüfen und korrigieren Sie ggf. die Eingabe.                            
+U1 &SYS_ADMIN&                                                             
+AS Sofern es sich nicht um einen Eingabefehler handelt, prüfen und ändern  
+   Sie ggf. die Systemeinstellungen.                                       
+AS Wenn eine Verknüpfung zum Customizing-System gepflegt ist, gelangen     
+   Sie,über den Knopf "Customizing" im Performance Assistant bzw. über     
+   <PF>Einträge pflegen</> (<PF>F5</>) bei Anzeige der Hilfe im modalen    
+   Fenster, in die Pflege der Systemeinstellungen.                         

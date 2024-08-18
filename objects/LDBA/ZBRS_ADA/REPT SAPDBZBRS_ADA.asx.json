@@ -1,0 +1,3445 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"D",
+    "ENTRY":"",
+    "LENGTH":1
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"D",
+    "ENTRY":"-------------------",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"-------------------",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"F",
+    "ENTRY":"-------------------",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"N",
+    "ENTRY":"-------------------",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"P",
+    "ENTRY":"-------------------",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"D",
+    "ENTRY":"Tabelle                 Anzahl gelesene Segmente",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"E",
+    "ENTRY":"Table                   No. of segments read",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"F",
+    "ENTRY":"Table                   Nombre segments lus",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"N",
+    "ENTRY":"Tabel                   Aantal gelezen segmenten",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"P",
+    "ENTRY":"Tabela                  Número segmentos import.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"D",
+    "ENTRY":"------------------------------",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"E",
+    "ENTRY":"------------------------------",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"F",
+    "ENTRY":"------------------------------",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"N",
+    "ENTRY":"------------------------------",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"P",
+    "ENTRY":"------------------------------",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"D",
+    "ENTRY":"Zeitpunkt            Zeit(HHMMSS)  rel.(10-6 sec)",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"E",
+    "ENTRY":"Time                 Time (HHMMSS) Rel.(10-6 secs)",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"F",
+    "ENTRY":"Heure                Hre (HHMMSS)  rel.(10-6 sec)",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"N",
+    "ENTRY":"Tijdstip             Tijd(UUMMSS)  rel.(10-6 sec)",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"P",
+    "ENTRY":"Momento              Hora(HHMMSS)  rel.(10-6 seg)",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"D",
+    "ENTRY":"-------------------------------------------------",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"E",
+    "ENTRY":"-------------------------------------------------",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"F",
+    "ENTRY":"-------------------------------------------------",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"N",
+    "ENTRY":"-------------------------------------------------",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"P",
+    "ENTRY":"-------------------------------------------------",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"D",
+    "ENTRY":"davon nicht berechtigt",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"E",
+    "ENTRY":"Not authorized",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"F",
+    "ENTRY":"Dont non autoris.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"N",
+    "ENTRY":"daarvan niet bevoegd",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"P",
+    "ENTRY":"dos quais sem autorização",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"D",
+    "ENTRY":"Beginn der Selektion",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"E",
+    "ENTRY":"Start of Selection",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"F",
+    "ENTRY":"Début sélection",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"N",
+    "ENTRY":"Begin van selectie",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"P",
+    "ENTRY":"Início da seleção",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"D",
+    "ENTRY":"Ende der Selektion",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"E",
+    "ENTRY":"End of Selection",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"F",
+    "ENTRY":"Fin sélection",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"N",
+    "ENTRY":"Einde van selectie",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"P",
+    "ENTRY":"Fim da seleção",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"020",
+    "LANG":"D",
+    "ENTRY":"Bewertungsbereich",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"020",
+    "LANG":"E",
+    "ENTRY":"Depreciation area",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"020",
+    "LANG":"F",
+    "ENTRY":"Tableau d'évaluation",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"020",
+    "LANG":"N",
+    "ENTRY":"Waarderingsgebied",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"020",
+    "LANG":"P",
+    "ENTRY":"Área de avaliação",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"030",
+    "LANG":"D",
+    "ENTRY":"Einstellungen --------------------------------------------------------------- *",
+    "LENGTH":79
+   },
+   {
+    "ID":"I",
+    "KEY":"030",
+    "LANG":"E",
+    "ENTRY":"Settings--------------------------------------------------------------------- *",
+    "LENGTH":79
+   },
+   {
+    "ID":"I",
+    "KEY":"030",
+    "LANG":"F",
+    "ENTRY":"Options --------------------------------------------------------------------- *",
+    "LENGTH":79
+   },
+   {
+    "ID":"I",
+    "KEY":"030",
+    "LANG":"N",
+    "ENTRY":"Instellingen ---------------------------------------------------------------- *",
+    "LENGTH":79
+   },
+   {
+    "ID":"I",
+    "KEY":"030",
+    "LANG":"P",
+    "ENTRY":"Opções ---------------------------------------------------------------------- *",
+    "LENGTH":79
+   },
+   {
+    "ID":"I",
+    "KEY":"040",
+    "LANG":"D",
+    "ENTRY":"Reportspezifische Angaben --------------------------------------------------- *",
+    "LENGTH":79
+   },
+   {
+    "ID":"I",
+    "KEY":"040",
+    "LANG":"E",
+    "ENTRY":"Report specific entries------------------------------------------------------ *",
+    "LENGTH":79
+   },
+   {
+    "ID":"I",
+    "KEY":"040",
+    "LANG":"F",
+    "ENTRY":"Données spécifiques au programme de reporting ------------------------------- *",
+    "LENGTH":79
+   },
+   {
+    "ID":"I",
+    "KEY":"040",
+    "LANG":"N",
+    "ENTRY":"Rapportspecifieke gegevens -------------------------------------------------- *",
+    "LENGTH":79
+   },
+   {
+    "ID":"I",
+    "KEY":"040",
+    "LANG":"P",
+    "ENTRY":"Informações específicas do programa ----------------------------------------- *",
+    "LENGTH":79
+   },
+   {
+    "ID":"I",
+    "KEY":"050",
+    "LANG":"D",
+    "ENTRY":"Anlagenstammsatz",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"050",
+    "LANG":"E",
+    "ENTRY":"Asset master record",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"050",
+    "LANG":"F",
+    "ENTRY":"Fiche d'immob.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"050",
+    "LANG":"N",
+    "ENTRY":"Stamrec. vast actief",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"050",
+    "LANG":"P",
+    "ENTRY":"Registro mestre imob.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"051",
+    "LANG":"D",
+    "ENTRY":"Bewertungsangaben",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"051",
+    "LANG":"E",
+    "ENTRY":"Value entries",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"051",
+    "LANG":"F",
+    "ENTRY":"Données d'éval.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"051",
+    "LANG":"N",
+    "ENTRY":"Waarderingsgegevens",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"051",
+    "LANG":"P",
+    "ENTRY":"Dados de avaliação",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"052",
+    "LANG":"D",
+    "ENTRY":"Jahreswerte",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"052",
+    "LANG":"E",
+    "ENTRY":"Annual values",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"052",
+    "LANG":"F",
+    "ENTRY":"Val. ann.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"052",
+    "LANG":"N",
+    "ENTRY":"Jaarwaarden",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"052",
+    "LANG":"P",
+    "ENTRY":"Valores anuais",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"053",
+    "LANG":"D",
+    "ENTRY":"Zeitabhängige Daten",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"053",
+    "LANG":"E",
+    "ENTRY":"Time-dependent data",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"053",
+    "LANG":"F",
+    "ENTRY":"Donn. avec pér. val.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"053",
+    "LANG":"N",
+    "ENTRY":"Tijdafh. gegevens",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"053",
+    "LANG":"P",
+    "ENTRY":"Dados depend.tempo",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"054",
+    "LANG":"D",
+    "ENTRY":"Versicherungsangaben",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"054",
+    "LANG":"E",
+    "ENTRY":"Insurance entries",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"054",
+    "LANG":"F",
+    "ENTRY":"Données d'assurance",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"054",
+    "LANG":"N",
+    "ENTRY":"Verzekeringsgegevens",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"054",
+    "LANG":"P",
+    "ENTRY":"Dados do seguro",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"055",
+    "LANG":"D",
+    "ENTRY":"Einzelbewegungen",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"055",
+    "LANG":"E",
+    "ENTRY":"Indiv. transactions",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"055",
+    "LANG":"F",
+    "ENTRY":"Mouvem. individ.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"055",
+    "LANG":"N",
+    "ENTRY":"Afzonderl. beweging",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"055",
+    "LANG":"P",
+    "ENTRY":"Movimentações indivs.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"056",
+    "LANG":"D",
+    "ENTRY":"Anteilige Werte",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"056",
+    "LANG":"E",
+    "ENTRY":"Proportional values",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"056",
+    "LANG":"F",
+    "ENTRY":"Quote-parts",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"056",
+    "LANG":"N",
+    "ENTRY":"Proportionele waarden",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"056",
+    "LANG":"P",
+    "ENTRY":"Valores proporc.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"057",
+    "LANG":"D",
+    "ENTRY":"Allgemeine Bewegungsangaben",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"057",
+    "LANG":"E",
+    "ENTRY":"General transaction entries",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"057",
+    "LANG":"F",
+    "ENTRY":"Données générales de mouvement",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"057",
+    "LANG":"N",
+    "ENTRY":"Algemene bewegingsgegevens",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"057",
+    "LANG":"P",
+    "ENTRY":"Dados gerais de movimentos",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"060",
+    "LANG":"D",
+    "ENTRY":"Für Buchungskreis",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"060",
+    "LANG":"E",
+    "ENTRY":"For company code",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"060",
+    "LANG":"F",
+    "ENTRY":"Pour la société",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"060",
+    "LANG":"N",
+    "ENTRY":"Voor bedrijfsnr.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"060",
+    "LANG":"P",
+    "ENTRY":"Para a empresa",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"061",
+    "LANG":"D",
+    "ENTRY":"wurde ein Jahr vor der Übernahme angefordert.",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"061",
+    "LANG":"E",
+    "ENTRY":"you requested a year before the transfer.",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"061",
+    "LANG":"F",
+    "ENTRY":"l'exercice demandé est situé avant la reprise",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"061",
+    "LANG":"N",
+    "ENTRY":"is een jaar voor de overname opgevraagd.",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"061",
+    "LANG":"P",
+    "ENTRY":"Solicitação feita um ano antes da aceitação",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"100",
+    "LANG":"D",
+    "ENTRY":"Dieses Programm enthält Datenbank-Zugriffsroutinen.",
+    "LENGTH":51
+   },
+   {
+    "ID":"I",
+    "KEY":"100",
+    "LANG":"E",
+    "ENTRY":"This program contains database access routines.",
+    "LENGTH":51
+   },
+   {
+    "ID":"I",
+    "KEY":"100",
+    "LANG":"F",
+    "ENTRY":"Ce programme contient des routines d'accès aux bases de données.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"100",
+    "LANG":"N",
+    "ENTRY":"Dit programma bevat databasetoegangsroutines.",
+    "LENGTH":51
+   },
+   {
+    "ID":"I",
+    "KEY":"100",
+    "LANG":"P",
+    "ENTRY":"Este programa contém rotinas de acesso a bancos de dados",
+    "LENGTH":56
+   },
+   {
+    "ID":"I",
+    "KEY":"101",
+    "LANG":"D",
+    "ENTRY":"Es kann daher nicht alleine gestartet werden.",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"101",
+    "LANG":"E",
+    "ENTRY":"Therefore it cannot be started alone.",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"101",
+    "LANG":"F",
+    "ENTRY":"Donc il ne peut être lancé seul.",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"101",
+    "LANG":"N",
+    "ENTRY":"Het kan daarom niet alleen worden gestart.",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"101",
+    "LANG":"P",
+    "ENTRY":"Portanto não pode ser iniciado individualmente",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"102",
+    "LANG":"D",
+    "ENTRY":"Abbruch der Verarbeitung !",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"102",
+    "LANG":"E",
+    "ENTRY":"Processing canceled",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"102",
+    "LANG":"F",
+    "ENTRY":"Interruption du traitement !",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"102",
+    "LANG":"N",
+    "ENTRY":"Verwerking afgebroken!",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"102",
+    "LANG":"P",
+    "ENTRY":"Cancel.processamento",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"200",
+    "LANG":"D",
+    "ENTRY":"Eingegebenes Berichtsdatum",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"200",
+    "LANG":"E",
+    "ENTRY":"Report date entered",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"200",
+    "LANG":"F",
+    "ENTRY":"Date d'analyse indiquée",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"200",
+    "LANG":"N",
+    "ENTRY":"Ingevoerde verslagdatum",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"200",
+    "LANG":"P",
+    "ENTRY":"A data de relatório entrada",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"201",
+    "LANG":"D",
+    "ENTRY":"führt zu Archivauswertung.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"201",
+    "LANG":"E",
+    "ENTRY":"leads to archive analysis.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"201",
+    "LANG":"F",
+    "ENTRY":"nécessite analyse archives.",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"201",
+    "LANG":"N",
+    "ENTRY":"leidt tot archiefevaluatie.",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"201",
+    "LANG":"P",
+    "ENTRY":"leva a análise de arquivo",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"202",
+    "LANG":"D",
+    "ENTRY":"Wollen Sie trotzdem fortfahren?",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"202",
+    "LANG":"E",
+    "ENTRY":"Do you want to continue anyway?",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"202",
+    "LANG":"F",
+    "ENTRY":"Continuer tout de même?",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"202",
+    "LANG":"N",
+    "ENTRY":"Toch doorgaan?",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"202",
+    "LANG":"P",
+    "ENTRY":"Prosseguir?",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"203",
+    "LANG":"D",
+    "ENTRY":"Anlagenreporting",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"203",
+    "LANG":"E",
+    "ENTRY":"Asset reporting",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"203",
+    "LANG":"F",
+    "ENTRY":"Reporting immob.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"203",
+    "LANG":"N",
+    "ENTRY":"VA-rapportage",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"203",
+    "LANG":"P",
+    "ENTRY":"Reporting imob.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"204",
+    "LANG":"D",
+    "ENTRY":"Eventuell vorhandene freie Abgrenzungen werden ignoriert.",
+    "LENGTH":60
+   },
+   {
+    "ID":"I",
+    "KEY":"204",
+    "LANG":"E",
+    "ENTRY":"Any existing dynamic selections are ignored.",
+    "LENGTH":60
+   },
+   {
+    "ID":"I",
+    "KEY":"204",
+    "LANG":"F",
+    "ENTRY":"Les régularisations libres éventuelles sont ignorées.",
+    "LENGTH":60
+   },
+   {
+    "ID":"I",
+    "KEY":"204",
+    "LANG":"N",
+    "ENTRY":"Eventueel bestaande vrije inperkingen worden genegeerd",
+    "LENGTH":60
+   },
+   {
+    "ID":"I",
+    "KEY":"204",
+    "LANG":"P",
+    "ENTRY":"As seleções livres que eventualmente existem serão ignoradas",
+    "LENGTH":60
+   },
+   {
+    "ID":"I",
+    "KEY":"300",
+    "LANG":"D",
+    "ENTRY":"Anlagen anlisten",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"300",
+    "LANG":"E",
+    "ENTRY":"List assets",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"300",
+    "LANG":"F",
+    "ENTRY":"Lister les immobilisations",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"300",
+    "LANG":"N",
+    "ENTRY":"Vaste activa weergeven",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"300",
+    "LANG":"P",
+    "ENTRY":"Listar imobilizados",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"301",
+    "LANG":"D",
+    "ENTRY":"... oder nur Hauptnummern",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"301",
+    "LANG":"E",
+    "ENTRY":"... or main numbers only",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"301",
+    "LANG":"F",
+    "ENTRY":"... ou uniqut numéros princip.",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"301",
+    "LANG":"N",
+    "ENTRY":"... of alleen hoofdnummers",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"301",
+    "LANG":"P",
+    "ENTRY":"... ou somente nºs principais",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"302",
+    "LANG":"D",
+    "ENTRY":"... oder nur Gruppensummen",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"302",
+    "LANG":"E",
+    "ENTRY":"... or group totals only",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"302",
+    "LANG":"F",
+    "ENTRY":"... ou uniquemt totaux contrôle",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"302",
+    "LANG":"N",
+    "ENTRY":"... of alleen groepstotalen",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"302",
+    "LANG":"P",
+    "ENTRY":"... ou somente totais grupos",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"303",
+    "LANG":"D",
+    "ENTRY":"Sortiervariante",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"303",
+    "LANG":"E",
+    "ENTRY":"Sort Variant",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"303",
+    "LANG":"F",
+    "ENTRY":"Variante de tri",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"303",
+    "LANG":"N",
+    "ENTRY":"Sorteervariant",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"303",
+    "LANG":"P",
+    "ENTRY":"Variante de ordenação",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"304",
+    "LANG":"D",
+    "ENTRY":"Umrechnungsmethode",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"304",
+    "LANG":"E",
+    "ENTRY":"Translation method",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"304",
+    "LANG":"F",
+    "ENTRY":"Méthode conversion",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"304",
+    "LANG":"N",
+    "ENTRY":"Omrekenmethode",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"304",
+    "LANG":"P",
+    "ENTRY":"Método de conversão",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"BL1",
+    "LANG":"D",
+    "ENTRY":"Selektionen",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL1",
+    "LANG":"E",
+    "ENTRY":"Selections",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL1",
+    "LANG":"F",
+    "ENTRY":"Sélections",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL1",
+    "LANG":"N",
+    "ENTRY":"Selecties",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL1",
+    "LANG":"P",
+    "ENTRY":"Seleções",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL2",
+    "LANG":"D",
+    "ENTRY":"Einstellungen",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL2",
+    "LANG":"E",
+    "ENTRY":"Settings",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL2",
+    "LANG":"F",
+    "ENTRY":"Options",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL2",
+    "LANG":"N",
+    "ENTRY":"Instellingen",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL2",
+    "LANG":"P",
+    "ENTRY":"Configurações",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL3",
+    "LANG":"D",
+    "ENTRY":"Geplante Investitionen",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL3",
+    "LANG":"E",
+    "ENTRY":"Planned cap. investments",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL3",
+    "LANG":"F",
+    "ENTRY":"Investissements prévus",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL3",
+    "LANG":"N",
+    "ENTRY":"Geplande investeringen",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL3",
+    "LANG":"P",
+    "ENTRY":"Investimentos planejados",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"BL4",
+    "LANG":"D",
+    "ENTRY":"Behandlung von Aktivierungen des laufenden GJ (Aufträge/PSP-Elemente)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"BL4",
+    "LANG":"E",
+    "ENTRY":"Treatment of capitalizations in current fisc.yr (orders/WBS elements)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"BL4",
+    "LANG":"F",
+    "ENTRY":"Traitement des capitalisations de l'ex. en cours (ordres/élmts d'OTP)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"BL4",
+    "LANG":"N",
+    "ENTRY":"Behandeling van activeringen van lopend boekjaar (order/WBS-elementen)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"BL4",
+    "LANG":"P",
+    "ENTRY":"Tratamento das ativações do exercício atual (ordens/elemento PEP)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"BL5",
+    "LANG":"D",
+    "ENTRY":"Statusselektion (Aufträge/PSP-Elemente/Maßnahmenanforderungen)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"BL5",
+    "LANG":"E",
+    "ENTRY":"Status selection (orders/WBS elements/appropriation requests)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"BL5",
+    "LANG":"F",
+    "ENTRY":"Sélection de statuts (ordres/élmts d'OTP/dossier dem. d'investis.)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"BL5",
+    "LANG":"N",
+    "ENTRY":"Statusselectie (orders/WBS-elementen/maatregelaanvragen)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"BL5",
+    "LANG":"P",
+    "ENTRY":"Seleção de status (ordens/elementos PEP/variantes das solicitações)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"P05",
+    "LANG":"D",
+    "ENTRY":"Nimm Anlagenwerte zum Stand GJ-Beginn",
+    "LENGTH":55
+   },
+   {
+    "ID":"I",
+    "KEY":"P05",
+    "LANG":"E",
+    "ENTRY":"Use asset values as of FY start",
+    "LENGTH":55
+   },
+   {
+    "ID":"I",
+    "KEY":"P05",
+    "LANG":"F",
+    "ENTRY":"Prenez les valeurs en début d'exercice",
+    "LENGTH":55
+   },
+   {
+    "ID":"I",
+    "KEY":"P05",
+    "LANG":"N",
+    "ENTRY":"Vasteactivawaarden van begin boekjaar nemen",
+    "LENGTH":55
+   },
+   {
+    "ID":"I",
+    "KEY":"P05",
+    "LANG":"P",
+    "ENTRY":"Chamar valores de imob.do início exercício",
+    "LENGTH":55
+   },
+   {
+    "ID":"I",
+    "KEY":"P11",
+    "LANG":"D",
+    "ENTRY":"Keine besondere Behandlung von Aktivierungen",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"P11",
+    "LANG":"E",
+    "ENTRY":"No special treatment of capitalization",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"P11",
+    "LANG":"F",
+    "ENTRY":"Pas de traitement particulier des capitalisations",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"P11",
+    "LANG":"N",
+    "ENTRY":"Geen buitengewone behandeling van activeringen",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"P11",
+    "LANG":"P",
+    "ENTRY":"Sem tratamento especial das ativações",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"P12",
+    "LANG":"D",
+    "ENTRY":"Kürze AfA-Simulations-Basis von Planinvestitionen um Aktivierungen",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"P12",
+    "LANG":"E",
+    "ENTRY":"Reduce the basis for deprec. simulation of plan inv. by capitalization",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"P12",
+    "LANG":"F",
+    "ENTRY":"Suppr. capitalisations ds la base de simul. d'amo. des invest. bdgtés",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"P12",
+    "LANG":"N",
+    "ENTRY":"Activeringen aftrekken van afs.simulatiebasis van planinvesteringen",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"P12",
+    "LANG":"P",
+    "ENTRY":"Reduzir base simulação da deprec.dos investim.planejados em ativações",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V01",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen Standardberichte",
+    "LENGTH":38
+   },
+   {
+    "ID":"I",
+    "KEY":"V01",
+    "LANG":"E",
+    "ENTRY":"Database selections for standard reports",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"V01",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données états standard",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"V01",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters: standaardverslagen",
+    "LENGTH":38
+   },
+   {
+    "ID":"I",
+    "KEY":"V01",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - relatórios standard",
+    "LENGTH":44
+   },
+   {
+    "ID":"I",
+    "KEY":"V02",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen Aufwertungsberichte (z.B. RAAUFW01)",
+    "LENGTH":57
+   },
+   {
+    "ID":"I",
+    "KEY":"V02",
+    "LANG":"E",
+    "ENTRY":"Database selections for evaluation reports (e.g.RAAUFW01)",
+    "LENGTH":57
+   },
+   {
+    "ID":"I",
+    "KEY":"V02",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données états de réévaluation (RAAUFW01 p.ex.)",
+    "LENGTH":65
+   },
+   {
+    "ID":"I",
+    "KEY":"V02",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters opwaarderingsverslagen (bijv. RAAUFW01)",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"V02",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - relatórios de valorização (p.ex.RAAUFW01)",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"V03",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen Vermögens-/Versicherungsberichte (z.B. RAVERS01)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V03",
+    "LANG":"E",
+    "ENTRY":"Database selections for net worth/insurance reports (e.g. RAVERS01)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V03",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données états patrimoine/assurance (RAVERS01 p.ex.)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V03",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters vermogens-/verzekeringsverslagen (bijv. RAVERS01)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V03",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - relatórios patrimônio/seguro (p.ex.RAVERS01)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V04",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen mit mehreren Bewertungsbereichen (z.B. RABIKA01)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V04",
+    "LANG":"E",
+    "ENTRY":"Database selections with more than one depreciation area (e.g. RABIKA01)",
+    "LENGTH":72
+   },
+   {
+    "ID":"I",
+    "KEY":"V04",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données avec plusieurs tableaux (RABIKA01 p.ex.)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V04",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters met verscheid. waarderingsgebieden (bijv. RABOKA01)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V04",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - diversos relatórios de avaliação (p.ex.RABIKA01)",
+    "LENGTH":73
+   },
+   {
+    "ID":"I",
+    "KEY":"V05",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen Investitionszuschußberichte (z.B. RAINZU01)",
+    "LENGTH":65
+   },
+   {
+    "ID":"I",
+    "KEY":"V05",
+    "LANG":"E",
+    "ENTRY":"Database selections, capital investment grant reports (e.g. RAINZU01)",
+    "LENGTH":69
+   },
+   {
+    "ID":"I",
+    "KEY":"V05",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données états subvention d'invest. (RAINZU01 p.ex.)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V05",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters investeringssubsidieverslagen (bijv. RAINZU01)",
+    "LENGTH":65
+   },
+   {
+    "ID":"I",
+    "KEY":"V05",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - relatórios de subvenções de investimento (p.ex.RAINZU01)",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"V06",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen Leasingberichte (z.B. RALEAS01)",
+    "LENGTH":53
+   },
+   {
+    "ID":"I",
+    "KEY":"V06",
+    "LANG":"E",
+    "ENTRY":"Database selections, leasing reports (e.g.RALEAS01)",
+    "LENGTH":53
+   },
+   {
+    "ID":"I",
+    "KEY":"V06",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données états de leasing (RALEAS01 p.ex.)",
+    "LENGTH":60
+   },
+   {
+    "ID":"I",
+    "KEY":"V06",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters leaseverslagen (bijv. RALEAS01)",
+    "LENGTH":53
+   },
+   {
+    "ID":"I",
+    "KEY":"V06",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - relatórios de leasing (p.ex.RALEAS01)",
+    "LENGTH":62
+   },
+   {
+    "ID":"I",
+    "KEY":"V07",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen USA-Berichte (z.B. RAUSAG01)",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"V07",
+    "LANG":"E",
+    "ENTRY":"Database selections, USA reports (e.g.RAUSAG01)",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"V07",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données états USA (RAUSAG01 p.ex.)",
+    "LENGTH":53
+   },
+   {
+    "ID":"I",
+    "KEY":"V07",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters USA-verslagen (bijv. RAUSAG01)",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"V07",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - relatórios EUA (p.ex.RAUSAG01)",
+    "LENGTH":55
+   },
+   {
+    "ID":"I",
+    "KEY":"V08",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen Berichte zu gebuchter AfA (z.B. RAGAFA01)",
+    "LENGTH":63
+   },
+   {
+    "ID":"I",
+    "KEY":"V08",
+    "LANG":"E",
+    "ENTRY":"Database selections, reports on depreciation posted (e.g.RAGAFA01)",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"V08",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données amort. comptabilisé (RAGAFA01 p.ex.)",
+    "LENGTH":63
+   },
+   {
+    "ID":"I",
+    "KEY":"V08",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters verslagen bij geboekte afs. (bijv. RAGAFA01)",
+    "LENGTH":63
+   },
+   {
+    "ID":"I",
+    "KEY":"V08",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - relatórios de depreciação lançada (p.ex.RAGAFA01)",
+    "LENGTH":74
+   },
+   {
+    "ID":"I",
+    "KEY":"V09",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen AfA-Simulation (z.B. RASIMU01)",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"V09",
+    "LANG":"E",
+    "ENTRY":"Database selections, depreciation simulation (e.g.RASIMU01)",
+    "LENGTH":59
+   },
+   {
+    "ID":"I",
+    "KEY":"V09",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données simulation d'amort. (RASIMU01 p.ex.)",
+    "LENGTH":63
+   },
+   {
+    "ID":"I",
+    "KEY":"V09",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters afs.simulatie (bijv. RASIMU01)",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"V09",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - simulação de depreciação (p.ex.RASIMU01)",
+    "LENGTH":65
+   },
+   {
+    "ID":"I",
+    "KEY":"V10",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen Primärkostenplanung AfA/Zinsen(z.B. RAKOPL01)",
+    "LENGTH":67
+   },
+   {
+    "ID":"I",
+    "KEY":"V10",
+    "LANG":"E",
+    "ENTRY":"Database selections, primary cost planning depn/interest (e.g.RAKOPL01)",
+    "LENGTH":71
+   },
+   {
+    "ID":"I",
+    "KEY":"V10",
+    "LANG":"F",
+    "ENTRY":"Sélections B.D. budgét.coûts prim.amo./intérêts (RAKOPL01 p.ex.)",
+    "LENGTH":67
+   },
+   {
+    "ID":"I",
+    "KEY":"V10",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters prim.kostenplanning afs/rente (bijv. RAKOPL01)",
+    "LENGTH":67
+   },
+   {
+    "ID":"I",
+    "KEY":"V10",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - planejam.custos primários depr/juros (p.ex.RAKOPL01)",
+    "LENGTH":77
+   },
+   {
+    "ID":"I",
+    "KEY":"V11",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen Anlagenverdichtung",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"V11",
+    "LANG":"E",
+    "ENTRY":"Database selection for asset summarization",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"V11",
+    "LANG":"F",
+    "ENTRY":"Sélections B.D. compression d'immob.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"V11",
+    "LANG":"N",
+    "ENTRY":"Databaseselectie vasteactiva-aggregatie",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"V11",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - compactação de imobilizado",
+    "LENGTH":51
+   },
+   {
+    "ID":"I",
+    "KEY":"V12",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen Standard ohne Bewertungsbereich (z.B. RAHERK02)",
+    "LENGTH":69
+   },
+   {
+    "ID":"I",
+    "KEY":"V12",
+    "LANG":"E",
+    "ENTRY":"Database selection - standard without depreciation area (e.g. RAHERK02)",
+    "LENGTH":71
+   },
+   {
+    "ID":"I",
+    "KEY":"V12",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données standard sans tableau d'évaluation (exemple: RAHERK02)",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"V12",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters standaard znd. waarderingsgebied (bijv. RAHERK02)",
+    "LENGTH":69
+   },
+   {
+    "ID":"I",
+    "KEY":"V12",
+    "LANG":"P",
+    "ENTRY":"Seleção banco de dados - standard sem área de avaliação (p.ex.RAHERK02)",
+    "LENGTH":71
+   },
+   {
+    "ID":"I",
+    "KEY":"V13",
+    "LANG":"D",
+    "ENTRY":"Datenbankabgrenzungen Standardberichte (ohne Hitliste - z.B. ALV)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V13",
+    "LANG":"E",
+    "ENTRY":"Database selections for standard reports (w/o ranking list -e.g. ALV)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V13",
+    "LANG":"F",
+    "ENTRY":"Sélections base de données états standard (sans palmarès - p. ex. ALV)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V13",
+    "LANG":"N",
+    "ENTRY":"Databaseparameters standaardverslagen (zonder trefferlijst-bijv. ALV)",
+    "LENGTH":70
+   },
+   {
+    "ID":"I",
+    "KEY":"V13",
+    "LANG":"P",
+    "ENTRY":"Provisionamento BD p/relatórios standard (s/lista ranking - p.ex.ALV)",
+    "LENGTH":70
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"D",
+    "ENTRY":"Logische Datenbank FI-AA",
+    "LENGTH":24
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"Logical Database FI-AA",
+    "LENGTH":70
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"F",
+    "ENTRY":"Base de données logiques FI-AA",
+    "LENGTH":70
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"N",
+    "ENTRY":"Logische database FI-AA",
+    "LENGTH":70
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"P",
+    "ENTRY":"Banco de dados lógico FI-AA",
+    "LENGTH":70
+   },
+   {
+    "ID":"S",
+    "KEY":"AFBLPE",
+    "LANG":"D",
+    "ENTRY":"        AfA-Buchungsperiode",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"AFBLPE",
+    "LANG":"E",
+    "ENTRY":"        Dep. posting period",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"AFBLPE",
+    "LANG":"F",
+    "ENTRY":"        Période d'enreg. de l'amort.",
+    "LENGTH":36
+   },
+   {
+    "ID":"S",
+    "KEY":"AFBLPE",
+    "LANG":"N",
+    "ENTRY":"        Afs-boekingsperiode",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"AFBLPE",
+    "LANG":"P",
+    "ENTRY":"        Período contábil de depr.",
+    "LENGTH":33
+   },
+   {
+    "ID":"S",
+    "KEY":"ANLAGE",
+    "LANG":"D",
+    "ENTRY":"        Anlagennummer",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"ANLAGE",
+    "LANG":"E",
+    "ENTRY":"        Asset number",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"ANLAGE",
+    "LANG":"F",
+    "ENTRY":"        Numéro d'immobilisation",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"ANLAGE",
+    "LANG":"N",
+    "ENTRY":"        Nummer van vast actief",
+    "LENGTH":30
+   },
+   {
+    "ID":"S",
+    "KEY":"ANLAGE",
+    "LANG":"P",
+    "ENTRY":"        Nº imobilizado",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"BERDATUM",
+    "LANG":"D",
+    "ENTRY":"        Berichtsdatum",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"BERDATUM",
+    "LANG":"E",
+    "ENTRY":"        Report date",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"BERDATUM",
+    "LANG":"F",
+    "ENTRY":"        Date d'analyse",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"BERDATUM",
+    "LANG":"N",
+    "ENTRY":"        Verslagdatum",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"BERDATUM",
+    "LANG":"P",
+    "ENTRY":"        Data de relatório",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH1",
+    "LANG":"D",
+    "ENTRY":"        Bewertungsbereich",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH1",
+    "LANG":"E",
+    "ENTRY":"        Depreciation area",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH1",
+    "LANG":"F",
+    "ENTRY":"        Tableau d'évaluation",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH1",
+    "LANG":"N",
+    "ENTRY":"        Waarderingsgebied",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH1",
+    "LANG":"P",
+    "ENTRY":"        Área de avaliação",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH2",
+    "LANG":"D",
+    "ENTRY":"        2. Bewertungsbereich",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH2",
+    "LANG":"E",
+    "ENTRY":"        2nd depreciation area",
+    "LENGTH":29
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH2",
+    "LANG":"F",
+    "ENTRY":"        2e tableau d'évaluation",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH2",
+    "LANG":"N",
+    "ENTRY":"        2e waarderingsgebied",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH2",
+    "LANG":"P",
+    "ENTRY":"        2ª Área de avaliação",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH3",
+    "LANG":"D",
+    "ENTRY":"        3. Bewertungsbereich",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH3",
+    "LANG":"E",
+    "ENTRY":"        3rd depreciation area",
+    "LENGTH":29
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH3",
+    "LANG":"F",
+    "ENTRY":"        3e tableau d'évaluation",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH3",
+    "LANG":"N",
+    "ENTRY":"        3e waarderingsgebied",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"BEREICH3",
+    "LANG":"P",
+    "ENTRY":"        3ª Área de avaliação",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"BUKRS",
+    "LANG":"D",
+    "ENTRY":"        Buchungskreis",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"BUKRS",
+    "LANG":"E",
+    "ENTRY":"        Company code",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"BUKRS",
+    "LANG":"F",
+    "ENTRY":"        Société",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"BUKRS",
+    "LANG":"N",
+    "ENTRY":"        Bedrijfsnummer",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"BUKRS",
+    "LANG":"P",
+    "ENTRY":"        Empresa",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"GJAHR",
+    "LANG":"D",
+    "ENTRY":"        Geschäftsjahr",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"GJAHR",
+    "LANG":"E",
+    "ENTRY":"        Fiscal year",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"GJAHR",
+    "LANG":"F",
+    "ENTRY":"        Exercice",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"GJAHR",
+    "LANG":"N",
+    "ENTRY":"        Boekjaar",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"GJAHR",
+    "LANG":"P",
+    "ENTRY":"        Exercício",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_AI_ID",
+    "LANG":"D",
+    "ENTRY":"        Arbeitsvorrat",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_AI_ID",
+    "LANG":"E",
+    "ENTRY":"        Worklist",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_AI_ID",
+    "LANG":"F",
+    "ENTRY":"        Réserve de travail",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_AI_ID",
+    "LANG":"N",
+    "ENTRY":"        Werkvoorraad",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_AI_ID",
+    "LANG":"P",
+    "ENTRY":"        Lista de trabalho",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_GEJHR",
+    "LANG":"D",
+    "ENTRY":"        Geschäftsjahr",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_GEJHR",
+    "LANG":"E",
+    "ENTRY":"        Fiscal year",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_GEJHR",
+    "LANG":"F",
+    "ENTRY":"        Exercice comptable",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_GEJHR",
+    "LANG":"N",
+    "ENTRY":"        Boekjaar",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_GEJHR",
+    "LANG":"P",
+    "ENTRY":"        Exercício",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_IMAGN",
+    "LANG":"D",
+    "ENTRY":"        bis Genehmigungs-GJ",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_IMAGN",
+    "LANG":"E",
+    "ENTRY":"        To approval year",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_IMAGN",
+    "LANG":"F",
+    "ENTRY":"        Jusqu'à l'année d'autorisation",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_IMAGN",
+    "LANG":"N",
+    "ENTRY":"        Tot goedkeuring-BJ",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_IMAGN",
+    "LANG":"P",
+    "ENTRY":"        até ano da aprovação",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_PGSEL",
+    "LANG":"D",
+    "ENTRY":"        Selektiv für Auft./PSP-El./Anf",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_PGSEL",
+    "LANG":"E",
+    "ENTRY":"        Select. for order/WBS /ap.req.",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_PGSEL",
+    "LANG":"F",
+    "ENTRY":"        Sélectif p. répart./él.OTP/dem",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_PGSEL",
+    "LANG":"N",
+    "ENTRY":"        Selec.voor order/WBS-el/aanvr.",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_PGSEL",
+    "LANG":"P",
+    "ENTRY":"        Seletivo p/aloc./elem.PEP/sol.",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_POSI1",
+    "LANG":"D",
+    "ENTRY":"        ab Position",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_POSI1",
+    "LANG":"E",
+    "ENTRY":"        From position",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_POSI1",
+    "LANG":"F",
+    "ENTRY":"        De poste",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_POSI1",
+    "LANG":"N",
+    "ENTRY":"        Vanaf positie",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_POSI1",
+    "LANG":"P",
+    "ENTRY":"        do item",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_POSID",
+    "LANG":"D",
+    "ENTRY":"        ab PSP-Element",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_POSID",
+    "LANG":"E",
+    "ENTRY":"        From WBS element",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_POSID",
+    "LANG":"F",
+    "ENTRY":"        De l'élément OTP",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_POSID",
+    "LANG":"N",
+    "ENTRY":"        Van WBS-element",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_POSID",
+    "LANG":"P",
+    "ENTRY":"        A partir do elemento PEP",
+    "LENGTH":32
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_PRNAM",
+    "LANG":"D",
+    "ENTRY":"        InvProgramm",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_PRNAM",
+    "LANG":"E",
+    "ENTRY":"        Inv. program",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_PRNAM",
+    "LANG":"F",
+    "ENTRY":"        Programme d'investissement",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_PRNAM",
+    "LANG":"N",
+    "ENTRY":"        Investeringsprogramma",
+    "LENGTH":29
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_PRNAM",
+    "LANG":"P",
+    "ENTRY":"        Programa de investimentos",
+    "LENGTH":33
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_STSEL",
+    "LANG":"D",
+    "ENTRY":"        Statusselektionsschema",
+    "LENGTH":30
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_STSEL",
+    "LANG":"E",
+    "ENTRY":"        Status selection profile",
+    "LENGTH":32
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_STSEL",
+    "LANG":"F",
+    "ENTRY":"        Profil de sélection de statuts",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_STSEL",
+    "LANG":"N",
+    "ENTRY":"        Statusselectieschema",
+    "LENGTH":30
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_STSEL",
+    "LANG":"P",
+    "ENTRY":"        Esquema de seleção de status",
+    "LENGTH":36
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_VERSN",
+    "LANG":"D",
+    "ENTRY":"        Planversion",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_VERSN",
+    "LANG":"E",
+    "ENTRY":"        Plan version",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_VERSN",
+    "LANG":"F",
+    "ENTRY":"        Version de pré-budget",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_VERSN",
+    "LANG":"N",
+    "ENTRY":"        Planversie",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_VERSN",
+    "LANG":"P",
+    "ENTRY":"        Versão de planejamento",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XANLG",
+    "LANG":"D",
+    "ENTRY":"        Anlagen selektieren",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XANLG",
+    "LANG":"E",
+    "ENTRY":"        Select assets",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XANLG",
+    "LANG":"F",
+    "ENTRY":"        Sélectionner immobilisations",
+    "LENGTH":36
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XANLG",
+    "LANG":"N",
+    "ENTRY":"        Vaste activa selecteren",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XANLG",
+    "LANG":"P",
+    "ENTRY":"        Selecionar anexos",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XAUFT",
+    "LANG":"D",
+    "ENTRY":"        Aufträge selektieren",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XAUFT",
+    "LANG":"E",
+    "ENTRY":"        Select orders",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XAUFT",
+    "LANG":"F",
+    "ENTRY":"        Sélectionner ordres",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XAUFT",
+    "LANG":"N",
+    "ENTRY":"        Orders selecteren",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XAUFT",
+    "LANG":"P",
+    "ENTRY":"        Selecionar ordens",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XBUDG",
+    "LANG":"D",
+    "ENTRY":"        AfA-Simulation auf Budgetbasis",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XBUDG",
+    "LANG":"E",
+    "ENTRY":"        Dep. simul. based on budget",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XBUDG",
+    "LANG":"F",
+    "ENTRY":"        Simulation d'amo.s/base budget",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XBUDG",
+    "LANG":"N",
+    "ENTRY":"        Afs-simulatie op budgetbasis",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XBUDG",
+    "LANG":"P",
+    "ENTRY":"        Simul.depr.com base orçamento",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XGJBG",
+    "LANG":"D",
+    "ENTRY":"D       .",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XGJBG",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XGJBG",
+    "LANG":"F",
+    "ENTRY":"D       .",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XGJBG",
+    "LANG":"N",
+    "ENTRY":"D       .",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XGJBG",
+    "LANG":"P",
+    "ENTRY":"D       .",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XINVP",
+    "LANG":"D",
+    "ENTRY":"        Programmpositionen selektieren",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XINVP",
+    "LANG":"E",
+    "ENTRY":"        Select inv.program positions",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XINVP",
+    "LANG":"F",
+    "ENTRY":"        Sélect. pos. programme invest.",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XINVP",
+    "LANG":"N",
+    "ENTRY":"        Programmaposities selecteren",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XINVP",
+    "LANG":"P",
+    "ENTRY":"        Selecionar itens ProgInvestim.",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XMANF",
+    "LANG":"D",
+    "ENTRY":"        Anforderungen selektieren",
+    "LENGTH":33
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XMANF",
+    "LANG":"E",
+    "ENTRY":"        Select appropriation requests",
+    "LENGTH":37
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XMANF",
+    "LANG":"F",
+    "ENTRY":"        Sélect. dossiers demande inv.",
+    "LENGTH":37
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XMANF",
+    "LANG":"N",
+    "ENTRY":"        Aanvragen selecteren",
+    "LENGTH":33
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XMANF",
+    "LANG":"P",
+    "ENTRY":"        Selecionar solicitações",
+    "LENGTH":33
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XPROJ",
+    "LANG":"D",
+    "ENTRY":"        PSP-Elemente selektieren",
+    "LENGTH":32
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XPROJ",
+    "LANG":"E",
+    "ENTRY":"        Select WBS elements",
+    "LENGTH":32
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XPROJ",
+    "LANG":"F",
+    "ENTRY":"        Sélectionner éléments OTP",
+    "LENGTH":33
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XPROJ",
+    "LANG":"N",
+    "ENTRY":"        WBS-elementen selecteren",
+    "LENGTH":32
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XPROJ",
+    "LANG":"P",
+    "ENTRY":"        Selecionar elementos PEP",
+    "LENGTH":32
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XSETL",
+    "LANG":"D",
+    "ENTRY":"D       .",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XSETL",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XSETL",
+    "LANG":"F",
+    "ENTRY":"D       .",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XSETL",
+    "LANG":"N",
+    "ENTRY":"D       .",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_XSETL",
+    "LANG":"P",
+    "ENTRY":"D       .",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_ANLKL",
+    "LANG":"D",
+    "ENTRY":"        Anlagenklasse",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_ANLKL",
+    "LANG":"E",
+    "ENTRY":"        Asset class",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_ANLKL",
+    "LANG":"F",
+    "ENTRY":"        Catégorie d'immobilisations",
+    "LENGTH":35
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_ANLKL",
+    "LANG":"N",
+    "ENTRY":"        Vasteactivaklasse",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_ANLKL",
+    "LANG":"P",
+    "ENTRY":"        Classe do imobilizado",
+    "LENGTH":29
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_ANLUE",
+    "LANG":"D",
+    "ENTRY":"        Anlagenübernummer",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_ANLUE",
+    "LANG":"E",
+    "ENTRY":"        Asset super number",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_ANLUE",
+    "LANG":"F",
+    "ENTRY":"        N° de regroupement des immob.",
+    "LENGTH":37
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_ANLUE",
+    "LANG":"N",
+    "ENTRY":"        Groepsnummer voor vaste activa",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_ANLUE",
+    "LANG":"P",
+    "ENTRY":"        Nº agrpmto.imobs.",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_EAUFN",
+    "LANG":"D",
+    "ENTRY":"        Auftrag",
+    "LENGTH":36
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_EAUFN",
+    "LANG":"E",
+    "ENTRY":"        Order",
+    "LENGTH":36
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_EAUFN",
+    "LANG":"F",
+    "ENTRY":"        Ordre",
+    "LENGTH":36
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_EAUFN",
+    "LANG":"N",
+    "ENTRY":"        Order",
+    "LENGTH":36
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_EAUFN",
+    "LANG":"P",
+    "ENTRY":"        Ordem",
+    "LENGTH":36
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_GNJHR",
+    "LANG":"D",
+    "ENTRY":"        Genehmigungs-GJ",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_GNJHR",
+    "LANG":"E",
+    "ENTRY":"        Approval year",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_GNJHR",
+    "LANG":"F",
+    "ENTRY":"        Exercice d'autorisation",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_GNJHR",
+    "LANG":"N",
+    "ENTRY":"        Goedkeuring-BJ",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_GNJHR",
+    "LANG":"P",
+    "ENTRY":"        Exercício de aprovação",
+    "LENGTH":30
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_GSBER",
+    "LANG":"D",
+    "ENTRY":"        Geschäftsbereich",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_GSBER",
+    "LANG":"E",
+    "ENTRY":"        Business area",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_GSBER",
+    "LANG":"F",
+    "ENTRY":"        Domaine d'activité",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_GSBER",
+    "LANG":"N",
+    "ENTRY":"        Businessarea",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_GSBER",
+    "LANG":"P",
+    "ENTRY":"        Divisão",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_IMAPE",
+    "LANG":"D",
+    "ENTRY":"        Anforderung",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_IMAPE",
+    "LANG":"E",
+    "ENTRY":"        Appropriation request",
+    "LENGTH":29
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_IMAPE",
+    "LANG":"F",
+    "ENTRY":"        Dossier dde invest.",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_IMAPE",
+    "LANG":"N",
+    "ENTRY":"        Aanvraag",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_IMAPE",
+    "LANG":"P",
+    "ENTRY":"        Solicitação",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_KOSTL",
+    "LANG":"D",
+    "ENTRY":"        Kostenstelle",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_KOSTL",
+    "LANG":"E",
+    "ENTRY":"        Cost center",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_KOSTL",
+    "LANG":"F",
+    "ENTRY":"        Centre de coûts",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_KOSTL",
+    "LANG":"N",
+    "ENTRY":"        Kostenplaats",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_KOSTL",
+    "LANG":"P",
+    "ENTRY":"        Centro de custo",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_PSPID",
+    "LANG":"D",
+    "ENTRY":"        Projekte",
+    "LENGTH":16
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_PSPID",
+    "LANG":"E",
+    "ENTRY":"        Projects",
+    "LENGTH":16
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_PSPID",
+    "LANG":"F",
+    "ENTRY":"        Projets",
+    "LENGTH":16
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_PSPID",
+    "LANG":"N",
+    "ENTRY":"        Projecten",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_PSPID",
+    "LANG":"P",
+    "ENTRY":"        Projetos",
+    "LENGTH":16
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_PSPNR",
+    "LANG":"D",
+    "ENTRY":"        Projekte",
+    "LENGTH":16
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_PSPNR",
+    "LANG":"E",
+    "ENTRY":"        Projects",
+    "LENGTH":16
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_PSPNR",
+    "LANG":"F",
+    "ENTRY":"        Projets",
+    "LENGTH":16
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_PSPNR",
+    "LANG":"N",
+    "ENTRY":"        Projecten",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_PSPNR",
+    "LANG":"P",
+    "ENTRY":"        Projetos",
+    "LENGTH":16
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_STORT",
+    "LANG":"D",
+    "ENTRY":"        Standort",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_STORT",
+    "LANG":"E",
+    "ENTRY":"        Location",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_STORT",
+    "LANG":"F",
+    "ENTRY":"        Localisation",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_STORT",
+    "LANG":"N",
+    "ENTRY":"        Standplaats",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_STORT",
+    "LANG":"P",
+    "ENTRY":"        Localização",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_WERKS",
+    "LANG":"D",
+    "ENTRY":"        Werk",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_WERKS",
+    "LANG":"E",
+    "ENTRY":"        Plant",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_WERKS",
+    "LANG":"F",
+    "ENTRY":"        Division",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_WERKS",
+    "LANG":"N",
+    "ENTRY":"        Vestiging",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_WERKS",
+    "LANG":"P",
+    "ENTRY":"        Centro",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"SRTVR",
+    "LANG":"D",
+    "ENTRY":"        Sortiervariante",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"SRTVR",
+    "LANG":"E",
+    "ENTRY":"        Sort version",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"SRTVR",
+    "LANG":"F",
+    "ENTRY":"        Variante de tri",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"SRTVR",
+    "LANG":"N",
+    "ENTRY":"        Sorteervariant",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"SRTVR",
+    "LANG":"P",
+    "ENTRY":"        Variante ordenação",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"SUMMB",
+    "LANG":"D",
+    "ENTRY":"        ... oder nur Gruppensummen",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"SUMMB",
+    "LANG":"E",
+    "ENTRY":"        ... or group totals only",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"SUMMB",
+    "LANG":"F",
+    "ENTRY":"        ... ou uniquement totaux",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"SUMMB",
+    "LANG":"N",
+    "ENTRY":"        ... of alleen groepstotalen",
+    "LENGTH":35
+   },
+   {
+    "ID":"S",
+    "KEY":"SUMMB",
+    "LANG":"P",
+    "ENTRY":"        ... ou somente totais grupos",
+    "LENGTH":36
+   },
+   {
+    "ID":"S",
+    "KEY":"UMVAR",
+    "LANG":"D",
+    "ENTRY":"        Umrechnungsmethode",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"UMVAR",
+    "LANG":"E",
+    "ENTRY":"        Translation method",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"UMVAR",
+    "LANG":"F",
+    "ENTRY":"        Méthode de conversion",
+    "LENGTH":29
+   },
+   {
+    "ID":"S",
+    "KEY":"UMVAR",
+    "LANG":"N",
+    "ENTRY":"        Omrekenmethode",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"UMVAR",
+    "LANG":"P",
+    "ENTRY":"        Método de conversão",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"UNTNR",
+    "LANG":"D",
+    "ENTRY":"        Unternummer",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"UNTNR",
+    "LANG":"E",
+    "ENTRY":"        Subnumber",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"UNTNR",
+    "LANG":"F",
+    "ENTRY":"        Numéro subsidiaire",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"UNTNR",
+    "LANG":"N",
+    "ENTRY":"        Subnummer",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"UNTNR",
+    "LANG":"P",
+    "ENTRY":"        Subnº",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"XEINZEL",
+    "LANG":"D",
+    "ENTRY":"        Anlagen anlisten",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"XEINZEL",
+    "LANG":"E",
+    "ENTRY":"        List assets",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"XEINZEL",
+    "LANG":"F",
+    "ENTRY":"        Lister les immobilisations",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"XEINZEL",
+    "LANG":"N",
+    "ENTRY":"        Vaste activa weergeven",
+    "LENGTH":30
+   },
+   {
+    "ID":"S",
+    "KEY":"XEINZEL",
+    "LANG":"P",
+    "ENTRY":"        Listar imobilizados",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"XUNTNR",
+    "LANG":"D",
+    "ENTRY":"        ... oder nur Hauptnummern",
+    "LENGTH":33
+   },
+   {
+    "ID":"S",
+    "KEY":"XUNTNR",
+    "LANG":"E",
+    "ENTRY":"        ... or main numbers only",
+    "LENGTH":33
+   },
+   {
+    "ID":"S",
+    "KEY":"XUNTNR",
+    "LANG":"F",
+    "ENTRY":"        ... ou uniqut numéros princip.",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"XUNTNR",
+    "LANG":"N",
+    "ENTRY":"        ... of alleen hoofdnummers",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"XUNTNR",
+    "LANG":"P",
+    "ENTRY":"        ... ou somente nºs principais",
+    "LENGTH":37
+   }
+  ]
+ }
+]

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Il est impossible de répondre à une demande de sauvegarde au sein de    
+   l'interface de la base de données, ce qui empêche de poursuivre         
+   l'opération en cours.                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vous pouvez éventuellement éviter cette erreur en incrémantant la       
+   mémoire SHORT (paramètre de profil ztta/short_area).                    

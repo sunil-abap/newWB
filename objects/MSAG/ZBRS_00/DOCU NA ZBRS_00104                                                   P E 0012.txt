@@ -1,0 +1,22 @@
+AS Esta mensagem é saída no log de batch input para documentar que, no     
+   processamento batch input interativo, o usuário encerrou a transação    
+   com a tecla de função F3 ou F12 ou F15.                                 
+AS Isto significa o seguinte em termos de batch input:                     
+/                                                                          
+B1 Se a tela de confirmação de batch input tiver sido confirmada com       
+   <.SIM.>:                                                                
+B2 A pasta batch input recebe o status 'incorreta'                         
+B2 A transação é encerrada de forma incorreta, mas permanece na pasta      
+B2 Os dados ainda não atualizados, ou seja, a transação marcada como       
+   incorreta, podem ser atualizados ao ser novamente processada a pasta    
+   batch input                                                             
+B1 Se a tela de confirmação batch input tiver sido confirmada com <.NÃO.>: 
+B2 A transação na pasta batch input recebe o status 'Processada com êxito' 
+B2 A transação não pode ser processada novamente                           
+B2 Se ainda não tiverem sido atualizados dados na transação, estes serão   
+   perdidos                                                                
+/                                                                          
+U1 &WHAT_TO_DO&                                                            
+AS Para cancelar um batch input interativo, é possível utilizar a função   
+   de menu 'Sistema - Serviços - Batch input - Cancelar'.                  
+AS                                                                         

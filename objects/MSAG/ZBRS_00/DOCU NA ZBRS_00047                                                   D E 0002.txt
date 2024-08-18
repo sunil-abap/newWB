@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Beim Laden des Dynpros &V1& &V2& wurden die Zeitstempel der im          
+AS Dynpro verwendeten Tabellen geprüft. Mindestens 1 Zeitstempel stimmte   
+AS nicht. Also wurde das Dynpro neu generiert und dabei die Zeitstempel    
+   der verwendeten Tabellen aus dem Data Dictionary uebernommen.           
+AS Nach der Generierung wurden die Zeitstempel erneut geprueft.            
+AS Dabei wurde festgestellt, das es wieder Unstimmigkeiten der Zeitstempel 
+AS gibt, u.zw. stimmt der Zeitstempel der Tabelle &V3&                     
+AS jetzt nicht. Ursache: waehrend der Generierung wurde diese Tabelle      
+AS modifiziert bzw. aktiviert, was zum Neusetzen des Zeitstempels fuehrte. 
+AS                                                                         
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Transaktionsabbruch.                                                    
+U1 &WHAT_TO_DO&                                                            
+AS Transaktion wiederholen.                                                

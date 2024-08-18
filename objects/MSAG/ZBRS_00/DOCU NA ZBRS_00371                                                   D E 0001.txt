@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS Interner Fehler des Batch-Input.                                        
+U1 &SYSTEM_RESPONSE&                                                       
+U1 &WHAT_TO_DO&                                                            
+AS Systemverwalter verständigen; Mappe noch einmal erzeugen und abspielen. 

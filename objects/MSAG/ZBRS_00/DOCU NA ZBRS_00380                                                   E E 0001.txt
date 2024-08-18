@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS You cannot process a session with a future lock date.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Unlock the lock date or set it to the current date.                     

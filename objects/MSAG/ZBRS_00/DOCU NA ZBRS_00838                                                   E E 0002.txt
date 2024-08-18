@@ -1,0 +1,22 @@
+U1 &CAUSE&                                                                 
+AS Before the batch input folder &V1& can be deleted, the system searched  
+   for the associated background (batch) jobs. While doing so, it found a  
+   job whose status was not yet set to "Complete".                         
+*  When this folder is deleted, the folder may be deleted in dialog mode or
+   in the background, AND the existing job may still be executed.          
+/  This could lead to multiple deletion of the folder, or to inconsistent  
+   processing of the folder.                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS Folder &V1& cannot be deleted.                                          
+U1 &WHAT_TO_DO&                                                            
+AS Analyze the relevant background job using transaction SM37:             
+T1 Job name: ,,&V1&                                                        
+/  User name: ,,&V2&                                                       
+/  Planned start date: ,,&V3&                                              
+/  Planned start time: ,,&V4&                                              
+/                                                                          
+*  Check whether the job can still be run, and if it can, it does not need 
+   to be deleted.                                                          
+/  Otherwise delete the job and then try to delete the folder again.       
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

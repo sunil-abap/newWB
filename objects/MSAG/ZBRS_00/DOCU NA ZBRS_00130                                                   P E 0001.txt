@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS A configuração da conexão RFC (SM59) atual proibe o encerramento da     
+   aplicação em execução.                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

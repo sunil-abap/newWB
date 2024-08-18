@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Ao expandir os perfis do usuário ocorreu um erro. Possivelmente o       
+   registro mestre de usuário está danificado.                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Informar o administrador de sistema ou a SAP.                           

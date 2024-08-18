@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS "Skip Initial Screen" is not permitted for transaction &                
+U1 &SYSTEM_RESPONSE&                                                       
+AS You tried to start the transaction & with the option "Skip Initial      
+   Screen" using an SAPGUI shortcut, a start transaction, or a URL.        
+U1 &WHAT_TO_DO&                                                            
+AS This is not permitted with this transaction.                            
+U1 &SYS_ADMIN&                                                             
+AS If this functionality is required, contact your system administrator.   

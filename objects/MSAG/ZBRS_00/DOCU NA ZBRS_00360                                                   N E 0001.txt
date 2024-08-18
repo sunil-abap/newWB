@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS Interne queue-fout.                                                     
+U1 &WHAT_TO_DO&                                                            
+AS Zie de syslog.                                                          
+AS Systeembeheerder waarschuwen.                                           

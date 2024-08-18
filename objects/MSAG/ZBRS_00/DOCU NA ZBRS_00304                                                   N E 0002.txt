@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS De geselecteerde map(pen is (zijn) verwijderd.                          
+AS Om performance-redenen worden grote mappen in batch verwijderd.         
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Geen.                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Informatieve melding.                                                   

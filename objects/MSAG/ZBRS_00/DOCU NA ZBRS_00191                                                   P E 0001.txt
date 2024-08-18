@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS O programa de sistema CPASS foi chamado de um programa ABAP com poucos  
+   parâmetros.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verificar o programa, caso seja o autor. Caso contrário, informar o     
+   autor do programa.                                                      

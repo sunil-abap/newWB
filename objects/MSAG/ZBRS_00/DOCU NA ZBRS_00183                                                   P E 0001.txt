@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Existem senhas que basicamente não devem ser utilizadas. A essas        
+   pertencem as senhas 'PASS' e 'SAP*'.                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Utilizar uma outra senha.                                               

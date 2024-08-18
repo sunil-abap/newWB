@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Das Matchcode-Objekt für die Matchcodeselektion konnte nicht ermittelt  
+   werden.                                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS In der Feldbeschreibung im Dynpro das Matchcode-Objekt angeben und das  
+   Dynpro neu generieren.                                                  

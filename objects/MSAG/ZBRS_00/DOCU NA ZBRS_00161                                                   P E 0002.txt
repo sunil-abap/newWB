@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Se tentou estruturar uma ligação CPIC a um sistema R/3.                 
+AS Segundo o parâmetro de perfil login/disable_cpic isto não é permitido.  
+U1 &SYSTEM_RESPONSE&                                                       
+AS O logon é rejeitado.                                                    
+U1 &WHAT_TO_DO&                                                            
+AS Consultar o administrador de sistema ou utilizar RFC em vez de CPIC     
+   para a comunicação.                                                     

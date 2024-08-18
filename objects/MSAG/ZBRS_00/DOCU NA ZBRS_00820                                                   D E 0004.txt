@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Sie haben Ikonen definiert. Die IDs dieser Ikonen sind nicht lückenlos  
+   aufsteigend.                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Ikonen können nicht gesichert werden.                               
+U1 &WHAT_TO_DO&                                                            
+AS Informieren Sie sich im Report <ICON>, welche ID als nächste vergeben   
+   werden muß.                                                             
+AS Löschen Sie die soeben definierten Ikonen und definieren Sie sie        
+   erneut. Benutzen Sie dabei die nächste ID in lückenloser Reihenfolge.   
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

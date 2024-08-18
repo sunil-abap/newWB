@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS The batch input session was deleted after processing                    
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+AS                                                                         

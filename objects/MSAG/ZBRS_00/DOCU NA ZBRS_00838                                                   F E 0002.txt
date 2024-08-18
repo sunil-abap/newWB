@@ -1,0 +1,26 @@
+U1 &CAUSE&                                                                 
+AS Avant la suppression du dossier batch input &V1&, le système a effectué 
+   la recherche de jobs d'arrière-plan encore existants. Un job            
+   correspondant qui ne possède pas encore le statut "Terminé" a été trouvé
+   .                                                                       
+*  Lors de la suppression de ce dossier, il se peut que celui-ci soit      
+   supprimé en mode dialogué ou en arrière-plan ET que le job existant soit
+   exécuté.                                                                
+/  Cela peut entraîner une suppression multiple du dossier ou un traitement
+   de dossier incohérent.                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le dossier &V1& n'est pas supprimé.                                     
+U1 &WHAT_TO_DO&                                                            
+AS Analysez le job d'arrière-plan correspondant en utilisant la transaction
+   SM37 :                                                                  
+T1 Nom du job : ,,&V1&                                                     
+/  Créateur du job : ,,&V2&                                                
+/  Date de début planifiée : ,,&V3&                                        
+/  Heure de début planifiée : ,,&V4&                                       
+/                                                                          
+*  Contrôlez si le job peut encore être exécuté et qu'aucune suppression   
+   n'est plus requise.                                                     
+/  Sinon , supprimez le job puis exécutez à nouveau la suppression du      
+   dossier.                                                                
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

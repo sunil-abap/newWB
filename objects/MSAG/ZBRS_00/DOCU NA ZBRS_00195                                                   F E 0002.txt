@@ -1,0 +1,31 @@
+U1 &CAUSE&                                                                 
+AS La zone de saisie contient des caractères non autorisés. Il s'agit      
+   généralement de caractères que votre machine frontale peut traiter mais 
+   qui ne sont pas autorisés dans la base de données R/3.                  
+AS Cet état peut avoir plusieurs causes :                                  
+/  La quantité des carcatères possibles pour chaque domaine de langue pour 
+   ISO, Microsoft, IBM, Apple etc. est certes similaire mais rarement      
+   identique. Les machines frontales peuvent souvent saisir et afficher    
+   plus de caractères spéciaux que ceux contenus dans les jeux de          
+   caractères ISO.                                                         
+AS Si vous utilisez une machine frontale dont le domaine de langue ne      
+   correspond pas à celui du système R/3 auquel vous êtes connecté, un     
+   nombre important de caractères de votre clavier ne peut pas être        
+   utilisé.                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le système remplace les caractères non autorisés par d'autres           
+   caractères autorisés et édite ce message d'erreur (00.195 ou 00.077).   
+   Le système place également le curseur dans la ligne ou la zone où le    
+   caractère non autorisé a été découvert.                                 
+U1 &WHAT_TO_DO&                                                            
+AS Si vous acceptez la proposition, appuyez à nouveau sur la dernière      
+   touche de fonction utilisée (Généralement [Entrée]).                    
+AS Si vous n'acceptez pas la proposition, modifiez les données. Pour ce    
+   faire, utilisez uniquement des caractères autorisés sinon le système    
+   édite le même message d'erreur.                                         
+AS S'il n'est pas possible d'afficher les textes souhaités avec les        
+   caractères autorisés sur votre machine frontale, interrompez la         
+   transaction actuelle (généralement en appuyant sur la touche            
+   [Interrompre] ou [F12].)                                                
+/  Il existe peut-être une autre machine frontale pouvant traiter les      
+   caractères souhaités.                                                   

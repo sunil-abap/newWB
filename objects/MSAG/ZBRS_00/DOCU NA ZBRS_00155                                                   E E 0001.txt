@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS You have tried to logon, but you are already logged on on another       
+   terminal.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS The system does not allow this.                                         
+U1 &WHAT_TO_DO&                                                            
+AS Please specify a different user name, or log off the                    
+   other terminal.                                                         

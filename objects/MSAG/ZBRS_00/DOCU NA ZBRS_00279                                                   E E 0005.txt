@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS This system has been configured so that when new passwords are issued,  
+   only downwards compatible passwords are permitted. This means, the      
+   passwords may be no longer than 8 characters and must not contain lower 
+   case letters.                                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS The system does not permit you to issue passwords that contian more than
+   8 characters or that contain any lower case letters.                    
+U1 &WHAT_TO_DO&                                                            
+AS Choose a password that contains a maximum of 8 characters and no lower  
+   case letters.                                                           
+U1 &SYS_ADMIN&                                                             
+AS The profile parameter login/password_downwards_compatibility has been   
+   set to the value 5.                                                     
+AS To allow the usage of upwards compatible passwords (up to 40 characters 
+   with differentiation between upper and lower case letters) when changing
+   or issuing passwords, the profile parameter                             
+   login/password_downwards_compatibility must be set to a different value.

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Der Menüprozessor braucht zur Verwaltung der GUI-Status auch Speicher   
+   der Klasse SHORT. Dieser ist erschöpft.                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitten Sie Ihren Systemadministrator den Profile-Parameter              
+   "ztta/short_area" hochzusetzen. Er sollte mindestens 6mal so groß sein  
+   wie der Profile-Parameter "ztta/cua_area".                              

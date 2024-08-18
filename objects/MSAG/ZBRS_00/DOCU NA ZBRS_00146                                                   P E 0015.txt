@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS O sistema não foi configurado para tickets de logon SAP:                
+AS no mínimo um dos dois parâmetros login/create_sso2_ticket ou            
+   login/accept_sso2_ticket possui de momento o valor 0.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS A utilização de tickets de logon SAP não é possível.                    
+AS Do mesmo modo, o suporte Single-SignOn falta na utilização de SAPGUI    
+   HTML Control e na chamada de serviços ICF locais (ver nota SAP 612670). 
+U1 &WHAT_TO_DO&                                                            
+AS Informar o administrador do sistema.                                    
+U1 &SYS_ADMIN&                                                             
+AS <DS:TRAN.RZ11>Verificar os valores de ambos os parâmetros de perfil</> e
+   reiniciá-los em valores adaptados, por exemplo.                         
+B1 login/create_sso2_ticket = 2                                            
+B1 login/accept_sso2_ticket  = 1                                           
+AS Após a definição do parâmetro de perfil (por meio de                    
+   <DS:TRAN.RZ10>transação RZ10</>), é necessário reiniciar o servidor de  
+   aplicação, para ativar os novos valores.                                
+AS                                                                         

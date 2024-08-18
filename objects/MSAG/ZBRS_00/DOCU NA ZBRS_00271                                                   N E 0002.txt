@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS De menuprocessor heeft voor het beheer van de GUI-status ook geheugen   
+   uit de klasse SHORt nodig. Dit geheugengebied is echter geheel gebruikt.
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vraag uw systeembeheerder om de profielparameter                        
+   "ztta/short_area" te vergroten. Deze moet minstens 6 keer zo groot zijn 
+   als de profielparameter "ztta/cua_area".                                

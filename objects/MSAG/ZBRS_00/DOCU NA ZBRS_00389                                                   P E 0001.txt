@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Na verificação de autorização foi determinado que o usuário não tem a   
+   autorização para a reorganização de pastas e logs.                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Contatar a administração de sistema.                                    
+AS O usuário necessita do perfil S_BDC_REOGA.                              
+AS                                                                         
+AS                                                                         

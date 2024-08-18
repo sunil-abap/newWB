@@ -1,0 +1,21 @@
+U1 &CAUSE&                                                                 
+AS When the batch input folder &V1& was released, the system searched for  
+   the corresponding background jobs. While doing so, it found an          
+   associated job whose status was not yet set to "Complete".              
+AS After this folder is released, it may be processed in a dialog or in    
+   the background. If it is, this existing job may be executed, which      
+   means that duplicate data may be posted.                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS The system cannot release the folder &V1&.                              
+U1 &WHAT_TO_DO&                                                            
+AS Analyze the associated background job using transaction SM37:           
+T1 Job name: ,,&V1&                                                        
+/  User name (creator of job): ,,&V2&                                      
+/  Planned start date: ,,&V3&                                              
+/  Planned start time: ,,&V4&                                              
+/                                                                          
+*  Check whether or not the job can be executed and thus no longer needs   
+   released.                                                               
+*  Otherwise, delete the job and release the folder again.                 
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

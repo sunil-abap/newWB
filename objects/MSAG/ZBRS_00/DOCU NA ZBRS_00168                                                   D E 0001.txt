@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Sie haben versucht<(>,<)> in einer Transaktion in den Änderungsmodus zu 
+   wechseln. Dazu sind Sie nicht berechtigt.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS Das System lässt den Wechsel in den Änderungsmodus nicht zu.            
+U1 &WHAT_TO_DO&                                                            
+AS Wenn Sie die Berechtigung für den Änderungsmodus der Transaktion haben  
+   sollten, so wenden Sie sich bitte an Ihren Benutzeradministrator.       
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

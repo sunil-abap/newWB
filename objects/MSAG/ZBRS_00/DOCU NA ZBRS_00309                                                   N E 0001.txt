@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS Alleen mappen met status 'nog te verwerken' of 'foutief' kunnen         
+   ingelezen worden                                                        
+U1 &WHAT_TO_DO&                                                            
+AS Alleen geldige mappen (zie boven) inlezen                               

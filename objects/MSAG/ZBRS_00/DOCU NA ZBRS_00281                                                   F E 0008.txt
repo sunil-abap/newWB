@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Le mot de passe saisi comporte moins de &V1& caractères.                
+/  L'administrateur a défini cette condition.                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Entrez un mot de passe d'au moins &V1& lettres.                         
+/  Les lettres sont les caractères alphabétiques A - Z et a - z.           
+U1 &SYS_ADMIN&                                                             
+AS L'administrateur peut définir cette valeur par des paramètres de profil 
+   <ZH>login/min_password_letters</>.                                      
+/  Autre documentation : voir gestion de paramètres de profil (transaction 
+   <DS:TRAN.RZ11>RZ11</>).                                                 

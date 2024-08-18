@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS O usuário chamou as funções de marcação e marcar n pastas.              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Nota.                                                                   

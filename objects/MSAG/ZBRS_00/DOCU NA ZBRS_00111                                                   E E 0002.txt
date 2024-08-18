@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS The data store that was supposed to pass part of the list to the        
+   frontend overflowed because too many characters fit in the window.      
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Only a part is displayed.                                               
+U1 &WHAT_TO_DO&                                                            
+AS Make the window smaller, or make the font bigger.                       
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

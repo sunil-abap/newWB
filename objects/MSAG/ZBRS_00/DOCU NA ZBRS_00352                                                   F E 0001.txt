@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Fonction système spécifiée ne peut être exécutée en batch-input         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Définissez l'exécution batch-input dans votre application               

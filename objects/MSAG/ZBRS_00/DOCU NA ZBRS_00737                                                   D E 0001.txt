@@ -1,0 +1,2 @@
+AS Bei der Umsetzung von SNC-Namen trat während der Ausführung des XPRAs   
+   RSSNC40A ein Fehler auf. Beachten sie bitte die folgende Meldung.       

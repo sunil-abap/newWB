@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS The feasibility of the chosen form of processing depends on the status  
+   of the affected background job. The selected background job is flagged  
+   as `cannot be executed'. The required operation is not feasible in this 
+   status.                                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check the choice of processing or the background job.                   

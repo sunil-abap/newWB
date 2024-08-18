@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Folgende Aktivitäten können nur auf einem Protokoll angewandt werden:   
+AS Analyse                                                                 
+AS Auswahl                                                                 
+AS &SYSTEM_RESPONSE& &WHAT_TO_DO&                                          
+AS Es ist nur Einzelprotokollverarbeitung möglich, d.h. keine Blockbereiche
+   markieren.                                                              

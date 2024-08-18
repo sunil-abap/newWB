@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Falsche Destination oder DB-Problem.                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS Aufbau der CPIC-Verbindung wird abgebrochen.                            
+U1 &WHAT_TO_DO&                                                            
+AS Destination überprüfen, System-Log kontrollieren.                       

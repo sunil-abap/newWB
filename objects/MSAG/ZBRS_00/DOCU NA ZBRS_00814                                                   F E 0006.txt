@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS Le lancement de la transaction n'est pas possible dans ce système       
+   logique car la transaction a été bloquée.                               
+AS Une transaction peut être bloquée localement (Customizing) du côté de   
+   l'administration système,                                               
+/  ou être livrée déjà bloquée par le développeur de l'application.        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Si la transaction est requise malgré le blocage, contactez votre        
+   administrateur système.                                                 
+U1 &SYS_ADMIN&                                                             
+AS Les modifications apportées à des blocages de lancement d'application de
+   ce type équivalent à une modification. La transaction SM01_DEV permet de
+   les gérer.                                                              
+AS Pour les informations détaillées, voir la documentation de l'application
+   ou la note SAP 2234192.                                                 

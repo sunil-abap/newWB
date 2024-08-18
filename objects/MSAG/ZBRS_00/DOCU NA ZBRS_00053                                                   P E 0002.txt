@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS A SAP GUI enviou dados de logon incorretos para o servidor de aplicação.
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS 1. Utilizar uma versão SAP-GUI que seja compatível com o servidor de    
+   aplicação.                                                              
+AS 2. Verificar se o code page utilizado pela SAP GUI existe no sistema da 
+   SAP.                                                                    

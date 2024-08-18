@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Bij het genereren van de teksten van dynpro &V1& &V2& in taal &V3& is   
+   vastgesteld dat het hiervoor bestemde opslaggebied te klein is,         
+   namelijk &V4& bytes.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS De generering is mislukt en wordt afgebroken.                           
+U1 &WHAT_TO_DO&                                                            
+AS De grootte van dit opslaggebied kan met de profielparameter             
+   <LS>dynpro_language_area </>worden ingesteld. Verhoog de waarde van     
+   deze parameter en start het systeem opnieuw.                            

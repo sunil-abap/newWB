@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Sie haben sich bei der Eingabe eines neuen Kennworts vertippt.          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte wiederholen Sie die Eingabe des neuen Kennworts identisch.        

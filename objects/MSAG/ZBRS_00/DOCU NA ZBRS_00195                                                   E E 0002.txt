@@ -1,0 +1,27 @@
+U1 &CAUSE&                                                                 
+AS The input field contains prohibited characters. These are generally     
+   characters that your frontend can process, but which are not permitted  
+   in the R/3 database.                                                    
+AS There can be several reasons for this:                                  
+/  For any language area, the number of characters allowed by ISO,         
+   Microsoft, IBM, Apple etc. is often similar but rarely exactly the      
+   same. Frontends can often specify and display special characters in     
+   addition to those contained in the ISO character sets.                  
+AS If you are working on a frontend whose language area is not suitable    
+   for the R/3 System onto which you have logged on, there are several     
+   characters on your keyboard which cannot be used.                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS The R/3 System replaces these prohibited characters with other          
+   permitted characters and displays this error message (00.195 or         
+   00.077). The system positions the cursor in the line or field in which  
+   the prohibited character was found.                                     
+U1 &WHAT_TO_DO&                                                            
+AS If you agree with the proposal, you should re-choose the last function  
+   key (often [Enter].)                                                    
+AS If you do not agree with the proposal, you should edit the data. In     
+   doing so only use permitted characters or the system will display the   
+   error message again.                                                    
+AS If you cannot display texts containing characters that are permitted by 
+   your frontend, you should end the current transaction at a suitable     
+   point (usually using the [Esc] key or [F12].)                           
+/  There may be another frontend that is able to process these characters. 

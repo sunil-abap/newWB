@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS O usuário tentou executar uma transação, para a qual não tem            
+   autorização.                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS O sistema não permite executar esta transação.                          
+U1 &WHAT_TO_DO&                                                            
+AS Caso o usuário deva ter a autorização para esta transação, contatar o   
+   administrador de usuários.                                              

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Die angeforderte Mappe besitzt ein Sperrdatum,  das noch nicht          
+   überschritten ist. Die Mappe kann frühestens am Folgetag des            
+   Sperrdatums abgespielt werden.                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Sperrdatum löschen oder warten bis Sperrdatum überschritten ist.        

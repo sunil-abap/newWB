@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Processing a session is not allowed as this is already in process.      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Wait until the named session has been processed.                        

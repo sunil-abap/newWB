@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS De poging om een tabel in de tabelbuffer te laden mislukt omdat         
+   onvoldoende ruimte beschikbaar is voor de tabelgegevens.                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

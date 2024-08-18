@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS A selected session was not found. The system is looking for a session   
+   with status "New" or "Error". Only sessions with this status can be     
+   processed                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS None.                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Correct the session name, possibly using generic entry.                 

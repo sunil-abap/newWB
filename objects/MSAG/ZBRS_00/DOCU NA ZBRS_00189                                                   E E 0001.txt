@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS The first 3 characters of the password must not occur in this sequence  
+   in the user ID. This is intended to prevent user IDs and passwords      
+   being identical.                                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Choose another password.                                                

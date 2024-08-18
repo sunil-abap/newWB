@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS De gewenste bewerking (INSERT of UPDATE) is in strijd met de            
+   eenduidigheid van de primaire key of een andere als UNIQUE              
+   gedefinieerde index.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Controleer uw ABAP-programma.                                           

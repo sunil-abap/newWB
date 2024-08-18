@@ -1,0 +1,26 @@
+U1 &CAUSE&                                                                 
+AS A área de memória no software base para o status GUI é demasiada        
+   pequena para o status solicitado. Nesta área de memória é arquivado:    
+B1 informação de administração de comprimento fixo,                        
+B1 estrutura de menu, teclas de função e botões de um status,              
+B1 os textos de todas as interfaces (não só dos status) assim como         
+B1 a lista Excluding ativa e a solicitada (<NP>SET PF-STATUS ... EXCLUDING 
+   ...</>).                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Cancelamento, pois possivelmente não é possível continuar a processar.  
+U1 &WHAT_TO_DO&                                                            
+AS Uma solução a curto prazo pode consistir em omitir na instrução <NP>SET 
+   PF-STATUS</> atual o suplemento <NP>EXCLUDING</>.                       
+AS Reorganizar as interfaces em questão: Menu Painter SE41,                
+   <LS>Utilitários</> -> <LS>Objetos não utilizados</>.                    
+AS Se se tratar uma interface com muitos status, existe talvez a           
+   possibilidade de decompor a interface. Esta possibilidade existe        
+   normalmente se a interface pertencer a um grupo de funções que está à   
+   disposição para vários programas de status GUI (ao chamar estes         
+   programas de módulos de função do grupo que essencialmente contém uma   
+   instrução <NP>SET PF-STATUS</>).                                        
+AS Se as possibilidades de solução acima exibidas não forem consideradas,  
+   o administrador de sistema tem de aumentar o parâmetro de perfil        
+   "ztta/cua_area". Assim, é necessário ter em conta que o parâmetro de    
+   perfil "ztta/short_area" tem de ser pelo menos seis vezes maior que     
+   "ztta/cua_area".                                                        

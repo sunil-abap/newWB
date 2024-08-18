@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Consultez les valeurs autorisées á l'aide de la touche fonction F4 et   
+   corrigez votre saisie.                                                  

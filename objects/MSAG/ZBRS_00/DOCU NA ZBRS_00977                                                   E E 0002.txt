@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS The execution of the transaction was disabled by a system configuration 
+   (the blacklist monitor).                                                
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Avoid using this transaction or contact your system administrator.      
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         
+AS For more information about the blacklist monitor, see SAP Note 2476734. 
+AS                                                                         

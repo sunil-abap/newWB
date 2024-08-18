@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Op IBM-plattforms is geen flush beschikbaar.                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Flush wordt afgebroken                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Flush vermijden                                                         

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Une zone de dynpro a été renseignée avec un contenu de zone dont la     
+   longueur est supérieur à la longueur de zone.                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Corrigez le contenu de la zone dans les données batch input.            

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Destino errado ou problema BD.                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS Estrutura da ligação CPIC é cancelada.                                  
+U1 &WHAT_TO_DO&                                                            
+AS Verificar destino, controlar log de sistema.                            

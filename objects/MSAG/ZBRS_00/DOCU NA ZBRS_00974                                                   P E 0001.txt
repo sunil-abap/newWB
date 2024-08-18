@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS A tentativa de anular a última transação BD foi cancelada devido a um   
+   erro SQL.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS É possível partir do princípio que, neste caso de erro, o processo em   
+   questão não pode continuar a ser processado. A transação deve ser       
+   reiniciada automaticamente pelo sistema de banco de dados.              

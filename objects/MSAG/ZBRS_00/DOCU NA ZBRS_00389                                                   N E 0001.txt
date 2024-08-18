@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Genoemde systeemfunktionaliteit kan maar 1 keer per batchinput map      
+U1 &WHAT_TO_DO&                                                            
+AS Gebruik 'call dialog ....' maar 1 keer in  een map.                     

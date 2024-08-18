@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Définition erronée de la valeur de FROM                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Valeur de FROM doit être définie parmi les entrées de la table interne. 

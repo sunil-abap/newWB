@@ -1,0 +1,30 @@
+U1 &CAUSE&                                                                 
+AS One or more failed attempts made to log on to the system with a password
+   and your user name. Failed logon attempts could be caused by you (typo  
+   when entering hidden password) or could be an indication of an attempt  
+   by a third party to guess your password.                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Every failed attempt to log on with a password is counted. When a       
+   preconfigurable threshold value is exceeded, any further password logon 
+   attempts are blocked to keep your password from being guessed.          
+AS This counter is reset after a successful <ZH>password logon</>. This    
+   message tells you the value before the deletion.                        
+AS If you log on to the system in another way (with Single Sign-On, not    
+   with a password), the value of the counter remains unchanged. The number
+   of failed password logon attempts is displayed again at the next logon. 
+U1 &WHAT_TO_DO&                                                            
+AS If you suspect that other people are attempting to guess your password, 
+   you should contact your system administrator. The system administrator  
+   can then log any logon attempts where additional information (time      
+   stamp, network address, and so on) is recorded which could help to      
+   determine the cause.                                                    
+AS If you are also able to <ZH>log on to the system without a password </> 
+   (using Single Sign-On), you should consider deactivating the password   
+   that is no longer required. Neither you nor other people can log on to  
+   the system using your user name and the deactivated password, further   
+   password logon attempts are denied. If it is not possible to log on to  
+   the system by password, this is no longer displayed to you in a warning 
+   message (about any failed password logon attempts).                     
+U1 &SYS_ADMIN&                                                             
+AS Use the Security Audit Log to log both failed and successful logon      
+   attempts.                                                               

@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS Lors d'une demande d'exécution en batch, vous avez sélectionné un       
+   programme qui ne peut être planifié. Un programme pouvant être planifié 
+   est caractérisé par une date de lancement définie (par ex. : programmes 
+   ABAP classiques ou jobs standard pré-définis). Les programmes non       
+   planifiables sont les pools de modules ou les pools de fonction.        
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le nom du programme spécifié ne perment pas l'exécution de la demande   
+   d'exécution en batch. Le système présente le dynpro de planification    
+   des jobs sur lequel la zone du nom de programme est accessible, pour    
+   vous permettre de corriger votre saisie.                                
+U1 &WHAT_TO_DO&                                                            
+AS Il existe deux solutions au problème :                                  
+N1 Corrigez le nom du programme de sorte à indiquer un programme           
+   planifiable (comprenant une date d'exécution définie)                   
+N1 Corrigez les caractéristiques du programme initialement indiqué.        
+   Utilisez cette seconde possibilité lorsque les caractéristiques du      
+   programme comprennent des valeurs manifestement erronées. La correction 
+   des caractéristiques est effectuée à l'aide de l'éditeur de programme.  

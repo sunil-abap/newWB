@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Os caracteres ? ou ! na primeira posição de um campo de entrada de tela 
+   têm um significado especial.                                            
+/  Por isso, estes caracteres não devem existir na primeira posição de uma 
+   senha. Caso contrário, um logon baseado na senha, mediante o SAPGUI, já 
+   não seria possível.                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Selecionar outra senha.                                                 

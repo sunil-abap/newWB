@@ -1,0 +1,29 @@
+U1 &CAUSE&                                                                 
+AS O campo de entrada contém caracteres não permitidos. Estes são          
+   geralmente caracteres que talvez o frontend possa processar mas que não 
+   são permitidos no banco de dados R/3.                                   
+AS Para isso, são possíveis as seguintes causas:                           
+/  As quantidades de caracteres possíveis são idênticas para uma área de   
+   idioma entre ISO, Microsoft, IBM, Apple etc., mas raramente são mesmo   
+   iguais. Muitas vezes, os frontends podem entrar e exibir ainda mais     
+   alguns caracteres especiais, do que os contidos no registro de          
+   caracteres ISO.                                                         
+AS Se for utilizado um frontend, cuja área de idioma é adequada ao R/3, ao 
+   qual efetuou o logon, então existem muitos caracteres que não se podem  
+   utilizar no teclado.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS O sistema R/3 substitui os caracteres não permitidos por outros         
+   caracteres permitidos e sai esta mensagem de erro (00.077). Desta       
+   forma, o cursor é já colocado na linha ou no campo, no qual foi         
+   descoberto o caractere não permitido.                                   
+U1 &WHAT_TO_DO&                                                            
+AS Se concordar com a proposta, repetir simplesmente a última tecla de     
+   função. (Geralmente é [Enter].)                                         
+AS Se não concordar com a proposta, modificar os dados. Neste caso, só     
+   utilizar caracteres permitidos, caso contrário é obtida de novo a mesma 
+   mensagem de erro.                                                       
+AS Se não for possível representar os textos pretendidos com os caracteres 
+   permitidos para o frontend, cancelar a transação atual de modo          
+   adequado. (Na maior parte dos caso a tecla [Cancelar] ou [F12].)        
+/  Talvez exista um outro frontend que pode processar os caracteres        
+   pretendidos.                                                            

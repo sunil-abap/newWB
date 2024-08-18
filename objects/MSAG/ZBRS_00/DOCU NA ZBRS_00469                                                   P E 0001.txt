@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Em plataformas IBM não está disponível nenhum flush.                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS O flush é cancelado.                                                    
+U1 &WHAT_TO_DO&                                                            
+AS Evitar flush.                                                           

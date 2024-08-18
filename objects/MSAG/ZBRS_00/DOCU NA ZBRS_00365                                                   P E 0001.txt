@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Informações de estatística depois do processamento de uma pasta batch   
+   input.                                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS É possível analisar a pasta para descobrir onde ocorreram os erros.     

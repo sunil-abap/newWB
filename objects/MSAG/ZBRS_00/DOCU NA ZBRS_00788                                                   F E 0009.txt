@@ -1,0 +1,35 @@
+U1 &CAUSE&                                                                 
+AS Une ou plusieurs tentatives de connexion au système sous votre ID       
+   utilisateur et en utilisant un mot de passe ont échoué. Vous pouvez être
+   à l'origine de tels échecs de tentatives de connexion (faute de frappe  
+   lors de la saisie masquée du mot de passe) ou cela peut indiquer qu'un  
+   tiers a tenté de deviner votre mot de passe.                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le compteur augmente à chaque échec de tentative de connexion par mot de
+   passe ; après le dépassement d'une valeur limite configurable, toutes   
+   les autres tentatives de connexion par mot de passe sont bloquées afin  
+   d'empêcher une interception de votre mot de passe.                      
+AS Ce compteur est réinitialisé après une <ZH>connexion correcte par mot de
+   passe</>. Ce message vous indique la valeur avant la suppression.       
+AS Si vous vous connectez au système d'une autre manière (sans mot de passe
+   mais par Single Sign-On), la valeur du compteur reste inchangée. Le     
+   nombre de tentatives de connexions par mot de passe qui ont échoué sera 
+   indiqué lors de la prochaine connexion.                                 
+U1 &WHAT_TO_DO&                                                            
+AS Si vous soupçonnez que d'autres personnes tentent de deviner votre mot  
+   de passe, contactez votre administrateur système. Ce dernier peut       
+   demander la journalisation des ouvertures de sessions pendant           
+   l'enregistrement d'informations supplémentaires (horodatage, adresses   
+   réseau, etc.) pouvant aider à déterminer la cause.                      
+AS Si vous pouvez également vous connecter <ZH>sans mot de passe au système
+=   </> (en utilisant la procédure Single Sign-On), vous devez envisager la
+   désactivation du mot de passe qui n'est plus requis. Ni vous (ni        
+   d'autres personnes) ne pouvez vous connecter sous votre ID utilisateur  
+   au système avec un mot de passe désactivé ; d'autres tentatives de      
+   connexion par mot de passe seront empêchées. En cas d'absence de        
+   possibilité de se connecter au système par mot de passe, ce message     
+   d'avertissement (sur les échecs de tentatives de connexion par mot de   
+   passe) ne s'affiche plus.                                               
+U1 &SYS_ADMIN&                                                             
+AS Utilisez le Security Audit Log pour journaliser des ouvertures de       
+   sessions (correctes et ayant échoué).                                   

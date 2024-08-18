@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Vous avez tenté de modifier à nouveau votre mot de passe, alors que     
+   ce n'est possible qu'une fois par jour.                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Attendez jusqu'à demain pour modifier votre mot de passe ou             
+   adressez-vous à votre administrateur système.                           

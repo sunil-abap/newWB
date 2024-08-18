@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Passerelle SAP non démarrée  ou définition erronée des paramètres       
+   d'établissement de la communication. Contactez le responsable.          
+U1 &SYSTEM_RESPONSE&                                                       
+AS Interruption de la procédure d'interruption de la communication.        
+U1 &WHAT_TO_DO&                                                            
+AS Démarrez la passerelle SAP ou corrigez les paramètres de communication. 

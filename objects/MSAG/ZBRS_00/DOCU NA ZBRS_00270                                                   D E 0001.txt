@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Der CUA-Status darf in einem Subscreen nicht gesetzt werden.            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Ersatzloses Entfernen der ABAP-Anweisung SET PF-STATUS.                 

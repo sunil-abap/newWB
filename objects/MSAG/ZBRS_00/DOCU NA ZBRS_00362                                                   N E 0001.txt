@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Fout bij inlezen van een map.                                           
+U1 &WHAT_TO_DO&                                                            
+AS Informatie.                                                             

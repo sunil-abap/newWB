@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Only sessions with the statuses 'still to be processed' or              
+   'contains errors' can be processed.                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Only process valid sessions.                                            

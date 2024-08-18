@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS É necessário que os valores de entrada estejam gravados na tabela &V4&. 
+   O valor ou os valores "&V1& &V2& &V3&" não estão criados na tabela.     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verificar e, eventualmente, corrigir a entrada.                         
+U1 &SYS_ADMIN&                                                             
+AS Se não se tratar de um erro de entrada, verificar e, se necessário,     
+   modificar as configurações do sistema.                                  
+AS Se uma ligação estiver atualizada para o sistema de customizing, é      
+   acessada a atualização das configurações do sistema por meio do botão   
+   "Customizing" no Performance Assistant ou por meio de <PF>Atualizar     
+   entradas</> (<PF>F5</>) na exibição da ajuda na janela modal.           

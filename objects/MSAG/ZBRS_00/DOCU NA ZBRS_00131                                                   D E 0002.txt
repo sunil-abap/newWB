@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Für die Transaktion & ist "Einstiegsbild überspringen" nicht erlaubt.   
+U1 &SYSTEM_RESPONSE&                                                       
+AS Sie haben versucht die Transaktion & mit der Option "Einstiegsbild      
+   überspringen" über einen SAPGUI Shortcut, eine Starttransaktion oder    
+   eine URL zu starten.                                                    
+U1 &WHAT_TO_DO&                                                            
+AS Das ist für diese Transaktion nicht erlaubt.                            
+U1 &SYS_ADMIN&                                                             
+AS Wird diese Funktionalität benötigt, wenden Sie sich bitte an ihren      
+   Systemadministrator.                                                    

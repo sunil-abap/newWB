@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Vous avez tenté de lancer une transaction pour laquelle vous n'avez pas 
+   d'autorisation.                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le système n'autorise pas le lancement de cette transaction.            
+U1 &WHAT_TO_DO&                                                            
+AS Si vous devez avoir l'autorisation correspondant à cette transaction,   
+   adressez-vous à votre administrateur système.                           

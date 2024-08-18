@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Erreur interne au monitorage batch-input                                
+AS Adaptez PERFORM SEND_MSG                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Notez la situation ayant créé l'erreur et contactez votre               
+   administrateur système                                                  
+AS Contactez le responsable                                                

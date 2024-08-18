@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Na análise da pasta o usuário alcançou o fim desta pasta, não é         
+   possível continuar a folhear.                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

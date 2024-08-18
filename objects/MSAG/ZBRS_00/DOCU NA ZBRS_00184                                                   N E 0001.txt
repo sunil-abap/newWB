@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Bij het invoeren van een nieuw wachtwoord hebt u een tikfout gemaakt.   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Voer hetzelfde nieuwe wachtwoord nogmaals in.                           

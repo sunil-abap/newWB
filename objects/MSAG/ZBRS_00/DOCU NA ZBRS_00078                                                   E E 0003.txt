@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS The DFIES interface contains fields with the length specifications:     
+   LENG, OUTPUTLEN, DECIMALS, HEADLEN, SCRLEN1, SCRLEN2 and SCRLEN3. These 
+   fields must be numerical, that is, they must only contain numbers. In   
+   this case, the DFIES specifications refer to field:                     
+AS   &V1& - &V2&                                                           
+AS At least one of the length specifications specified contains non-       
+   numerical characters.                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS This is an internal error on the DFIES interface. The transaction       
+   running must be terminated.                                             
+U1 &WHAT_TO_DO&                                                            
+AS As this is an internal error, you cannot correct it yourself. Report    
+   the error to SAP.                                                       

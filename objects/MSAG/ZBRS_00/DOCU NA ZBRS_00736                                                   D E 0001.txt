@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Bei der Umsetzung von SNC-Namen muß das externe Sicherheitsprodukt den  
+   kanonischen SNC-Namen neu bestimmen.                                    
+AS In mindestens einem Fall ist dies nicht gelungen.                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Sie können die Bereinigung der SNC-Namen mit dem Report                 
+   <DS:RE.RSSNCCHK>RSSNCCHK</> durchführen.                                

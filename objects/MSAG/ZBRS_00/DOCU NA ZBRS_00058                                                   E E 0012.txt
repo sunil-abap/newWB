@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Input values must be defined in Table &V4&. The value or values '&V1&   
+   &V2& &V3&' are not specified in this table.                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check whether the input is correct and correct if necessary.            
+U1 &SYS_ADMIN&                                                             
+AS If this is not an incorrect entry, check the system settings and change 
+   them if necessary.                                                      
+AS If there is a connection to the Customizing system, you can maintain    
+   the system settings by choosing <ZK>Customizing</> in the Performance   
+   Assistant or <PF>Maintain Entries</> (<PF>F5</>) when displaying the    
+   help in a modal dialog box.                                             

@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS Een map in status 'in bewerking' wordt in de status 'nog te verwerken'  
+   vrijgegeven                                                             
+U1 &WHAT_TO_DO&                                                            
+AS Map kan weer ingelezen worden                                           

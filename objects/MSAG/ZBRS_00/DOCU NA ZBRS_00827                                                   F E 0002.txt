@@ -1,0 +1,20 @@
+U1 &CAUSE&                                                                 
+AS Vous voulez supprimer une icône déjà définie.                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS La suppression d'icônes est problématique.                              
+AS Le cas d'emploi pour les icônes n'est pas possible. La suppression      
+   d'icônes peut entraîner des incohérences de fonctionnement des          
+   programmes/transactions utilisant l'icône à supprimer.                  
+AS La séquence croissante et continue risque d'être interrompue et vous ne 
+   pouvez pas sauvegarder la suppression. Si vous remplacez l'icône        
+   supprimée par une autre icône, cette dernière sera toujour affichée à   
+   la place de l'icône supprimée. Cette opération peut pafois présenter    
+   des désavantages.                                                       
+U1 &WHAT_TO_DO&                                                            
+AS Ne supprimez les icônes qu'en cas d'extrême nécéssité, lorsque vous     
+   êtes certains                                                           
+B1 que cette icône n'est plus utilisée ou                                  
+B1 que la discontinuité qui en résulte est fermée par une icône ayant la   
+   même signification.                                                     
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

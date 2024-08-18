@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS De source van dynpro "&V2&" van programma "&V1&" is niet aanwezig.      
+LZ                                                                         
+AS Wellicht wordt deze fout veroorzaakt doordat een onbekend               
+   include-dynpro is opgeroepen. In dit geval moeten de in de              
+   verwerkingslogica (van het roepende programma) bij CALL SUBSCREEN       
+   aangegeven variabelen worden gecontroleerd.                             

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Saisie dans code OK trop longue                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Corrigez vos données batch-input.                                       

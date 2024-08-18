@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Es gibt nur einen Infosatz zur Mappe. Fehler bei Erstellung der Mappe.  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Mappe nochmal erstellen.                                                

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Internal error of batch input monitoring                                
+AS Adapt PERFORM SEND_MSG                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Note the error situation and contact your system administrator.         

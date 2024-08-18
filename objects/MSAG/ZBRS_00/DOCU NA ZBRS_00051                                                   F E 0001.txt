@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Dans un groupe de zones de sélection, il faut toujours qu'exactement    
+   une zone soit cochée (c'est la valeur "X").                             
+AS Si aucune zone de sélection n'est cochée, le système coche par défaut la
+   première zone du groupe.                                                
+AS Si plus d'une zone est cochée, une interruption se produit.             
+   C'est cette situation qui s'est produite.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS La transaction est interompue.                                          
+U1 &WHAT_TO_DO&                                                            
+AS Il s'agit d'une erreur de programme.                                    
+AS La zone &V1&                                                            
+AS est cochée (cette zone possède la loupe au moment de l'erreur), et il   
+   existe déjà une zone cochée dans le même groupe de zones de sélection.  
+   Vous corrigez l'erreur dans le programme en prenant soin d'activer      
+   toujours uniquement une zone dans un groupe de zones de sélection.      

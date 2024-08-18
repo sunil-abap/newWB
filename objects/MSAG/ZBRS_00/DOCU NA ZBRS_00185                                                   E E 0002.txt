@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Only characters from the syntactic character set are allowed in a       
+   password. These are the digits from 0 to 9, the characters of the US    
+   alphabet and various special characters which can be found on all       
+   keyboards.                                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Choose another password.                                                

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS L'exécution du dossier est impossible puisqu'il est en cours de         
+   traitement                                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Attendez la fin de l'exécution du dossier spécifié                      

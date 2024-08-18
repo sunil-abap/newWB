@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Valeur erronée de la zone "Type comm." de la table TXCOM. La zone       
+   autorise la saisie des valeurs suivantes :                              
+AS                                                                         
+AS Valeurs           Signification                                         
+AS --------------------------------------------------------------------    
+AS C              Communication via SNA/UPIC                               
+AS I              Communication via TCP/IP, partenaire : un système R/3    
+AS E              Communication via TCP/IP, partenaire : un programme C    
+U1 &SYSTEM_RESPONSE&                                                       
+AS Interruption de la mise en place de la communication CPIC               
+U1 &WHAT_TO_DO&                                                            
+AS Corrigez la valeur saisie dans la zone "Type comm."                     

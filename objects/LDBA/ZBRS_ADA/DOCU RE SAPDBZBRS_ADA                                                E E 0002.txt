@@ -1,0 +1,7 @@
+U1 &DESCRIPTION&                                                           
+                                                                           
+/: INCLUDE 'AA_ADA' OBJECT DOKU ID TX LANGUAGE E                           
+U1 Value fields                                                            
+AS The logical database ADA makes the following data elements with         
+   asset values available for reporting:                                   
+/: INCLUDE 'AA_ANLCV' OBJECT DOKU ID TX LANGUAGE E                         

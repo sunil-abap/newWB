@@ -1,0 +1,25 @@
+U1 &CAUSE&                                                                 
+AS Le système n'a pas été configuré pour des tickets de connexion SAP :    
+AS La valeur d'au moins un des deux paramètres login/create_sso2_ticket ou 
+   login/accept_sso2_ticket est actuellement "0".                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS L'utilisation de tickets de connexion SAP est impossible.               
+AS De la même manière, le Single Sign On (SSO)                             
+   n'est pas supporté lors de l'utilisation de                             
+   de SAP GUI HTML Control et de l'appel de                                
+   services ICF locaux (cf. note SAP                                       
+   612670).                                                                
+U1 &WHAT_TO_DO&                                                            
+                                                                           
+AS Informez votre administrateur système.                                  
+U1 &SYS_ADMIN&                                                             
+AS <DS:TRAN.RZ11>Contrôlez les valeurs des deux paramètres de profil       
+   </> et affectez-leur les valeurs appropriées, par exemple :             
+                                                                           
+B1 login/create_sso2_ticket = 2                                            
+B1 login/accept_sso2_ticket = 1                                            
+AS Après l'activation du paramètre de profil                               
+   (via <DS:TRAN.RZ10>Transaction                                          
+   RZ10</>, vous devez par ailleurs redémarrer le serveur d'application    
+   afin d'activer les nouvelles valeurs.                                   
+AS                                                                         

@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS A memória de dados que deve transferir uma parte da lista para o front  
+   end estourou porque são possíveis demasiados caracteres na janela.      
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Só será exibida uma parte                                               
+U1 &WHAT_TO_DO&                                                            
+AS Selecionar uma janela menor ou uma fonte maior                          
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

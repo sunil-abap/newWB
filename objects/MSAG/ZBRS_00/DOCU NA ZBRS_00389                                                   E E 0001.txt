@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Specified system functionality is batch input compatible only once      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Use 'call dialog ....' only once in a session                           

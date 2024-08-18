@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Le dossier batch input n'a pas été exécuté. Un programme de             
+   réorganisation (RSBDCREO) était en cours d'exécution au même moment.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vérifiez par mesure de sécurité si le programme de réorganisation est   
+   encore en cours d'exécution. Si le programme a été interrompu et si     
+   l'entrée de blocage existe sur BTCREORG, vous pouvez la supprimer.      

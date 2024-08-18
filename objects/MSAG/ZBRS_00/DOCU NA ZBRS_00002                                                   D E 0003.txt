@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Lassen Sie sich mit F4 die erlaubten Werte anzeigen, und korrigieren    
+   Sie Ihre Eingabe.                                                       

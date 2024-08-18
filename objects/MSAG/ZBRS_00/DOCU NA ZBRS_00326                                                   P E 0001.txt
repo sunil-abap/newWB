@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Uma pasta no status 'Em processamento' é liberada no status 'Ainda para 
+   processar'.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Não é possível voltar a processar a pasta.                              

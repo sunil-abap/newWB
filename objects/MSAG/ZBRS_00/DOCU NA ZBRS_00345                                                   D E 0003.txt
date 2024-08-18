@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Das Abspielen der Batch-Input-Mappe wurde beendet                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS Information                                                             
+U1 &WHAT_TO_DO&                                                            
+AS Sie können zur Mappenübersicht zurückkehren oder die                    
+   Batch-Input-Verarbeitung ganz beenden                                   

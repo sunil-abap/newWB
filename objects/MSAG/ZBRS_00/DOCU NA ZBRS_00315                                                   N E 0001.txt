@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Geselecteerde verslagen zijn verwijderd.                                
+                                                                           
+AS &SYSTEM_RESPONSE&                                                       
+AS Geen.                                                                   
+AS &WHAT_TO_DO&                                                            
+AS Aanwijzing.                                                             
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         

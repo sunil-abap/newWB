@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Chamada do módulo de função BDC_RUNNING.                                
+AS Foi determinado que não está ativo nenhum batch input para o momento    
+   indicado.                                                               
+AS                                                                         
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Nenhum                                                                  
+AS                                                                         

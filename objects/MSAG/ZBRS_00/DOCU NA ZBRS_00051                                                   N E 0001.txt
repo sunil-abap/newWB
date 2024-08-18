@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS In een groep selectievelden moet altijd precies één veld zijn ingesteld 
+   (d.w.z. de waarde 'X'bevatten).                                         
+AS Als er geen selectieveld is ingesteld, dan wordt het eerste veld uit de 
+   groep defaultmatig door het systeem ingesteld.                          
+AS Als er meer dan één veld is ingesteld, dan wordt de transactie          
+   afgebroken. Deze situatie heeft zich zojuist voorgedaan.                
+U1 &SYSTEM_RESPONSE&                                                       
+AS De transactie wordt afgebroken.                                         
+U1 &WHAT_TO_DO&                                                            
+AS Het gaat om een programmafout.                                          
+AS Het veld &V1&                                                           
+AS is ingesteld (op het moment van de bevindt de gebruiker zich in dit     
+   veld) waarbij er in dezelfde groep selectievelden reeds een veld is     
+   ingesteld. De fout in het programma wordt opgeheven, als u er rekening  
+   mee houdt dat in een groep selectievelden altijd precies één veld moet  
+   zijn ingesteld.                                                         

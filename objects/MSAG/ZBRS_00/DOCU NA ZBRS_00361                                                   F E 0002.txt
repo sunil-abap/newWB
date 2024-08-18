@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Erreur lors de l'exécution du dossier.                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+U1 Analysez le dossier pour rechercher l'endroit où apparaît l'erreur ou   
+   lancez le dossier en mode de traitement <LS>Afficher uniquement         
+   erreurs</>.                                                             

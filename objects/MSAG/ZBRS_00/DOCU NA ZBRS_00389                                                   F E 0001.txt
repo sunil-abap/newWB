@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS La fonction système spécifiée ne peut être exécutée qu'une fois en      
+   mode batch-input                                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS N'utilisez l'intruction "call dialog ...." qu'une seule fois par dossier

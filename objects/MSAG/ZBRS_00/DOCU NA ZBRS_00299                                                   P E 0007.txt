@@ -1,0 +1,22 @@
+U1 &CAUSE&                                                                 
+AS Durante a liberação da pasta batch input &V1&, foi efetuada uma pesquisa
+   por jobs em background (batch) correspondentes ainda existentes. Assim, 
+   foi encontrado um job pertencente que ainda não está no status "Pronto".
+*  Após a liberação desta pasta, pode suceder que a pasta seja processada  
+   no diálogo ou em background E que o job ainda existente seja executado. 
+/  Desta forma, poderiam ser registrados dados duplos.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS Não se efetua a liberação da pasta &V1&.                                
+U1 &WHAT_TO_DO&                                                            
+AS Analisar o job em background correspondente, com a ajuda da transação   
+   SM37:                                                                   
+T1 Nome do job: ,,&V1&                                                     
+/  Criador do job: ,,&V2&                                                  
+/  Data prevista de início: ,,&V3&                                         
+/  Hora prevista de início: ,,&V4&                                         
+/                                                                          
+*  Verificar se o job ainda pode ser executado e, com isto, se já não é    
+   necessária uma liberação.                                               
+/  Caso contrário, eliminar o job e executar novamente a liberação.        
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

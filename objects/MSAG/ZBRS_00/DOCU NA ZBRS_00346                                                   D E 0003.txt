@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Fehlerhafte Batch-Input Daten, Feldname &V1& ist ungültig. Er ist       
+   falsch geschrieben oder der Feldname ist leer.                          
+AS                                                                         
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Feldnamen in den Batch-Input Daten korrigieren.                         

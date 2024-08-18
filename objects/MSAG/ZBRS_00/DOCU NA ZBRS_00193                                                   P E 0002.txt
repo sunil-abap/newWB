@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS O usuário tentou modificar a senha e utilizou uma senha que já foi      
+   utilizada uma vez antes.                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Selecionar uma outra senha.                                             

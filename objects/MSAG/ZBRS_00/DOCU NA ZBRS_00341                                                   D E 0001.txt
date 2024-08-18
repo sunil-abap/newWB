@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Fehlertexte von Batch-Input wird nicht ausgegeben                       
+AS nur Platzhalter                                                         
+U1 &WHAT_TO_DO&                                                            
+AS nichts                                                                  
+AS                                                                         
+AS                                                                         

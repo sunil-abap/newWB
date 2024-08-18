@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS De eerste 3 tekens van het wachtwoord mogen in deze volgorde niet in de 
+   gebruikersnaam voorkomen. Hierdoor moet met name worden verhinderd dat  
+   gebruikersnaam en wachtwoord identiek zijn.                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Kies een ander wachtwoord.                                              

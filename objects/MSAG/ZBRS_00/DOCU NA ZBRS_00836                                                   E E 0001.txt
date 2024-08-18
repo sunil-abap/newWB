@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS The system cannot create any new archive files.                         
+AS This may be because the namespace for archive files for this object is  
+   full, or that the operating system cannot create the file.              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

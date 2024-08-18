@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Interner Fehler innerhalb der Datenbankschnittstelle.                   
+                                                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS The number of nested subscreens is limited by a system variable. This   
+AS limit is only used for security purposes and cannot usually be          
+AS exceeded.                                                               
+AS If this limit is exceeded, there is a high possibility of a system      
+AS error.                                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS The system responds by terminating the current transaction.             
+U1 &WHAT_TO_DO&                                                            
+AS Notify SAP (Basis department) of the error.                             

@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS U probeert een blok van de batchinput-map te analyseren dat zich        
+   niet in het bestaande blokgebied 1 t/m &V1&  bevindt.                   
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Wijzig het bloknummer in een geldig blok.                               
+AS                                                                         

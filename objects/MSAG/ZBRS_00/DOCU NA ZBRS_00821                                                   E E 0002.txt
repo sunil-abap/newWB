@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS You have defined an icon. the icon name contains invalid characters.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS The system cannot save the icon.                                        
+U1 &WHAT_TO_DO&                                                            
+AS The following characters are valid for icon names:                      
+B1 Letters A to Z                                                          
+B1 Underscore _.                                                           
+AS Correct the icon name and save it again.                                
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

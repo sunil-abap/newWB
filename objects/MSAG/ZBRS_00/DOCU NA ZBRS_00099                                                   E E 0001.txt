@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Fields that can be specified for the LOOP AT internal table (FROM, TO,  
+   CURSOR), have an incorrect data type.                                   
+U1 &RSYSTEM_RESPONSE&                                                      
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Fields must be defined in the same way as SY-INDEX                      
+AS Example: DATA: START like sy-index.                                     

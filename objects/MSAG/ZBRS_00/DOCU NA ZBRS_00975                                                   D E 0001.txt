@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS COMMIT brach wegen Datenbankfehlers ab. Damit werden die                
+   Datenbankaktionen seit dem letzten COMMIT/ROLLBACK automatisch          
+   zurückgerollt.                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Wiederholen Sie die letzte Aktion.                                      

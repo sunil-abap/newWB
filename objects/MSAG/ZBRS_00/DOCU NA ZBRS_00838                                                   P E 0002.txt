@@ -1,0 +1,23 @@
+U1 &CAUSE&                                                                 
+AS Antes de eliminar a pasta batch input &V1&, foi efetuada uma pesquisa de
+   jobs em background (batch) correspondentes ainda existentes. Foi        
+   encontrado um job correspondente que ainda não se encontra no status    
+   "concluído".                                                            
+*  Ao eliminar esta pasta, pode suceder que a pasta seja eliminada no      
+   diálogo ou em background E que o job ainda existente seja executado.    
+/  Isso pode levar a múltiplas eliminações da pasta ou a um processamento  
+   de pasta inconsistente.                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS Não é executada nenhuma eliminação da pasta &V1&.                       
+U1 &WHAT_TO_DO&                                                            
+AS Analise o job em background correspondente, mediante a transação SM37:  
+T1 Nome do job: ,,&V1&                                                     
+/  Criador do job: ,,&V2&                                                  
+/  Data prevista de início: ,,&V3&                                         
+/  Hora prevista de início: ,,&V4&                                         
+/                                                                          
+*  Verifique se o job ainda pode ser executado e, com isto, se já não é    
+   necessária uma eliminação.                                              
+/  Caso contrário, elimine o job e execute novamente a eliminação da pasta.
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

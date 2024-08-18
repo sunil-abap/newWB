@@ -1,0 +1,29 @@
+U1 &CAUSE&                                                                 
+AS Votre saisie ne correspond pas au masque de saisie indiqué.             
+U1 &SYSTEM_RESPONSE&                                                       
+AS L'entrée dans cette zone est refusée.                                   
+U1 &WHAT_TO_DO&                                                            
+AS La saisie doit correspondre au masque. Les caractères de format         
+   d'édition suivants                                                      
+AS ont une signification particulière :                                    
+D1 <zh>_ (trait de soulignement) : </> un caractère de saisie doit se      
+   trouver à cet emplacement ; il doit s'agir d'un chiffre pour les zones  
+   numériques.                                                             
+D1 <zh>, (virgule décimale) :</> utilisée pour les zones numériques et les 
+   horodatages de type UTCLONG ; la virgule décimale ou le point décimal   
+   (option dans la fiche utilisateur) se trouve à cet emplacement.         
+D1 <zh> . (point de séparation des milliers) :</> utilisé pour les zones   
+   numériques ; le séparateur se trouve à cet emplacement tous les 3       
+   chiffres (facultatif). Il s'agit d'un point ou d'une virgule en fonction
+   de l'option dans la fiche utilisateur.                                  
+D1 <zh>+/- :</> utilisé pour les zones numériques : le signe +/- se trouve 
+   à cet emplacement ; si ce signe est prévu, il doit se situer sur le bord
+=   droit de la zone. Le signe est "-" ou " " (espace).                    
+D1 <zh>~ (tilde) :</> utilisé pour les zones numériques ; à partir de cet  
+   emplacement vers la droite (inclus), des zéros non significatifs doivent
+   être entrés aussi. Sinon, ce caractère a la même signification que le   
+   trait de soulignement. En général, les zéros non significatifs ne do    
+=  ivent pas être saisis, donc à gauche du tilde. Ils ne sont pas édités   
+   également à cet emplacement.                                            
+AS Tous les autres caractères s'entendent pour eux-mêmes et doivent se     
+   trouver au même emplacement que celui du masque lors de la saisie.      

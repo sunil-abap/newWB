@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS The memory area of the Basis software for the GUI status is too small   
+   for the requested status. In other words, the requested status contains 
+   include menus which can no longer be (completely) inserted.             
+U1 &SYSTEM_RESPONSE&                                                       
+AS You can continue processing, although the include menus are not         
+   available.                                                              
+U1 &WHAT_TO_DO&                                                            
+AS The system administrator should increase the size of profile parameter  
+   "ztta/cua_area". Ensure that profile parameter "ztta/short_area" is at  
+   least six times as large as "ztta/cua_area".                            

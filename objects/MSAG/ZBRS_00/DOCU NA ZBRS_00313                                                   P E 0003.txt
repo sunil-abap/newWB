@@ -1,0 +1,10 @@
+AS                                                                         
+AS                                                                         
+U1 &CAUSE&                                                                 
+AS A(s) pasta(s) selecionada(s) com log foi(ram) eliminada(s).             
+AS Por motivos de performance, as pastas grandes e seus logs são           
+AS eliminados em background.                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS Nenhuma.                                                                
+U1 &WHAT_TO_DO&                                                            
+AS Nota.                                                                   

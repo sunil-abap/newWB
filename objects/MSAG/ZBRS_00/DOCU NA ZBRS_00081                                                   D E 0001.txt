@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Während der Abarbeitung einer mit PERFORM ...ON COMMIT gerufenen        
+   Routine wird wieder PERFORM ... ON COMMIT aufgerufen. Diese             
+   Schachtelung ist nicht erlaubt.                                         
+U1 &SYSTEM_RESPONSE&                                                       
+U1 &WHAT_TO_DO&                                                            
+AS Das hinter "Caller:" angegebene Programm muß geändert werden. Es ruft   
+   während der COMMIT-Verarbeitung die nach "Form:" angegebene Routine.    
+   Diese Routine steht im Programm, das nach "Program:" angegeben ist.     
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

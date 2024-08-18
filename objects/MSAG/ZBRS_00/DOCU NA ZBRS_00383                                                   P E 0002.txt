@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS O processamento batch input foi cancelado pelo usuário.                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

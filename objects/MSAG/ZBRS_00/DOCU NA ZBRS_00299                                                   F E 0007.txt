@@ -1,0 +1,24 @@
+U1 &CAUSE&                                                                 
+AS Lors de la validation du dossier batch input &V1&, le système a effectué
+   la recherche de jobs d'arrière-plan encore existants. Un job            
+   correspondant qui ne possède pas encore le statut "terminé" a été trouvé
+   .                                                                       
+*  Lorsque ce dossier est validé, celui-ci peut avoir été exécuté dans le  
+   dialogue ou en arrière-plan ET le job existant encore est exécuté.      
+                                                                           
+/  Par conséquent, des données ont pu être enregistrées en double.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le dossier &V1& n'est pas validé.                                       
+U1 &WHAT_TO_DO&                                                            
+AS Analysez le job d'arrière-plan correspondant en utilisant la transaction
+   SM37 :                                                                  
+T1 Nom du job : ,,&V1&                                                     
+/  Job créé par : ,,&V2&                                                   
+/  Date de lancement prévue : ,,&V3&                                       
+/  Heure de lancement prévue : ,,&V4&                                      
+/                                                                          
+*  Contrôlez si le job peut encore être exécuté, ainsi aucune validation   
+   n'est nécessaire.                                                       
+/  Sinon, supprimez le job et effectuez la validation à nouveau.           
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

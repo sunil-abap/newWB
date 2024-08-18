@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS La SAP GUI a envoyé des données de connexion incorrectes au serveur     
+   d'application.                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS 1. Utilisez une version SAP GUI compatible avec le serveur              
+   d'application.                                                          
+/  2. Vérifiez si la page de code utilisée par la SAP GUI existe dans le   
+   système SAP.                                                            

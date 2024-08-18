@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS No registro se encontra um índice de ficha que não é possível imprimir. 
+AS                                                                         
+AS Porém, tal comportamento não é suportado pelo registro.                 
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+U1                                                                         
+AS Verificar modificação de tela ou definição de screenpainter do índice   
+AS da ficha de registro.                                                   
+AS Na modificação de tela, o INPUT do índice de ficha de registro não pode 
+AS ser '0'.                                                                
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

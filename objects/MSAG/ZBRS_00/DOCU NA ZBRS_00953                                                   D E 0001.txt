@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Die versuchte Operation (INSERT oder UPDATE) verstößt gegen die         
+   Eindeutigkeit des Primärschlüssels oder eines anderen als UNIQUE        
+   definierten Indexes.                                                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Überprüfen Sie Ihr ABAP-Programm.                                       

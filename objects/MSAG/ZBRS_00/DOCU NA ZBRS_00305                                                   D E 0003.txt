@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Ausgewählte Mappen wurden freigegeben oder gesperrt.                    
+AS Aus Performancegründen werden große Mappen im Batch freigegeben.        
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Keine.                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Hinweis.                                                                

@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS A tela &V1& utiliza a estrutura &V2& do ABAP Dictionary. Essa estrutura 
+   foi modificada durante a execução da transação atual ou do programa     
+   atual no ABAP Dictionary (registro da hora da estrutura no programa:    
+   &V3&, registro da hora da estrutura no ABAP Dictionary: &V4&).          
+U1 &SYSTEM_RESPONSE&                                                       
+AS A continuação do programa ou da transação não é possível. Foi esse o    
+   motivo do cancelamento do processamento.                                
+U1 &WHAT_TO_DO&                                                            
+AS Iniciar o programa ou a transação novamente. Assim, será carregada uma  
+   versão atual do programa e eliminada a inconsistência dos dados.        
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

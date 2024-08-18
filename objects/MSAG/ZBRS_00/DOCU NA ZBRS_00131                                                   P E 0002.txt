@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS "Ignorar 1ª tela" não é permitido para a transação &.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS O usuário tentou iniciar a transação & com a opção "Ignorar 1ª tela",   
+   mediante um atalho SAPGUI, uma transação inicial ou um URL.             
+U1 &WHAT_TO_DO&                                                            
+AS Isso não é permitido para esta transação.                               
+U1 &SYS_ADMIN&                                                             
+AS Se essa funcionalidade for necessária, contatar o administrador do      
+   sistema.                                                                

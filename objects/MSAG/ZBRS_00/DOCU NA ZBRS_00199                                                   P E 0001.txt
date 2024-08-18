@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS O usuário de serviço RFC utilizado na administração central de usuários 
+   não tem nenhuma autorização no subsistema &V2& (destino RFC) para a     
+   administração de senhas para o usuário &V1&.                            
+*  Foi verificado o objeto de autorização S_USER_GRP para a atividade 05.  
+U1 &SYSTEM_RESPONSE&                                                       
+AS Desta forma não é possível ler o usuário e o valor hash da senha        
+   inclusive.                                                              
+/  Nenhum dos usuários selecionados foi aceito na administração central de 
+   usuários.                                                               
+U1 &WHAT_TO_DO&                                                            
+AS Ampliar as autorizações do usuário de serviço da administração central  
+   de usuários no sistema destino.                                         
+/  Valores de autorização necessários para o objeto de autorização         
+   S_USER_GRP:                                                             
+/(   CLASS = '*'                                                           
+/(   ACTVT = '05'                                                          
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

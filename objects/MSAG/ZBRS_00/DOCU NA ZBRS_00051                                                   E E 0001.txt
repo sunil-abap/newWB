@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS In a group of selection fields, exactly one field must be set (have the 
+   value 'X').                                                             
+AS If no selection field is set, the system sets the first field in the    
+   group by default.                                                       
+AS If more than one field is set the transaction terminates. This          
+   situation has just occurred.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS The transaction terminates.                                             
+U1 &WHAT_TO_DO&                                                            
+AS This is a program error.                                                
+AS The field &V1&                                                          
+AS is set (this field contains the focus at the time of error), where      
+   there is already a field set in the same group of selection fields. The 
+   program error is corrected by ensuring that always exactly one field is 
+   set in a selection field group.                                         

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Une erreur s'est produite lors de l'éclatement des profils utilisateur. 
+   La fiche utilisateur est peut-être détruite.                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Informez votre administrateur système ou SAP.                           

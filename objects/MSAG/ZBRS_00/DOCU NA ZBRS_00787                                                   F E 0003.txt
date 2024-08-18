@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Le système a été configuré pour l'utilisation de la connexion par       
+   certificat basée sur des règles (login/certificate_mapping_rulebased =  
+   1).                                                                     
+AS Dans ce cas, la table de mappage USREXTID n'est plus analysée ; il n'est
+   donc pas judicieux de gérer des entrées de mappage dans la table        
+   USREXTID.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

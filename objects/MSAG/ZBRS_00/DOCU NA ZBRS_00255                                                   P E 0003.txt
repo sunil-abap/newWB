@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS Foi entrado um código de função inativo.                                
+AS Isto pode ter sido acionado:                                            
+B1 através da entrada direta no campo de código OK<(>,<)>                  
+B1 através da entrada da seleção direta de uma função de menu inativa<(>,<)
+B1 ao pressionar uma tecla de função inativa e                             
+B1 ao pressionar ENTER, caso ENTER tenha sido ocupado com uma função       
+   inativa.                                                                
+AS No batch input é também entrado um código de função no campo            
+   <NP>BDC_OKCODE</> da pasta, desde que este não esteja em ENTER.         
+AS Os códigos de função podem ser desativados estaticamente no Menu Painter
+   (transação SE41) ou dinamicamente através do suplemento <NP>EXCLUDING</>
+   na instrução <NP>SET PF-STATUS</>.                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

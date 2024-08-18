@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Die Protokolle, die ausgewählten wurden, um zu archivieren, haben       
+    keine Mappen-Status  'neu' oder 'verarbeitet'.                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

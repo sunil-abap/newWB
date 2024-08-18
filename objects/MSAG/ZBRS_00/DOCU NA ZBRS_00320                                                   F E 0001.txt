@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS La création du dossier est incomplète                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Supprimez le dossier et effectuez une nouvelle création.                

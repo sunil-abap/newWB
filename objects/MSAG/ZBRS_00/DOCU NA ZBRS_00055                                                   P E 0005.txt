@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Você tentou atualizar dados ou iniciar uma ação. Porém, ainda não foram 
+   efetuadas todas as indicações necessárias.                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS Não foi possível executar a ação.                                       
+U1 &WHAT_TO_DO&                                                            
+AS Efetue todas as indicações necessárias. Você reconhece os campos para os
+   quais é necessária uma entrada porque eles têm um pequeno quadro com uma
+   marca de verificação ou um ponto de interrogação ("?") ou um asterisco  
+   propostos pelo sistema como conteúdo do campo. Se a tela atual contiver 
+   fichas de registro, controle também nas fichas de registro não exibidas 
+   atualmente se todos os campos com entrada obrigatória estão preenchidos.
+   Em seguida, inicie novamente a ação.                                    
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

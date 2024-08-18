@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS The specified field does not exist in the Nametab for the table.        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

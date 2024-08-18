@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS O job que ainda é exibido na lista existente foi entretanto eliminado   
+   da tabela de banco de dados existente.                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS A ação pretendida já não pode ser executada com este job. Eventualmente 
+   o job tem de ser planejado novamente.                                   

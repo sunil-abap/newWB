@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Erreur interne du mode batch-input                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS Contactez votre administarateur système                                 
+U1 &WHAT_TO_DO&                                                            
+AS Re-créez le dossier et exécutez-le                                      

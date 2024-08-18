@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Cursor is not placed on a line which can be selected.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS None.                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Position the cursor on a list line.                                     

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS U hebt geprobeerd uw wachtwoord nogmaals te wijzigen, maar dit is maar  
+   een keer per dag mogelijk.                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Wacht tot morgen met het veranderen van uw wachtwoord of neem contact   
+   op met uw gebruikersbeheerder.                                          

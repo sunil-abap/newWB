@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS O campo chamado &V1& &V2& não existe no loop da tela &V3& &V4&.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verificar nos dados batch input se existe um erro ortográfico ou se os  
+   nomes de campo da tela foram modificados.                               
+AS Os campos de loop têm de ser indicados em batch input com a seguinte    
+   ortografia:                                                             
+AS CAMPO DE LOOP(3). '(3)' descreve a linha do loop.                       
+AS                                                                         
+AS                                                                         

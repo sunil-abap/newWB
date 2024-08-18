@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Avant le lancement du programme de réorganisation, le système a         
+   déterminé que des dossiers batch input étaient actuellement traités sur 
+   un serveur. Le système a mis une entrée de blocage en évidence dans     
+   BTCREORG.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS La réorganisation n'a pas été effectuée.                                
+U1 &WHAT_TO_DO&                                                            
+AS Vérifiez avec la transaction SM12 si l'entrée de blocage est justifiée. 
+AS Si aucun traitement batch input n'est en cours sur le serveur spécifié  
+   dans l'entrée de blocage, l'entrée de blocage peut être supprimée.      
+   Relancez ensuite le programme de réorganisation.                        

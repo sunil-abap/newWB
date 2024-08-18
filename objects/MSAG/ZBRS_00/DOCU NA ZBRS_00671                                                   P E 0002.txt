@@ -1,0 +1,5 @@
+*  O modo interno do processamento em background foi cancelado devido a um 
+   erro em tempo de execução. O erro em tempo de execução foi gravado no   
+   banco de dados e pode ser analisado com a transação ST22 (análise de    
+   dump). O erro em tempo de execução será eliminado automaticamente       
+   passadas 4 semanas.                                                     

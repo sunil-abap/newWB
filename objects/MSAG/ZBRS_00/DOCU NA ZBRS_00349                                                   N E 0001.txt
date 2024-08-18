@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Het aangesproken veld is niet in de dynpro aanwezig.                    
+U1 &WHAT_TO_DO&                                                            
+AS Controleer de batchinput gegevens.                                      

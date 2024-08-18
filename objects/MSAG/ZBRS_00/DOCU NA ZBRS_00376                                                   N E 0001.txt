@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Fout bij vervaardiging van een batchinput map.                          
+U1 &WHAT_TO_DO&                                                            
+AS Foutoorzaak opheffen.                                                   

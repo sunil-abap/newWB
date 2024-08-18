@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Bij het uitvoeren van een SQL-statement is de aangegeven database-fout  
+   opgetreden.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS De reactie op de fout hangt af van de ernst ervan. In het systeemlog    
+   kan de volledige fouttekst worden geraadpleegd.                         

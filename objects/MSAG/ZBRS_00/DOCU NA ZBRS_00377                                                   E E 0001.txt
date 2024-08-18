@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS An error occurred in CALL TRANSACTION USING or CALL DIALOG USING        
+AS during a synchronous update.                                            
+AS The error was caused by the transaction &V1&.                           
+AS                                                                         
+AS Update information                                                      
+AS Return code:        &V2&                                                
+AS Text       :        &V3& &V4&                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Pleas analyse your Batch-Input data.                                    
+AS You can also examine your posting data using the transaction SM13.      

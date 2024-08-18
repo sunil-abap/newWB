@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS The attempt to load a table into the table buffer failed because there  
+   is not sufficient space for the entries.                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Angefordertes Dynpro nicht vorhanden.                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS Keine.                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Dynproname berichtigen, Batch-Input Daten korrigieren.                  

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Een functie van de database-interfacec van de R/3-kernel is met         
+   ontbrekende of onjuiste parameters opgeroepen.                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Meld dit probleem, indien reproduceerbaar, aan SAP. Het betreft hier    
+   een intern probleem dat zich eigenlijk niet mag voordoen.               

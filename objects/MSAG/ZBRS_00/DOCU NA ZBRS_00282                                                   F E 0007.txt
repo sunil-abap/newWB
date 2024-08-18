@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Le mot de passe saisi comporte moins de &V1& caractères spéciaux.       
+/  L'administrateur a défini cette condition.                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Entrez un mot de passe d'au moins &V1& caractères spéciaux.             
+/  Tous les caractères spéciaux nationaux, l'ensemble des caractère unicode
+=  s (dans la mesure ou le système les supporte) et les caractères spéciaux
+   suivants sont considérés comme des caractères spéciaux :                
+AS <NP>!"@ $%&/()=?'`*+~#-_.,;:{[]}\<>|</>                                 
+U1 &SYS_ADMIN&                                                             
+AS L'administrateur peut définir cette valeur par des paramètres de profil 
+   <ZH>login/min_password_specials</>.                                     
+/  Autre documentation : voir gestion des paramètres de profil (transaction
+   <DS:TRAN.RZ11>RZ11</>).                                                 

@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Transaction cannot be started in this logical system because the        
+   transaction was locked.                                                 
+AS A transaction can either be locked locally by the system administrator  
+   (customizing),                                                          
+/  or can be delivered locked by the application developer.                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS If you need to use the transaction despite the lock, contact your system
+   adminstrator.                                                           
+U1 &SYS_ADMIN&                                                             
+AS Changes to this type of application start locks are regarded as         
+   modifications. They are maintained in transaction SM01_DEV.             
+AS You can find more information in the application documentation or in SAP
+   Note 2234192.                                                           

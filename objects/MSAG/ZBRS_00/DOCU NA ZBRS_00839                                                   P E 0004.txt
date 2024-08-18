@@ -1,0 +1,20 @@
+U1 &CAUSE&                                                                 
+AS Na liberação da pasta batch input foi efetuada uma pesquisa de ordens de
+   atualização correspondentes ainda existentes.                           
+/  Neste caso, foi encontrado um registro de atualização correspondente na 
+   transação contida na pasta &V1& com o índice &V2&.                      
+AS Após uma liberação desta pasta pode ocorrer que a pasta seja processada 
+   de novo E a ordem de atualização ainda existente não esteja ainda       
+   atualizada.                                                             
+/  Deste modo, os dados podem ser atualizados duas vezes.                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS Não se efetua uma liberação da pasta .                                  
+U1 &WHAT_TO_DO&                                                            
+AS Analise a ordem de atualização correspondente mediante a transação SM37:
+T1 Usuário:,,&V3&                                                          
+/  Data hora:,,&V4&                                                        
+AS                                                                         
+AS Verifique se o registro de atualização ainda pode ser executado e, com  
+   isto, se não é necessária uma liberação.                                
+U1 &SYS_ADMIN&                                                             
+*                                                                          

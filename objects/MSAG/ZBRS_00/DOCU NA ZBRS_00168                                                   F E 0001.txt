@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Vous voulez passer en mode de modification dans une transaction. Vous   
+   n'y êtes pas autorisé.                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le système n'autorise pas le passage en mode de modification.           
+U1 &WHAT_TO_DO&                                                            
+AS Si vous devez avoir l'autorisation pour le mode de modification,        
+   contactez votre administrateur système.                                 
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

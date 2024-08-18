@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS CUA status may not be set in a subscreen.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Removing the ABAP/4 statement SET PF-STATUS without replacement.        

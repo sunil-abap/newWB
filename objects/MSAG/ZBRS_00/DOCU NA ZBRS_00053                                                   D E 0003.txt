@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Der SAP GUI hat inkorrekte Anmeldedaten zum Applikationsserver          
+   geschickt.                                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS 1. Verwenden Sie eine SAPGUI-Version, die mit dem Applikationsserver    
+   kompatibel ist.                                                         
+/  2. Prüfen Sie, ob die vom SAPGUI verwendete Code Page im SAP-System     
+   vorhanden ist.                                                          

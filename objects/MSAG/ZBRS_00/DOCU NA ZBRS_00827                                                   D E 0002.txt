@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS Sie wollen eine bereits definierte Ikone löschen.                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS Das Löschen von Ikonen ist problematisch.                               
+AS Ein Verwendungsnachweis für Ikonen ist nicht möglich. Das Löschen von   
+   Ikonen kann dadurch zur Folge haben, daß die Programme/Transaktionen,   
+   die die zu löschende Ikone verwenden, nicht mehr korrekt funktionieren. 
+AS Die lückenlos aufsteigende Reihenfolge kann unterbrochen werden, sie    
+   können das Löschen nicht Sichern. Wenn die durch das Löschen            
+   entstandene Lücke durch eine andere Ikone geschlossen wird, wird diese  
+   andere Ikone immer anstelle der gelöschten Ikone angezeigt. Das kann    
+   unpassend sein.                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Löschen Sie Ikonen nur im äußersten Notfall und nur dann, wenn Sie      
+   sicher sind,                                                            
+B1 daß diese Ikone noch nicht verwendet wird oder                          
+B1 daß Sie die entstehende Lücke mit einer sinngleichen Ikone schließen.   
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

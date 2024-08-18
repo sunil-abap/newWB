@@ -1,0 +1,27 @@
+U1 &CAUSE&                                                                 
+AS De ingevoerde waarde komt niet overeen met het opgegeven                
+   invoersjabloon.                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS De ingevoerde waarde wordt niet geaccepteerd.                           
+U1 &WHAT_TO_DO&                                                            
+AS Herhaal de invoer conform het sjabloon. De volgende sjabloontekens      
+   hebben een speciale betekenis:                                          
+B1 "<ZH>_</>" (onderstreepteken)                                           
+/  Op deze plaats moet een invoerteken staan, bij numerieke velden moet    
+   dit een cijfer zijn.                                                    
+B1 "<ZH>,</>" (decimale komma) (geldt alleen voor numerieke velden)        
+/  Hier staat de decimale komma of punt (instelling in gebruikersstam).    
+B1 "<ZH>.</>" (duizendtalpunt) (geldt voor numerieke velden)               
+/  Hier staat (optioneel) het scheidingsteken dat per 3 cijfers wordt      
+   gebruikt. Afhankelijk van de instelling in de gebruikersstam is dit een 
+   komma of een punt.                                                      
+B1 "<ZH>V</>" (geldt voor numerieke velden)                                
+/  Hier staat het voorteken. Als dit is gedefinieerd, moet het aan de      
+   rechterkant van het veld staan. Het voorteken is "-" of " " (spatie).   
+B1 "<ZH>~</>" (tilde) (geldt voor numerieke velden)                        
+/  Vanaf deze positie naar rechts (inclusief) moeten ook voorloopnullen    
+   worden ingevoerd. Verder heeft dit teken dezelfde betekenis als het     
+   onderstreepteken. Links van de tilde hoeven geen voorloopnullen te      
+   worden ingevoerd. Hier worden deze ook niet weergegeven.                
+AS Alle andere tekens staan voor zichzelf en moeten bij invoer op dezelfde 
+   positie staan als in het sjabloon.                                      

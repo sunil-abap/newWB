@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Bei der Einplanung einer Mappe zum Abspielen im Hintergrund trat ein    
+   Fehler auf.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Mappe wurde nicht eingeplant. Es wurde ein Syslogeintrag erstellt.  
+U1 &WHAT_TO_DO&                                                            
+AS Schauen Sie im Syslog nach, welcher der möglichen Fehler aufgetreten    
+   ist.                                                                    
+AS 1. Fehlt dem Benutzer die Berechtigung zum Einplanen von                
+      Hintergrund-Jobs ?                                                   
+AS 2. Ist der von Ihnen angegebene Applikationsserver aktiv ?              
+AS 3. Läuft auf dem Applikationsserver überhaupt ein 'Batch-Workprozeß' ?  

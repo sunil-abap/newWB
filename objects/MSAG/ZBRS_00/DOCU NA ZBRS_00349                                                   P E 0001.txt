@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS O campo solicitado não existe na tela.                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verificar os dados batch input.                                         

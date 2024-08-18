@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS La date de blocage du dossier appelé est située dans le futur. Ce       
+   dossier peut être lancé au plus tôt le jour consécutif à la date de     
+   blocage.                                                                
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Supprimez la date de blocage ou attendez qu'elle soit dépassée.         

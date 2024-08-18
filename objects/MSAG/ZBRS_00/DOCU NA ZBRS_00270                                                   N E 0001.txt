@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS De CUA-status mag niet in een subscreen worden ingesteld.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Zonder vervanging de ABAP-statement SET PF-STATUS verwijderen.          

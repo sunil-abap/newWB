@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Er is getracht aan te melden in een taal die niet geinstalleerd is.     
+U1 &WHAT_TO_DO&                                                            
+AS Geef bij het aanmelden een van de geinstalleerde talen op.              

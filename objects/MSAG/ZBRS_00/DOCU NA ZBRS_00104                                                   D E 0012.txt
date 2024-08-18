@@ -1,0 +1,24 @@
+AS Diese Meldung wird im Batch-Input Protokoll ausgegeben um zu            
+   dokumentieren, daß der Benutzer in der interaktiven Batch-Input         
+   Verarbeitung die Transaktion mit der Funktionstaste F3 oder F12 oder    
+   F15 verlassen hat.                                                      
+AS Dies bedeutet aus Sicht des Batch-Input folgendes:                      
+/                                                                          
+B1 Wenn das Batch-Input Bestätigungsbild mit <.JA.> quittiert wurde:       
+B2 Die Batch-Input-Mappe bekommt den Status 'fehlerhaft'                   
+B2 Die Transaktion ist fehlerhaft beendet, bleibt aber in der Mappe        
+B2 Die noch nicht verbuchten Daten, d.h. die als fehlerhaft                
+   gekennzeichnete Transaktion, kann durch nochmaliges Abspielen der       
+   Batch-Input-Mappe verbucht werden                                       
+/                                                                          
+B1 Wenn das Batch-Input Bestätigungsbild mit <.NEIN.> quittiert wurde:     
+B2 Die Transaktion in der Batch-Input-Mappe bekommt den Status             
+   'erfolgreich verarbeitet'                                               
+B2 Die Transaktion ist nicht wieder abspielbar                             
+B2 Wenn Daten in der Transaktion noch nicht verbucht wurden, gehen diese   
+   verloren                                                                
+/                                                                          
+U1 &WHAT_TO_DO&                                                            
+AS Sie können zum Abbrechen eines interaktiven Batch-Input die             
+   Menüfunktion 'System - Dienste - Batchinput - Abbrechen' benutzen.      
+AS                                                                         

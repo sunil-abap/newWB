@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS O início da transação não é possível neste sistema lógico, pois a       
+   transação foi bloqueada.                                                
+AS Uma transação pode ser bloqueada localmente (customizing) pela          
+   administração do sistema                                                
+/  ou ser entregue já bloqueada pelo desenvolvedor da aplicação.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Se a transação for necessária apesar do bloqueio, contate o             
+   administrador do sistema.                                               
+U1 &SYS_ADMIN&                                                             
+AS As modificações nos bloqueios do início da transação locais são         
+   atualizadas com a transação SM01_CUS.                                   
+AS Você encontra informações detalhadas na documentação de aplicação ou na 
+   nota SAP 2234192.                                                       

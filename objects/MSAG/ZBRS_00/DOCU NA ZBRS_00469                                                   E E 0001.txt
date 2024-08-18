@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS There is no flush available on IBM platforms.                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS The flush is terminated.                                                
+U1 &WHAT_TO_DO&                                                            
+AS Avoid the flush.                                                        

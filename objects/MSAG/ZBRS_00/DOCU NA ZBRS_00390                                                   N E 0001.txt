@@ -1,0 +1,5 @@
+U1 &CAUSE&                                                                 
+AS Bij inlezen van een map in batch trad een fout op bij SUBMIT 'REPORT'   
+U1 &WHAT_TO_DO&                                                            
+AS Controleer de map en eventueel de bevoegdheden voor batchinput of       
+   batch.                                                                  

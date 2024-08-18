@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS The batch input processing was terminated by the user.                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

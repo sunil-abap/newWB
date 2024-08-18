@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS The function code field (OK code field) has not been defined on this    
+   screen. If the user selects an application function (not a system       
+   function), the system usually provides it in the function code field    
+   (OK code field) as well as in SY-UCOMM. This is no longer possible.     
+U1 &SYSTEM_RESPONSE&                                                       
+AS The system is unable to inform the application of the current function  
+   code. The application should not use field SY_COMM. This field always   
+   contains the code of the last function chosen, which is not always      
+   identical to the application-relevant code.                             
+U1 &WHAT_TO_DO&                                                            
+AS You should always define a field for the function code on every screen. 
+   The Screen Painter always proposes such a field (OK category), you only 
+   need to assign a name and include the definition in the ABAP program.   

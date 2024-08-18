@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Es erfolgte eine Dialog-Anmeldung unter Nutzung der                     
+   Secure-Network-Communications (SNC) Funktionalität. Für den vom         
+   externen Sicherheitssystem zum R/3-System gelieferten Benutzernamen     
+   (SNC-Namen) konnte kein R/3-Benutzer in der Tabelle USRACL gefunden     
+   werden.                                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Anmeldung wird abgelehnt.                                           
+U1 &WHAT_TO_DO&                                                            
+AS Über die Benutzerpflege (SU01) muß der SNC-Name einem Benutzer als      
+   externer Name zugeordnet werden.                                        

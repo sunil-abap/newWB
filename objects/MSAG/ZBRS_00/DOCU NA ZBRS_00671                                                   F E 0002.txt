@@ -1,0 +1,5 @@
+*  Le mode interne du processus en arrière-plan a été interrompu en raison 
+   d'une erreur d'exécution. Cette dernière a été sauvegardée dans la base 
+   de données et peut être analysée via la transaction ST22 (analyse du    
+   vidage de la mémoire ABAP). L'erreur d'exécution sera automatiquement   
+   supprimée dans 4 semaines.                                              

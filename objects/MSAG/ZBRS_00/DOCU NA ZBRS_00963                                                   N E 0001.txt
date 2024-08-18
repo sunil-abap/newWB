@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Er is geprobeerd een DB-object voor een SAP-structuur te genereren die  
+   geen transparante tabel is.                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

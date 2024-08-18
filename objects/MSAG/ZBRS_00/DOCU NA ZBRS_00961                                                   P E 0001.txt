@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS O cursor indicado (já) não está definido para esta interface (RTAB,     
+   RSQL, DSQL).                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

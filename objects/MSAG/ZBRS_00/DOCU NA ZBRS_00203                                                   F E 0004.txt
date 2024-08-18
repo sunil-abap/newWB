@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS L'utilisateur que vous avez indiqué &v1& n'est pas approprié au débogage
+   car il n'est pas du type <ZK>Dialogue</>.                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Indiquez un utilisateur du type <ZK>Dialogue</>.                        
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

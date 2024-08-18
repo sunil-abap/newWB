@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Erreur lors de la suppression d'un dossier                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS Aucune                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Répétez l'opération de suppression                                      

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS O usuário indicado por você &v1& não é adequado para a depuração, pois  
+   não é do tipo <ZK>Diálogo</>.                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Indique um usuário do tipo <ZK>Diálogo</>.                              
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

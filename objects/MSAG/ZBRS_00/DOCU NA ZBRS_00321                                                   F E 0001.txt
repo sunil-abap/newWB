@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Messages d'erreur relatifs au mode batch-input.                         
+AS N'est pas édité                                                         
+AS Caractères de remplacement uniquement.                                  
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS néant                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS néant                                                                   
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+AS                                                                         

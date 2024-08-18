@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS You are attempting to generate a database object for an SAP structure   
+   which is not a transparent table.                                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

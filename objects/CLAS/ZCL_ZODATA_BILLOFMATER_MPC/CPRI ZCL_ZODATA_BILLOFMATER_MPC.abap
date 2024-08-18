@@ -1,0 +1,37 @@
+private section.
+
+  constants GC_INCL_NAME type STRING value 'ZCL_ZODATA_BILLOFMATER_MPC====CP' ##NO_TEXT.
+
+  methods DEFINE_IMPACTANALYSISNODE
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods DEFINE_IMPACTANALYSISSCENARIO
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods DEFINE_VERSIONCONTROL
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods DEFINE_CHANGENUMBER
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods DEFINE_ENGINEERINGCHANGEDOCUME
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods DEFINE_EFFECTIVITYPARAMETERS
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods DEFINE_ADDITIONALCONTROLDATA
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods DEFINE_MANDATORYCRASSIGNMENT
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods DEFINE_ACTIONS
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods DEFINE_RDS_4
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods GET_LAST_MODIFIED_RDS_4
+    returning
+      value(RV_LAST_MODIFIED_RDS) type TIMESTAMP .

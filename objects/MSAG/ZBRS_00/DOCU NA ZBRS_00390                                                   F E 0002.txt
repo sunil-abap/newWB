@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Une erreur est survenue dans la planification d'un dossier pour         
+   l'exécution en arrière-plan.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Ce dossier n'a pas été planifié. Le système a créé une entrée dans le   
+   protocole système.                                                      
+U1 &WHAT_TO_DO&                                                            
+AS Vérifiez dans le protocole système quelle erreur est survenue.          
+AS 1. L'autorisation de planification des jobs d'arrière-plan              
+/     manque-t-elle à l'utilisateur ?                                      
+AS 2. Le serveur applicatif spécifié est-il actif ?                        
+AS 3. Un 'processus de travail' fonctionne-t-il sur le serveur             
+/     applicatif ?                                                         

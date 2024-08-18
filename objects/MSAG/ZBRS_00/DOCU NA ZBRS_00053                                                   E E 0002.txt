@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS The SAPGUI passed incorrect logon data to the  application system.      
+/                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS 1 Use a SAPGUI version which is compatible with the application server. 
+/  2 Do the code page tables for the SAPGUI exist in the SAP System?       

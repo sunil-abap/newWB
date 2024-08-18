@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Les processus de travail occupent la mémoire heap en mode PRIV, donc    
+   aucun retrait ne peut être exécuté. Le contexte utilisateur est lié au  
+   processus de travail.                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Une zone de dynpro a été renseignée par un format d'entrée non valable  
+   lors de Batch-Input oder Call Transaction ... Using.                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS Traitement interrompu                                                   
+U1 &WHAT_TO_DO&                                                            
+AS La zone de dynpro porte le nom technique &V1&. La cause de l'erreur est 
+   décrite dans le message suivant.                                        
+AS Corrigez les données BDC correspondantes.                               
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

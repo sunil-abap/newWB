@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Dans un mot de passe, seuls les caractères du jeu de caractères         
+   syntaxique sont autorisés. Il s'agit des caractères de 0 à 9, des       
+   caractères de l'alphabet américain et de différents carctères spéciaux  
+   existant sur tous les claviers.                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Choisissez un autre mot de passe.                                       

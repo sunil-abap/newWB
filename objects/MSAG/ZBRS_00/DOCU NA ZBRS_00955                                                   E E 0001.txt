@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS A function of the database interface of the R3 kernel was called        
+   with inadequate or incorrect parameters.                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Report the problem to SAP if it can be reproduced. That is an           
+   internal problem which should not actually occur.                       

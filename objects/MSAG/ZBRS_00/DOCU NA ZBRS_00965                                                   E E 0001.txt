@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS An inconsistency occurred between the runtime description of an object  
+   (Nametab, matchcode description) and the current database situation.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS The runtime object should be regenerated (activate MC object and MC ID, 
+   activate tables).                                                       

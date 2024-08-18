@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Voor de geselecteerde batchjob is geen job-verslag gevonden. Als de     
+   batchjob in toestand 'afgebroken' is, dan duidt deze boodschap op       
+   problemen bij het starten van de batchjob.                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS De problemen die bij het starten van een batchjob optreden (byv. het    
+   verslag kan wegens capaciteitsgebrek niet aangelegd worden) worden in   
+   het systeem-log genoteerd.                                              
+U1 &WHAT_TO_DO&                                                            
+AS Voor nadere analyse van het ontbreken van het jobverslag dient het      
+   systemlog van de applicatieserver waardoor deze batchjob zou moeten     
+   worden uitgevoerd, bestudeerd te worden. Daar zijn vooral de meldingen  
+   die door batch-workprocesses zijn gedaan van belang. Deze meldingen     
+   noteren de start van een job en de problemen die daarbij evt. zijn      
+   opgetreden.                                                             

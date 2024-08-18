@@ -1,0 +1,20 @@
+AS This message is output in the batch input log to document that a user   
+   in interactive batch input processing has exited a transaction using    
+   the F3, F12 or F15 function key.                                        
+AS  From the batch input point of view, this means:                        
+B1 If you selected <.YES.> in the batch input confirmation dialog box:     
+B2 The batch input session is given the status "with errors"               
+B2 You exited the transaction incorrectly, but it is still in the session  
+B2 Data not yet updated (that is the transaction with status "with         
+   errors") can be updated by reprocessing the batch input session.        
+/                                                                          
+B1 If you selected <.NO.> in the batch input confirmation dialog box:      
+B2 The transaction in the batch input session is given the status          
+   "completed successfully"                                                
+B2 The transaction cannot be reprocessed                                   
+B2 If data in the transaction has not yet been updated, it is lost         
+/                                                                          
+U1 &WHAT_TO_DO&                                                            
+AS To exit interactive batch input processing, choose "System -> Services  
+   -> Batch input -> Cancel"                                               
+AS                                                                         

@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS De gevraagde map heeft een blokkeerdatum in de toekomst                 
+U1 &WHAT_TO_DO&                                                            
+AS Blokkeerdatum verwijderen of wachten tot blokkkeerdatum bereikt is.     

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS You tried to start a transaction for which you have no authorization.   
+U1 &SYSTEM_RESPONSE&                                                       
+AS The system does not allow you to start this transaction.                
+U1 &WHAT_TO_DO&                                                            
+AS If you should have authorization for this transaction, contact your     
+   user administrator.                                                     

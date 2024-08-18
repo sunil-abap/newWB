@@ -1,0 +1,19 @@
+U1 &CAUSE&                                                                 
+AS Vous avez entré un code de fonction inactif.                            
+AS Ceci peut être provoqué :                                               
+B1 par la saisie directe dans la zone de code OK<(>,<)>                    
+B1 par la saisie de la sélection directe d'une fonction de menu inactive,  
+=  <(>,<)>                                                                 
+B1 en appuyant sur une touche de fonction inactive, et même                
+B1 en appuyant sur ENTREE si une fonction inactive a été attribuée à       
+   ENTREE.                                                                 
+AS Dans le batch input, le système livre également un code de fonction dans
+   la zone <NP>BDC_OKCODE</> du dossier, à condition qu'il ne soit pas     
+   attribué à ENTREE.                                                      
+AS Les codes de menu peuvent être désactivés de manière statique dans le   
+   Menu Painter (transaction SE41) ou de manière dynamique en utilisant le 
+   supplément <NP>EXCLUDING</> dans l'instruction <NP>SET PF-STATUS</>.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

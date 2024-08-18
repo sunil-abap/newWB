@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Contrôle des autorisations                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Contrôlez votre profil des autorisations                                

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Índice de log batch input (parâmetro de perfil) não encontrado.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Informar administrador de sistema.                                      
+U1 &WHAT_TO_DO&                                                            
+AS Corrigir parâmetro de perfil em 'rsparam??'.                            

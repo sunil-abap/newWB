@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS De SAPGUI heeft onjuiste aanmeldingsgegevens aan het                    
+   R/3-appplicatiesysteem doorgegeven.                                     
+/  Raadpleeg voor meer informatie de dev_dy*-bestanden van het             
+   R/3-systeem.                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS 1 Gebruik een met het R/3-apllicatiesysteem compatibele SAPGUI-versie.  
+/  2 Zijn de codepage-tabellen voor de SAPGUI in het R/3-systeem aanwezig? 

@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Ocorreu um logon de diálogo na utilização das funções Secure Network    
+   Communications (SNC). Não foi possível encontrar um usuário R/3 na      
+   tabela USRACL para os nomes de usuário (nomes SNC) fornecidos pelo      
+   sistema de segurança externo ao sistema R/3.                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS O logon está sendo recusado.                                            
+U1 &WHAT_TO_DO&                                                            
+AS O nome SNC tem de ser atribuído a um usuário como nome externo por meio 
+   da atualização do usuário (SU01).                                       

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS O usuário definiu um ícone. O usuário utilizou um nome de ícone que já  
+   é utilizado para um outro ícone.                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS Não é possível gravar o ícone.                                          
+U1 &WHAT_TO_DO&                                                            
+AS Utilizar para este ícone um outro nome de ícone ainda não atribuído.    
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

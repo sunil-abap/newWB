@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Über einen Shortcut oder eine URL sollte eine Transaktion gestartet     
+   werden, das Einstiegsbild der Transaktion übersprungen werden und mit   
+   einem nicht erlaubten Funktionscode fortgefahren werden.                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Sie haben versucht die Transaktion                                      
+AS &V1&                                                                    
+AS mit der Option "Einstiegsbild überspringen" über einen SAPGUI Shortcut  
+   oder eine URL zu starten.                                               
+U1 &WHAT_TO_DO&                                                            
+AS Das ist für diese Transaktion mit diesem Funktionscode nicht erlaubt.   
+U1 &SYS_ADMIN&                                                             
+AS Wird diese Funktionalität benötigt, wenden Sie sich bitte an ihren      
+   Systemadministrator. Beachten Sie bitte hierzu Hinweis 1956086.         

@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS Des problèmes de communication sont survenus durant la mise à jour. Le  
+   statut de transaction du dossier batch input n'a donc pas pu être       
+   défini. Si la mise à jour est exécutée correctement, le programme de    
+   mise à jour enregistre le statut de la transaction comme « correct ».   
+AS La transaction concernée est &V1&. Elle porte le numéro courant &V2&    
+   dans le dossier.                                                        
+/  Informations de mise à jour :                                           
+/  Code retour : &V3&                                                      
+/  Texte       : &V4&                                                      
+/                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Le dossier est marqué comme étant erroné. Après avoir éliminé la cause  
+   des problèmes de communication, rechargez le dossier. Utilisez à cet    
+   effet la transaction sm35.                                              

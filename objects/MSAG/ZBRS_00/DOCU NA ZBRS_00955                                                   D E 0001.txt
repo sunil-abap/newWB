@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Eine Funktion der Datenbankschnittstelle des R3-Kernels wurde mit       
+   unzureichenden oder falschen Parametern aufgerufen.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Melden Sie das Problem, falls reproduzierbar, an die SAP weiter. Das    
+   ist ein internes Problem, das eigentlich nicht auftreten sollte.        

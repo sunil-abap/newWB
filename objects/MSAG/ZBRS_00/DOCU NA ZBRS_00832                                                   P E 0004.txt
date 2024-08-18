@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS A partir do release 5.0 os logs das pastas batch input processadas são  
+   arquivadas em files TemSe e lidas a partir daí.                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Verificar com o código de transação RZ11, se o perfil parâmetro         
+   'bdc/new_protocol' possui o valor 'on'.                                 
+AS Verificar com o código de transação SP11, se existem objetos Temse com  
+   o nome de objeto BDCLG*.                                                
+AS Verificar com o código de transação SM35P (síntese de log batch input), 
+   se existem logs.                                                        
+U1 &WHAT_TO_DO&                                                            
+AS Se forem encontrados logs com o código de transação SM35P e nenhum      
+   objeto Temse com BDCLG* significa que o usuário ainda utiliza o         
+   procedimento antigo. O usuário pode utilizar o report RSBDCLCH, para    
+   converter os logs das pastas de 'common log' para file TemSe.           
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

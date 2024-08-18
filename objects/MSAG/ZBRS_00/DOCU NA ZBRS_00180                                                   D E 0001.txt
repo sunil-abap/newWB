@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Sie haben versucht, Ihr Kennwort nochmals zu ändern. Dies ist aber nur  
+   einmal täglich möglich.                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Warten Sie bitte bis morgen ab, bevor Sie Ihr Kennwort ändern oder      
+   wenden Sie sich an Ihren Benutzeradministrator.                         

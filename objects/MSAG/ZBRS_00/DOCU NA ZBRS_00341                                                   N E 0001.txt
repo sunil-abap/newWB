@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Foutteksten van de batchinput worden niet weergegeven                   
+AS alleen plaatsaanduidingen                                               
+U1 &WHAT_TO_DO&                                                            
+AS niets                                                                   
+AS                                                                         
+AS                                                                         

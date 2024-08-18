@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Erreur interne au sein de l'interface de la base de données.            
+                                                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

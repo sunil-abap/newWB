@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Ao processar uma pasta batch input pode ocorrer uma atualização         
+   síncrona                                                                
+AS com erro.                                                               
+AS O erro foi acionado através da transação V1&.                           
+AS Esta tem o nº atual &V2& na pasta.                                      
+AS Informações de atualização:                                             
+AS Código de retorno:               &V3&                                   
+AS Texto      :               &V4&                                         
+U1 &SYSTEM_RESPONSE&                                                       
+U1 &WHAT_TO_DO&                                                            
+AS Analisar a pasta batch input com a transação SM35 e a função Pasta.     
+AS Além disso, é possível controlar os registros de atualização com a      
+AS transação SM13.                                                         
+AS                                                                         

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS A comunicação CPIC não começa com CMINIT ou CMACCP.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS A função CPIC é cancelada.                                              
+U1 &WHAT_TO_DO&                                                            
+AS Corrigir programa CPIC.                                                 

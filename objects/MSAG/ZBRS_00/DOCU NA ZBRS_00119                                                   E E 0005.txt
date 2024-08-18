@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS You cannot print the title on a tab index as the tab index does not     
+   support this.                                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check the screen modifications or the Screen Painter definitions of the 
+   tab title.                                                              
+AS When you modify the screen, do not set the INPUT attribute of the tab   
+   title to '0'.                                                           
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

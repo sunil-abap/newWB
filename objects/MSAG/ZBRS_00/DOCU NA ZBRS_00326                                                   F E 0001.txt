@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Un dossier de statut "en cours de traitement" est débloqué à l'aide     
+   du statut "à traiter".                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Le dossier peut être à nouveau exécuté.                                 

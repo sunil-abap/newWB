@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS De opgegeven GUI-status bestaat niet of is niet gegenereerd.            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Controleer met de Menu Painter of de gewenste status bestaat. Indien    
+   deze bestaat, genereert u menu &V1& (met de Menu Painter).              

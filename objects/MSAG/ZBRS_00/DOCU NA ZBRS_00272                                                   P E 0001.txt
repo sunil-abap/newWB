@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS A área de memória no software base para o status GUI é demasiaso        
+   pequena para o status solicitado. Mais concretamente: o status          
+   solicitado contém menus Include que já não podem ser (completamente)    
+   inseridos.                                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS É possível continuar a processar, os respetivos menus Include não estão 
+   disponíveis.                                                            
+U1 &WHAT_TO_DO&                                                            
+AS O administrador de sistema devia aumentar consideravelmente o parâmetro 
+   de perfil "ztta/cua_area". Assim, ter em conta que o parâmetro de       
+   perfil "ztta/short_area" tem de ser pelo menos seis vezes maior que     
+   "ztta/cua_area".                                                        

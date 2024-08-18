@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS A operação tentada (INSERT ou UPDATE) não respeita a univocidade da     
+   chave primária ou de um outro índice definido como UNIQUE.              
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verificar o programa ABAP.                                              

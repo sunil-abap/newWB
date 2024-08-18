@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Nesta tela não está definido nenhum campo de código de função (campo de 
+   código OK). Se o usuário final selecionar uma função da aplicação       
+   (nenhuma função de sistema), o sistema coloca esta à disposição         
+   normalmente no campo de código de função (campo de código OK),          
+   adicionalmente também em SY-UCOMM. Isto não é agora possível.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS O sistema não pode comunicar o código de função atual à aplicação. O    
+   campo SY-UCOMM não deve ser utilizado pela aplicação, pois ainda contém 
+   o código de função atual que nem sempre é idêntico ao que é relevante   
+   para a aplicação.                                                       
+U1 &WHAT_TO_DO&                                                            
+AS Em cada tela deve estar definido um campo para o código de função. Um   
+   campo destes é sempre proposto pelo Screen Painter (tipo OK), é apenas  
+   necessário atribuir um nome e incluir a definição no programa ABAP/4.   

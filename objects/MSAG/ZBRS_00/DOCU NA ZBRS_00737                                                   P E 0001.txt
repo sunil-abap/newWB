@@ -1,0 +1,2 @@
+AS Na conversão de nomes SNC ocorreu um erro durante a execução de XPRAs   
+   RSSNC40A. Ter em conta a seguinte mensagem.                             

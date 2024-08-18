@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Das eingegebene Kennwort enthält weniger als &V1& Sonderzeichen.        
+/  Diese Bedingung wurde vom Administrator vorgegeben.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Geben Sie ein Kennwort mit mindestens &V1& Sonderzeichen ein.           
+/  Als Sonderzeichen werden alle nationalen Sonderzeichen, sämtliche       
+   Unicode-Zeichen (sofern vom System unterstützt) sowie die folgenden     
+   ASCII-Sonderzeichen betrachtet:                                         
+AS <NP>!"@ $%&/()=?'`*+~#-_.,;:{[]}\<>|</>                                 
+U1 &SYS_ADMIN&                                                             
+AS Der Administrator kann diesen Wert mittels Profilparameter              
+   <ZH>login/min_password_specials</> festlegen.                           
+/  Weitere Dokumentation: siehe Profilparameterpflege (Transaktion         
+   <DS:TRAN.RZ11>RZ11</>)                                                  

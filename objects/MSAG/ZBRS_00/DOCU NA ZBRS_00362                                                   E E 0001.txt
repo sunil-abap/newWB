@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Error processing a session.                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Analyze the session to find out where the error occurred, or process    
+   the session in the processing mode <LS>only display errors</>.          

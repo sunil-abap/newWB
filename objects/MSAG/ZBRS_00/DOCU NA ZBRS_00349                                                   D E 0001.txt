@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Das angesprochene Feld ist im Dynpro nicht vorhanden.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Überprüfen Sie Ihre Batch-Input Daten.                                  

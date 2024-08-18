@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS An error occurred when scheduling a session to be processed in the      
+   background.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS The session was not scheduled. A system log entry was created.          
+U1 &WHAT_TO_DO&                                                            
+AS Check the system log to see which error occurred.                       
+AS 1. Does the user have the necessary authorization to schedule           
+   background    jobs?                                                     
+AS 2. Is the server you specified active?                                  
+AS 3. Is any 'Batch work process' running on the application server?       

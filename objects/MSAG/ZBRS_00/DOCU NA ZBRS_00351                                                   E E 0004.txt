@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Selected folders were printed.                                          
+/  For reasons of performance, large folders are printed in the background.
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

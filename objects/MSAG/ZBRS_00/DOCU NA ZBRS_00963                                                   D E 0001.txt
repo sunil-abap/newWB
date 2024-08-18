@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Es wird versucht, ein DB-Objekt zu einer SAP-Struktur zu erzeugen, die  
+   keine transparente Tabelle ist.                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

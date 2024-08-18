@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS During the authorization check, it was found that you do not have       
+   the authorization for processing the session &V1& in the background.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Consult your system administrator.                                      

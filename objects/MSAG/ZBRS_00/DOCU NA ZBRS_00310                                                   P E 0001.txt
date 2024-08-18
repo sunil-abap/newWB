@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS O usuário pretende processar uma pasta e não selecionou nenhum tipo de  
+   processamento.                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Selecionar um tipo de processamento.                                    

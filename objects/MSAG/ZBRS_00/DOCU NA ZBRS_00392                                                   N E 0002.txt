@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Bij de bevoegdheidscontrole is geconstateerd dat u geen bevoegdheid     
+   hebt om de map &V1& op de achtergrond af te spelen.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Neem contact op met uw systeembeheerder.                                

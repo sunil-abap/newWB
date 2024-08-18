@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS You want to process a session and have not chosen a processing          
+   option.                                                                 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Choose a processing option.                                             

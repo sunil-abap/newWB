@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Lors du chargement du dynpro &V1& &V2&, les estampilles des tables      
+   utilisées dans le dynpro ont été contrôlées. Au minimum une estampille  
+   n'était pas correcte, c'est pourquoi le dynpro a été régénéré et        
+   l'estampille de la table utilisée a été reprise du dictionnaire ABAP/4. 
+AS Après la génération, l'estampille a été à nouveau contrôlé, c'est ce    
+   qui a permis de détecter de nouvelles incohérences.                     
+AS Ceci se passe lorsque la date est modifiée ou activée dans le           
+   dictionnaire ABAP/4 pendant la génération.                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS La transaction est interrompue.                                         
+U1 &WHAT_TO_DO&                                                            
+AS Réappelez la transaction.                                               

@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Sie haben ein Kennwort eingegeben, welches entweder aus mehr als 8      
+   Zeichen besteht oder mindestens einen Kleinbuchstaben beinhaltet.       
+*  Ältere Systeme bzw. Middleware-Komponenten sind nicht in der Lage,      
+   solche Kennwörter zu verarbeiten. Es kann daher passieren, daß Sie sich 
+   mit diesem Kennwort nicht anmelden können, wenn die Anmeldung von einem 
+   älteren System bzw. über eine ältere Middleware-Komponente erfolgt ist. 
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Wenn Sie sicher sind, daß Sie kennwortbasierte Anmeldungen nur von      
+   neueren Systemen bzw. nur unter Verwendung neuerer                      
+   Middleware-Komponenten durchführen, können Sie diesen Warnhinweis       
+   ignorieren.                                                             
+*  Andernfalls sollten Sie ein anderes Kennwort wählen. Dieses sollte dann 
+   nur aus maximal 8 Zeichen unter Vermeidung von Kleinbuchstaben bestehen.
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

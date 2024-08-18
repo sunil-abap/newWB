@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Uma transação é processada através da técnica batch input               
+U1 &SYSTEM_RESPONSE&                                                       
+AS Erro de tempo de execução no campo xxx (entradas não são permitidas)    
+U1 &WHAT_TO_DO&                                                            
+AS Corrigir os dados batch input correspondentes. Isto pode afetar os      
+   seguintes objetos segundo o cenário de processamento:                   
+/                                                                          
+/  ,,Pasta batch input                                                     
+/  ou,,processo CATT                                                       
+/  ou,,programa de aplicação                                               

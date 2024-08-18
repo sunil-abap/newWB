@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Die Batch-Input-Protokolle werden bis einschließlich Release 46B  in    
+   sogenannten Common log Dateien abgelegt. Ab Release 46C werden die      
+   Protokolle in TemSe-Datei abgelegt. Diese Änderung hat den Vorteil,     
+   dass bei einer korrupten Datei  werden alle anderen Protokolle von dem  
+   Applikationsserver nicht verloren gehen.                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Sie können systemweit alte Common-Log Protokolle in neue TemSe-Datei    
+   Protokolle mit dem Report RSBDCLCH umsetzen. Der umgekehrte Weg ist     
+   nicht möglich. Mit Hilfe der Transaktionscode RZ11 soll der             
+   Profilparameter 'bdc/new_protocol' auf 'on' gesetzt werden.             
+U1 &SYS_ADMIN&                                                             
+AS Protokolle, die über die neue Schnittstelle erstellt wurden, können     
+   nicht mehr mit  der alten Schnittstelle gelesen werden und umgekehrt.   
+   Sie erscheinen  nicht beim Auflisten der vorhandenen Protokolle.        
+*                                                                          

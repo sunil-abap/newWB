@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS A pasta ou pastas selecionadas foram impressas.                         
+/  Por motivos de performance, as pastas grandes são impressas em          
+   background.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

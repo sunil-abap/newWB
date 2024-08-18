@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Para o idioma de logon não foi possível definir nenhum code page GUI.   
+*                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS A conversão de caracteres entre o set de caracteres de sistema e o set  
+   de caracteres do dispositivo do usuário final não pode ser efetuada     
+   corretamente. A exibição de caracteres incorretos é possível. Ao entrar 
+   caracteres, é possível que surjam dados inválidos no banco de dados.    
+*                                                                          
+U1 &WHAT_TO_DO&                                                            
+AS Contatar o administrador de sistema.                                    
+*                                                                          
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS O processamento de uma pasta não é permitido, pois esta tem uma data de 
+   bloqueio no futuro.                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Desbloquear data de bloqueio ou mudar a data para a data atual.         

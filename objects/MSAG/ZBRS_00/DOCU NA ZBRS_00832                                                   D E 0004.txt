@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Ab Release 5.0 werden die Protokolle der abgespielten                   
+   Batch-Input-Mappen in TemSe Dateien abgelegt und entsprechend von da    
+   gelesen.                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Prüfen mit Transaktionscode RZ11, ob der Profil Parameter               
+   'bdc/new_protocol' den Wert  'on'  hat.                                 
+AS Prüfen mit Transaktionscode SP11, ob  es Temse-Objekte mit Objektname   
+   BDCLG* gibt.                                                            
+AS Prüfen mit Transaktionscode SM35P  -Batch Input Protokollübersicht- ,   
+   ob Protokolle existieren.                                               
+U1 &WHAT_TO_DO&                                                            
+AS Wenn Sie Protokolle mit Transaktionscode SM35P finden und kein          
+   Temse-Objekt  mit BDCLG*, bedeutet daß Sie noch das alte Verfahren      
+   benutzen. Sie haben das Report RSBDCLCH, um die Protokolle der Mappen   
+   von 'common log' zu TemSe Datei umzuwandeln.                            
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

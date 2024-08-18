@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Processing of batch input session completed.                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Informat                                                                
+U1 &WHAT_TO_DO&                                                            
+AS You can go back to the session overview or exit batch input processing. 

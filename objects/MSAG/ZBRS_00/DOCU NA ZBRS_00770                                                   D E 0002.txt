@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS Es wurde Kommunikation von einem anderen System (R/3-System oder        
+   sonstiges System) unter Nutzung der Secure-Network-Communications (SNC) 
+   Funktionalität angestossen. Der SNC-Name (Name beim externen            
+   Sicherheitssystem) des R/3 Partnersystems ist in der Tabelle SNCSYSACL  
+   des Zielsystems nicht vorhanden oder für die entsprechende              
+   Kommunikationsart (RFC/CPIC/DIAG) nicht zugelassen.                     
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Das Zielsystem bricht die Verbindung ab.                                
+U1 &WHAT_TO_DO&                                                            
+AS Die Tabelle SNCSYSACL ist eine Access Control List (ACL), die die für   
+   SNC-geschützte Kommunikation akzeptierten Partnersysteme enthält.       
+AS Falls die abgebrochene Kommunikation von einem zulässigen System        
+   initiiert wurde, ist für dieses System ein Eintrag in der Tabelle       
+   SNCSYSACL vorzunehmen bzw. der entsprechende Kommunikationsmodus zu     
+   aktivieren.                                                             

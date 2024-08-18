@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Opdat een begonnen verwerkingssequentie consistent uitgevoerd en        
+   afgesloten kan worden, wordt een geselecteerde job geblokkeerd door het 
+   SAP blokkeer-mechanisme. Bij deze fout is de blokkeerpoging mislukt.    
+U1 &WHAT_TO_DO&                                                            
+AS De foutoorzaak kan helaas niet door deze transaktie nader bepaald       
+   worden. Voor een nadere analyse moet de systeem-log bekeken worden.     

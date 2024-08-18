@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Vanuit een ABAP-programma is het systeemprogramma CPASS met onvoldoende 
+   parameters opgeroepen.                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Indien u de auteur bent, moet u het programma controleren en anders     
+   moet u de auteur hierover informeren.                                   

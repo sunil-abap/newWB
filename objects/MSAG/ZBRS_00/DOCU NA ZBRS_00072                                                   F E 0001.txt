@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS La mémoire de votre serveur applicatif commence à être réduite.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Vous occupez exclusivement un des rares processus de travail de ce      
+   serveur applicatif. Afin que d'autres utilisateurs ne soient pas        
+   bloqués, le processus de travail est à nouveau libéré si vous           
+   n'exécutez aucune action pendant quelques minutes. Ceci entraîne        
+   l'interruption de votre transaction et la perte des données saisies     
+   jusqu'à présent.                                                        
+U1 &WHAT_TO_DO&                                                            
+AS Poursuivez votre traitement et terminez la transaction avant de faire   
+   une pause prolongée.                                                    

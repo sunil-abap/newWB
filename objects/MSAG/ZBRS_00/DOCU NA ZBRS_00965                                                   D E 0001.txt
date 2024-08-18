@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Es ist eine Inkonsistenz zwischen Laufzeitbeschreibung eines Objekts    
+   (Nametab, Matchcodebeschreibung) und der aktuellen Datenbanksituation   
+   aufgetreten.                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Das Laufzeitobjekt sollte neugeneriert werden (MC-Objekt und MC-Id      
+   aktivieren, Tabelle aktivieren).                                        

@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Interne fout van de batchinput                                          
+U1 &WHAT_TO_DO&                                                            
+AS Zie systemlog                                                           

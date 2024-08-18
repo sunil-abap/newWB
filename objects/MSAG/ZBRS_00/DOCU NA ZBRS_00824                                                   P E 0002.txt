@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS O usuário definiu ícones. O nome interno do ícone contém caracteres não 
+   permitidos.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Não é possível gravar o ícone.                                          
+U1 &WHAT_TO_DO&                                                            
+AS O nome interno de ícones pode conter os seguintes caracteres:           
+B1 Letras A até Z                                                          
+B1 Sublinha _                                                              
+AS O nome interno de ícones não pode conter nenhum espaço.                 
+AS Corrigir o nome interno do ícone de forma correspondente e gravar de    
+   novo.                                                                   
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

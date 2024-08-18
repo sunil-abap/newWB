@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS At least one installation step has not been correctly completed, mainly 
+   during the post installation phase.                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS The system administrator and/or installer should check the              
+   installation.                                                           

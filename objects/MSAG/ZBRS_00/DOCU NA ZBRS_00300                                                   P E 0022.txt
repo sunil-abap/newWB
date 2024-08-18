@@ -1,0 +1,19 @@
+AS Esta mensagem é saída no log batch input para documentar que usuário    
+   processa a pasta e em que modo.                                         
+/                                                                          
+/  Informações para o processamento:                                       
+/                                                                          
+T3 ,,Servidor,,&v4&                                                        
+/  ,,Pasta,,&v1&                                                           
+/  ,,Usuário,,&v2&                                                         
+/: CASE &V3&                                                               
+/: WHEN A                                                                  
+/  ,,Modo,,&v3& (Processar de forma visível)                               
+/: WHEN E                                                                  
+/  ,,Modo,,&v3& (Exibir apenas erro)                                       
+/: WHEN N                                                                  
+/  ,,Modo,,&v3& (Processar no background)                                  
+/: WHEN OTHERS                                                             
+/  ,,Modo,,&v3&                                                            
+/: ENDCASE                                                                 
+/                                                                          

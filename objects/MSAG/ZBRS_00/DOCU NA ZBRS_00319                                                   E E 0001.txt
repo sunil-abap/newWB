@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Batch input log directory (profile parameter) not found.                
+U1 &SYSTEM_RESPONSE&                                                       
+AS Contact your system administrator.                                      
+U1 &WHAT_TO_DO&                                                            
+AS Correct profile parameter in 'rsparam??'.                               

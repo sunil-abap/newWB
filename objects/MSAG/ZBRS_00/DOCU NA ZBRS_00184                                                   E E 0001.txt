@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS You made a typing error when entering a new password.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Re-enter the new password exactly.                                      

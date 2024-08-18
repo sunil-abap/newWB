@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Le nombre de sous-écrans intégrés est restreint par une variable        
+   système. Cette limite est uniquement prévue à des fins de sécurité et   
+   ne peut pratiquement jamais être écrasée dans les applications. Si      
+   cette situation survient malgré tout, il y a beaucoup de chances qu'une 
+   erreur système soit survenue.                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS Le système réagit par une interruption de la transaction courante.      
+U1 &WHAT_TO_DO&                                                            
+AS L'erreur survenue doit être communiquée à SAP (service Système de       
+   base).                                                                  

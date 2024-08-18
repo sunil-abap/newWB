@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Suppression du ou des dossier(s) sélectionné(s).                        
+AS Pour des raisons de performance, la suppression est effectuée en mode   
+   batch.                                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS Aucune                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Remarque                                                                

@@ -1,0 +1,20 @@
+U1 &CAUSE&                                                                 
+AS Le job sélectionné est en cours de traitement (lancé ou supprimé...)    
+   Pour qu'une séquence de travail puisse être correctement exécutée et    
+   terminée, le système provoque un blocage du job sélectionné à l'aide du 
+   mécanisame de blocage SAP. Lorsqu'un job est bloqué, seules sont possi- 
+   bles quelques actions particulières ( ex. : affichage des infos rel. au 
+   job). Le blocage est annulé après la fin de la tâche.                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS La durée entre le début et la fin d'une action est relativement brève.  
+   Il est en général possible d'exécuter une action pour le job            
+   sélectionné après plusieurs essais.                                     
+AS Si le blocage est toujours actif après plusieurs essais, procédez aux   
+   opérations suivantes :                                                  
+N1 Déterminez à l'aide de la transaction SM12 (Afficher blocages) pour la  
+   (Afficher blocages) table TBTCO (ou ceux de la table TBTCS pour la      
+   suppression des jobs débloqués), l'utilisateur bloquant le job          
+   souhaité.                                                               
+N1 Signalez à l'utilisateur de compléter l'action en cours.                

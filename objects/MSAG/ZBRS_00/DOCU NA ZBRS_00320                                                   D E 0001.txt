@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Mappe ist aus unerklärlichen Gründen nicht vollständig erstellt.        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Mappe löschen und neu erstellen.                                        

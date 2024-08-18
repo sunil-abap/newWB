@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS You attempted to change your password again. This can only be done once 
+   per day.                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Wait until tomorrow before you change your password or consult your     
+   user administrator.                                                     

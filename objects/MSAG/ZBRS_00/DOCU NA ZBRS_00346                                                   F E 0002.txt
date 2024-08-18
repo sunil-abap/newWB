@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Données de batch input erronées, le nom de zone &V1& n'est pas valide.  
+   Il est mal écrit ou n'est pas renseigné.                                
+AS                                                                         
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Corrigez le nom de zone dans les données de batch input.                

@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS OK-Code Eingabe ist zu lang.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte korrigieren Sie Ihre Batch-Input Daten.                           

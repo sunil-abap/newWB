@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Mediante um atalho ou um URL é necessário iniciar uma transação, igorar 
+   a primeira tela da transação e continuar com um código de função não    
+   permitido.                                                              
+U1 &SYSTEM_RESPONSE&                                                       
+AS Você tentou iniciar a transação                                         
+AS &V1&                                                                    
+AS com a opção "Ignorar primeira tela" mediante um atalho SAPGUI ou um URL.
+U1 &WHAT_TO_DO&                                                            
+AS Isto não é permitido para esta transação com este código de função.     
+U1 &SYS_ADMIN&                                                             
+AS Se esta funcionalidade for necessária, contate o seu administrador do   
+   sistema. Para isso, considere a nota 1956086.                           

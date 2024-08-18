@@ -1,0 +1,24 @@
+U1 &CAUSE&                                                                 
+AS The memory area of the basis software for the GUI status is too small   
+   for the requested status.  The following is stored in this area:        
+B1 Administration information in fixed length                              
+B1 Menu structure, F keys and push buttons of a status                     
+B1 The texts of the complete interface (not just of the status)            
+B1 The active and the requested Excluding list (<NP>SET PF-STATUS...       
+   EXCLUDING ...</>).                                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS Termination as presumably the system is unable to continue processing.  
+U1 &WHAT_TO_DO&                                                            
+AS A short-term solution might consist of leaving off the <NP>EXCLUDING</> 
+   for the current <NP>SET PF-STATUS...                                    
+AS Clear up the interface affected: in the Menu Painter (Transaction       
+   SE41), choose <LS>Utilities</> -> <LS>Unused objects</>.                
+AS If it is an interface with a large number of statuses, it may be        
+   possible to take the interface apart. This is often possible for        
+   interfaces belonging to a function group that supplies GUI statuses for 
+   multiple programs (these programs call up function modules of the group 
+   that mainly contain a <NP>SET PF-STATUS</> command).                    
+AS If the above solutions will not work, your system administrator will    
+   have to enlarge the profile parameter "ztta/cua_area". Note that        
+   profile parameter "ztta/short_area" must be at least 6 times as large   
+   as "ztta/cua_area".                                                     

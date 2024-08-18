@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS L'exécution de la transaction a été empêchée par une configuration      
+AS système (par le moniteur appelé moniteur Blacklist).                    
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Évitez d'utiliser cette transaction ou contactez                        
+AS votre administrateur système.                                           
+U1 &SYS_ADMIN&                                                             
+AS Pour plus d'informations sur le moniteur Blacklist, voir la             
+AS note 2476734.                                                           
+AS                                                                         

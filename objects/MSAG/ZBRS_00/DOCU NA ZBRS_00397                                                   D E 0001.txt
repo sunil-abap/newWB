@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Aufruf des Funktionsbausteines BDC_RUNNING.                             
+AS Es wurde festgestellt, daß kein Batch-Input zum gegebenen Zeitpunkt     
+   aktiv ist.                                                              
+AS                                                                         
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS nichts                                                                  
+AS                                                                         

@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS You have used the Secure Network Communication (SNC) function to log    
+   on. At the same time, you specified an R/3 user name. However the       
+   external (SNC) name delivered from the external security system to the  
+   R/3 System is not assigned to the specified user in table USRACL.       
+U1 &SYSTEM_RESPONSE&                                                       
+AS The system refuses the logon.                                           
+U1 &WHAT_TO_DO&                                                            
+AS Log on with the permitted user name, or use the user maintenance        
+   transaction (Transaction SU01) to assign the SNC name to the user.      

@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Dynpro is niet nodig.                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Batchinput informatie.                                                  

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS A pasta ou as pastas selecionadas foram eliminadas.                     
+AS Por motivos de performance, as pastas grandes serão eliminadas em       
+   background.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Nenhuma.                                                                
+U1 &WHAT_TO_DO&                                                            
+AS Nota.                                                                   

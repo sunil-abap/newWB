@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Vous tentez d'analyser un bloc du dossier batch input qui se trouve     
+   en dehors de la zone du bloc existant : de 1 à &V1&.                    
+AS                                                                         
+AS                                                                         
+AS                                                                         
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Placez le numéro du bloc sur un bloc valable.                           
+AS                                                                         

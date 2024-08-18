@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Internal queue error.                                                   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check the system log and contact the person in charge.                  

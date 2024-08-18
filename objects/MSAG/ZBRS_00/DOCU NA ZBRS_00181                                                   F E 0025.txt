@@ -1,0 +1,22 @@
+U1 <ZH>&CAUSE&</>                                                          
+AS Vous avez entré un nouveau mot de passe presque identique à l'ancien à  
+   part quelques caractères.                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Sélectionnez un mot de passe d'au moins &V1& caractères différents par  
+   rapport à l'ancien. Le mot de passe que vous avez entré diffère de &V2& 
+   caractères uniquement.                                                  
+AS <ZU>Le nombre de caractères différents est calculé comme suit :</>      
+AS Les deux chaînes de caractères sont comparées au maximum (recherche de  
+   séquence de caractères commune). Le nombre de caractères différents     
+   (après comparaison) est le nombre recherché.                            
+AS Exemple :,,ancien mot de passe :,,"BDAFAG",,(6 caractères)              
+/  ,,,,nouveau mot de passe :,,"ABC DBA",,(7 caractères)                   
+/  ,,,,après rotation :,,"DBAABC ",,(7 caractères)                         
+/  ,,,,==> Nombre de caractères différents = 4                             
+U1 &SYS_ADMIN&                                                             
+*  L'administrateur peut définir cette valeur via des paramètres de profil 
+   <ZH>login/min_password_digits</>.                                       
+/  Autre documentation : voir gestion de paramètres de profil (transaction 
+   <DS:TRAN.RZ11>RZ11</>)                                                  

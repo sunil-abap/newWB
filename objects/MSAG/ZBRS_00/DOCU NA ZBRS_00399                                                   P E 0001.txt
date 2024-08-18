@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Erro interno da monitorização batch input                               
+AS Ajustar PERFORM SEND_MSG                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Anotar a situação de erro e informar o administrador de sistema.        

@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS The RFC service using by the Central User Administration has no         
+   authorization in the daughter system &V2& (RFC destination) to          
+   administrate the password for the user  &V1&.                           
+*  The authorization object checked was S_USER_GRP for the activity 05.    
+U1 &SYSTEM_RESPONSE&                                                       
+AS For this reason, the system cannot read the user, including the         
+   password hash value. None of the selected users were transferred to the 
+   Central User Administration.                                            
+U1 &WHAT_TO_DO&                                                            
+AS Extend the authorization of the service user of the Central User        
+   Administration in the target system to include the following            
+   authorization values in the authorization object S_USER_GRP:            
+/    CLASS = '*'                                                           
+/    ACTVT = '05'                                                          
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Até inclusive o release 46B, os logs batch input são arquivados nos     
+   denominados files common log. A partir do release 46C, os logs são      
+   arquivados no file TemSe. Esta modificação tem uma vantagem: em caso de 
+   existência de um file corrupto, todos os outros logs do servidor de     
+   aplicação não são perdidos.                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Com o report RSBDCLCH, é possível converter, em todo o sistema, os logs 
+   commom log antigos em novos files TemSe. O contrário não é possível. O  
+   parâmetro de perfil 'bdc/new_protocol' deve ser convertido para 'on',   
+   com a ajuda do código de transação RZ11.                                
+U1 &SYS_ADMIN&                                                             
+AS Os logs criados através de uma nova interface já não podem ser lidos    
+   com a interface antiga e vice-versa. Estes logs não surgem na listagem  
+   dos logs existentes.                                                    
+*                                                                          

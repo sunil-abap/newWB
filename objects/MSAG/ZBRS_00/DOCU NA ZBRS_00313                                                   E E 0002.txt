@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Selected session(s) with a log was(were) deleted.                       
+AS For reasons of performance, large sessions and their logs are deleted   
+   in the background.                                                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS None.                                                                   
+U1 &WHAT_TO_DO&                                                            
+AS Hints.                                                                  

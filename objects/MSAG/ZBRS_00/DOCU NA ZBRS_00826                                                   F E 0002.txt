@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Vous avez défini une icône. Vous avez utilisé un nom d'icône déjà       
+   utilisé pour une autre icône.                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS L'icône ne peut pas être sauvegardée.                                   
+U1 &WHAT_TO_DO&                                                            
+AS Utilisez un autre nom d'icône n'ayant pas encore été attribué pour      
+   cette icône.                                                            
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

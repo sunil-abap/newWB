@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS O usuário mudou o modo de processamento no batch input interativo.      
+AS Se passou de 'Só exibir erro' para 'Processar de modo visível'.         
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Informação                                                              

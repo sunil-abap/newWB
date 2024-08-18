@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Tijdens de batchinput is geprobeerd de cursor op een niet-bestaand veld 
+   te positioneren.                                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Geef een veldnaam op die in het dynpro voorkomt.                        

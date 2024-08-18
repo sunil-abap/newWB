@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Vidage de la file d'attente (flush) impossible sur plate-forme IMB      
+U1 &SYSTEM_RESPONSE&                                                       
+AS Interruption de l'opération de vidage                                   
+U1 &WHAT_TO_DO&                                                            
+AS Evitez les vidages de la file d'attente                                 

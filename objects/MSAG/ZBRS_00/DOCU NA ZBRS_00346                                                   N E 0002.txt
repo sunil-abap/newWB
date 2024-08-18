@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS De batchinput-gegevens zijn onjuist, veldnaam &V1& is ongeldig. De      
+   naam is verkeerd geschreven of de veldnaam is leeg.                     
+AS                                                                         
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Corrigeer de veldnaam in de batchinput-gegevens.                        

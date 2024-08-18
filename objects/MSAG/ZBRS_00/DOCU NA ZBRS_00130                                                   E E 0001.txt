@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS The current RFC connection configuration (SM59) does not permit you to  
+   quit the current application.                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Es trat ein Fehler im CALL TRANSACTION USING oder CALL DIALOG USING     
+AS bei einer synchronen Verbuchung auf.                                    
+AS Der Fehler wurde durch die Transaktion &V1& ausgelöst.                  
+AS                                                                         
+AS Verbuchungsinformationen                                                
+AS Returncode:        &V2&                                                 
+AS Text      :        &V3& &V4&                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte analysieren sie ihre Batch-Input Daten.                           
+AS Ferner können sie mit der  Transaktion SM13 ihre Verbuchungssätze       
+AS kontrollieren.                                                          

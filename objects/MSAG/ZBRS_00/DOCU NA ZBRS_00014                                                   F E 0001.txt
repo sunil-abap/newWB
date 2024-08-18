@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Lors de la génération des textes du dynpro &V1& &V2& dans la langue     
+   &V3&, le système a déterminé que la zone de mémoire prévue est trop     
+   petite, avec ses &V4& octets.                                           
+U1 &SYSTEM_RESPONSE&                                                       
+AS La génération a échoué et conduit a une interruption.                   
+U1 &WHAT_TO_DO&                                                            
+AS Vous pouvez paramétrer la taille de cette zone de mémoire avec le       
+   paramètre de profil <LS>dynpro_language_area </>. Augmentez ce          
+   paramètre et lancez à nouveau le système.                               

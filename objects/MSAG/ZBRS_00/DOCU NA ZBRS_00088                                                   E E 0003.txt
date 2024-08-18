@@ -1,0 +1,26 @@
+U1 &CAUSE&                                                                 
+AS Your entry does not match the specified template.                       
+U1 &SYSTEM_RESPONSE&                                                       
+AS The entry in this field was rejected.                                   
+U1 &WHAT_TO_DO&                                                            
+AS The entry must comply with the template format. The following template  
+   characters have a special meaning:                                      
+AS                                                                         
+D1 <zh>_ (underscore) </> There should be an input character at this point.
+   This should be a digit for numeric fields.                              
+D1 <zh>, (decimal comma or point):</> is valid for numeric fields and      
+   timestamps of type UTCLONG. A decimal point or comma is placed here.    
+   (Setting is made in user master record).                                
+D1 <zh> . (thousands separator):</> is valid for numeric fields. The       
+   separator appears between every three digits (optional). Depending on   
+   the setting in the user master record, it can be a period or a comma.   
+D1 <zh>V:</> is valid for numeric fields: the plus/minus sign is placed    
+   here. If one is used, it must be placed on the right edge of the field. 
+    The sign is '-' or ' '(blank character).                               
+D1 <zh>~ (tilde):</> is valid for numeric fields. Leading zeros must also  
+   be specified from this point to the right (inclusive). Otherwise, this  
+   character has the same meaning as the underscore. Leading zeros do not  
+   need to be specifiied to the left of the tilde.  Neither are they di    
+=  splayed in this position.                                               
+AS All other characters stand for themselves. When they are input, they    
+   must be in the same position as in the template.                        

@@ -1,0 +1,25 @@
+U1 &CAUSE&                                                                 
+AS Ihre Eingabe entspricht nicht der angegebenen Eingabeschablone.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die Eingabe in diesem Feld wird zurückgewiesen.                         
+U1 &WHAT_TO_DO&                                                            
+AS Die Eingabe muss der Schablone entsprechen. Folgende Schablonenzeichen  
+AS haben eine besondere Bedeutung:                                         
+D1 <zh>_ (Unterstrich): </> an dieser Stelle soll ein Eingabezeichen       
+   stehen; bei numerischen Feldern sollte das eine Ziffer sein.            
+D1 <zh>, (Dezimalkomma):</> gilt für numerische Felder und Zeitstempel vom 
+   Typ UTCLONG; hier steht das Dezimalkomma bzw Dezimalpunkt (Einstellung  
+   im Benutzerstammsatz).                                                  
+D1 <zh> . (Tausendertrennpunkt):</> gilt für numerische Felder; hier steht 
+   (optional) das Trennzeichen für je 3 Ziffern. Je nach Einstellung im    
+   Benutzerstammsatz ist das ein Punkt oder ein Komma.                     
+D1 <zh>V:</> gilt für numerische Felder: hier steht das Vorzeichen; falls  
+   eines vorgesehen ist, muss es am rechten Rand des Feldes sein. Das      
+   Vorzeicheichen ist '-' oder ' '(Leerzeichen).                           
+D1 <zh>~ (Tilde):</> gilt für numerische Felder; ab dieser Stelle nach     
+   rechts (einschließlich) müssen auch führende Nullen eingegeben werden.  
+   Ansonsten hat dieses Zeichen die Gleiche Bedeutung wie Unterstrich.     
+   Führende Nullen müssen normalerweise, also links von der Tilde, nicht   
+   eigegeben werden. An dieser Stelle werden sie auch nicht ausgegeben.    
+AS Alle anderen Zeichen stehen für sich selbst und müssen bei der Eingabe  
+   an derselben Stelle stehen wie in der Schablone.                        

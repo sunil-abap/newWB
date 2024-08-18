@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Em batch input ou Call Transaction ... Using, uma área de tela foi      
+   preenchida com um formato de entrada não válido.                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS O processamento foi cancelado.                                          
+U1 &WHAT_TO_DO&                                                            
+AS A área de tela tem o nome técnico &V1& . A causa do erro está sendo     
+   descrita na mensagem seguinte.                                          
+AS Corrigir os dados BDC correspondentes.                                  
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

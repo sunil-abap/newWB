@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Não existe tela solicitada.                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Nenhuma.                                                                
+U1 &WHAT_TO_DO&                                                            
+AS Corrigir nome de tela, corrigir dados batch input.                      

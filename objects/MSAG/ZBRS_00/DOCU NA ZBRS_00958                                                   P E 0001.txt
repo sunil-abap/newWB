@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Para o nome indicado não está nenhuma entrada em nametab.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS A respetiva tabela deve ser definida e ativada através do Dictionary.   

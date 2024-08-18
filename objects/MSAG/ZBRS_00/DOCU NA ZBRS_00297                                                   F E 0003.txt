@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS Une zone a été modifiée dans un batch input interactif ( « Exécuter     
+   dossier à l'écran » ou « Afficher erreurs uniquement »)                 
+AS Nom de zone :             &V1&                                          
+/  Nouveau contenu de zone : &V2&                                          
+/  Ancien contenu de zone :  &V3&                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

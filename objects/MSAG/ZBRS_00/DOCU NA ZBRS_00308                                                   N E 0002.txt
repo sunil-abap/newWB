@@ -1,0 +1,4 @@
+U1 &CAUSE&                                                                 
+AS Er bestaat maar één inforecord bij de map. Fout bij creatie van de map. 
+U1 &WHAT_TO_DO&                                                            
+AS Map nogmaals vervaardigen.                                              

@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Vous avez défini des icônes. Les ids de ces icônes vont en croissant    
+   mais comportent des discontinuités.                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS Les icônes n'ont pas pu être sauvegardées.                              
+U1 &WHAT_TO_DO&                                                            
+AS Informez-vous dans le programme <ICON> quelle id suivante doit être     
+   attribuée.                                                              
+AS Supprimez les icônes que vous aviez définies et redéfinissez-les.       
+   Utilisez alors la prochaine id dans une séquence ne comportant pas de   
+   discontinuité.                                                          
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

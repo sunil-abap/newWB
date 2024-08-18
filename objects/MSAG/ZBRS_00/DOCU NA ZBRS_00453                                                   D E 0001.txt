@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Ihre CPIC-Kommunikation beginnt nicht mit CMINIT oder CMACCP.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS Die CPIC-Funktion wird abgebrochen.                                     
+U1 &WHAT_TO_DO&                                                            
+AS CPIC-Programm korrigieren.                                              

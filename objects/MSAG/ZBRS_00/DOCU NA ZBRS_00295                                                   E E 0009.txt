@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS There were communication problems during the update. The system could   
+   not write the transaction status to the batch input session. When the   
+   update is completed successfully, the update work process automatically 
+   sets the transaction status to "successfully completed" in the session. 
+AS Transaction &V1& is affected. It has the sequential number &V2& in the  
+   session.                                                                
+/  Update information:                                                     
+/  Return code: &V3&                                                       
+/  Text      : &V4&                                                        
+/                                                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS The system marks the session as incorrect. After eliminating the cause  
+   of the communications problems, you must reprocess the folder using     
+   Transaction SM35.                                                       

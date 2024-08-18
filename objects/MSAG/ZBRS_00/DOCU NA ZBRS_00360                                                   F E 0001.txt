@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Erreur interne de la file d'attente                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Consultez le journal système (SYSLOG)                                   
+AS Contactez le responsable                                                

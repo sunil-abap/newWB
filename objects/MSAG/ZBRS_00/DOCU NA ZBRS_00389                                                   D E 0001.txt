@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Bei der Berechtigungsprüfung wurde festgestellt, daß Ihnen die          
+   Berechtigung zum Reorganisieren von Mappen und Protokollen fehlt.       
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Wenden Sie sich an die Systemverwaltung.                                
+AS Sie benötigen das Profil S_BDC_REOGA.                                   
+AS                                                                         
+AS                                                                         

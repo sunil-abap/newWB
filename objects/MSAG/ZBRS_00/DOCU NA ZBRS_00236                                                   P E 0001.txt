@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS O Gateway SAP não foi executado ou os parâmetros para a estrutura de    
+   ligação não são corretos. Informar os responsáveis.                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS A estrutura da ligação CPIC é cancelada.                                
+U1 &WHAT_TO_DO&                                                            
+AS Executar o Gateway SAP ou corrigir os parâmetros para a estrutura de    
+   ligação.                                                                

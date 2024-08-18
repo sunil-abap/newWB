@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS Foi entrada uma senha que tem mais que 8 caracteres ou que contém no    
+   mínimo uma letra minúscula. Sistemas ou componentes middleware antigos  
+*  não estão na situação de processar este tipo de senhas. Assim, pode     
+   suceder que não seja possível efetuar logon com esta senha, se o logon  
+   for resultado de um sistema antigo ou se resultou através de componentes
+   middleware antigos.                                                     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Quando se tiver a certeza que os logons baseados na senha só serão      
+   efetuados através de sistemas novos ou com a utilização de componentes  
+   middleware novos, será possível ignorar a nota de advertência.          
+*  Senão, será necessário selecionar outra senha. Esta deverá ter no máximo
+   8 caracteres e evitar letras minúsculas.                                
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

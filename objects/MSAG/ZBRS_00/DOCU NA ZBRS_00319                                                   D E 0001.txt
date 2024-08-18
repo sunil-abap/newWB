@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Batch-Input Protokollverzeichnis (Profileparameter) nicht gefunden.     
+U1 &SYSTEM_RESPONSE&                                                       
+AS Systemadministrator verständigen.                                       
+U1 &WHAT_TO_DO&                                                            
+AS Profileparameter in 'rsparam??' berichtigen.                            

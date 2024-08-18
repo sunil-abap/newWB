@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS During processing of a routine called using PERFORM ... ON COMMIT, the  
+   system attempted to call PERFORM ... ON COMMIT again. Nesting of this   
+   is not allowed.                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS The program indicated after "Caller:" must be changed. This is the      
+   program that calls the routine indicated after "Form:" during COMMIT    
+   processing. This routine is part of the program indicated after         
+AS "Program:".                                                             
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

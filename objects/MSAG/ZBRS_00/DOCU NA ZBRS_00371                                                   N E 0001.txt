@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Interne fout van de batchinput                                          
+U1 &SYSTEM_RESPONSE&                                                       
+AS Systeembeheerder waarschuwen.                                           
+U1 &WHAT_TO_DO&                                                            
+AS Map nogmaals vervaardigen en inlezen                                    

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Les trois premiers caractères du mot de passe ne doivent pas avoir la   
+   même séquence que le nom de l'utilisateur. Cela a pour but d'éviter que 
+   le nom de l'utilisateur et le mot de passe soient identiques.           
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Choisissez un autre mot de passe.                                       

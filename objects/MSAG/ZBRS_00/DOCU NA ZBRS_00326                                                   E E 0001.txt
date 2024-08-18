@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS A session with the status 'in process' is released with the status      
+   'still to be processed'.                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS A session can be reprocessed.                                           

@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Auf dem Tabstrip befindet sich ein nicht drückbarer Reiter.             
+AS                                                                         
+AS Ein solches Verhalten wird von dem Tabstrip jedoch nicht unterstützt.   
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+U1                                                                         
+AS Bildmodifikation bzw. Screenpainterdefinition des Tabstrip Reiters      
+AS prüfen.                                                                 
+AS Bei der Bildmodifiktion darf INPUT des Tabstrip Reiters nicht auf '0'   
+AS gesetzt werden.                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Em uma senha só são permitidos caracteres do characterset sintático.    
+   Estes são caracteres de 0 até 9, os caracteres do alfabeto americano e  
+   vários caracteres especiais que podem ser encontrados em todos os       
+   teclados.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Selecionar uma outra senha.                                             

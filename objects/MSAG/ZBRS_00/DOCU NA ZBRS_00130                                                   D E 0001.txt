@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Die aktuelle RFC-Verbindungskonfiguration (SM59) verbietet das Verlassen
+   der laufenden Anwendung.                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

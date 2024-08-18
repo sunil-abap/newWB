@@ -1,0 +1,7 @@
+U1 &CAUSE&                                                                 
+AS Error texts from the batch input are not output                         
+AS Only a placeholder                                                      
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+AS                                                                         
+AS                                                                         

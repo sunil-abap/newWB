@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS In der Nametab zur Tabelle ist das angegebene Feld nicht vorhanden.     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         

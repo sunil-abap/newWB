@@ -1,0 +1,6 @@
+U1 &CAUSE&                                                                 
+AS Bei Löschen von Mappen trat ein Fehler auf.                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Keine.                                                                  
+U1 &WHAT_TO_DO&                                                            
+AS Löschvorgang wiederholen.                                               
