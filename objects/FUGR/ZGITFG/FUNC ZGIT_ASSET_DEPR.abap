@@ -21,10 +21,16 @@ FUNCTION zgit_asset_depr.
 *"      NOASSETS
 *"----------------------------------------------------------------------
 
+  DATA: lw_objid LIKE cdhdr-objectid.
+  CLEAR: lw_objid.
+
+  lw_objid = objectid.
+
   CALL FUNCTION 'CHANGEDOCUMENT_OPEN'
     EXPORTING
       objectclass             = 'ZRR'
-      objectid                = objectid
+*      objectid                = objectid
+      objectid                = lw_objid
       planned_change_number   = planned_change_number
       planned_or_real_changes = planned_or_real_changes
     EXCEPTIONS

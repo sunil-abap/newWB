@@ -11,11 +11,32 @@
     "LENGTH":20
    },
    {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"Mode",
+    "LENGTH":14
+   },
+   {
     "ID":"R",
     "KEY":"",
     "LANG":"E",
     "ENTRY":"SKA1 report",
     "LENGTH":11
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TEST",
+    "LANG":"E",
+    "ENTRY":"        Test mode",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"S_SAKNR",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":9
    }
   ]
  }

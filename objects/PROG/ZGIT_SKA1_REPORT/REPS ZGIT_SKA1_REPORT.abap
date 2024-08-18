@@ -13,5 +13,6 @@ INCLUDE zgit_incl_f01.
 START-OF-SELECTION.
 
 WRITE: 'GL Account report'.
+WRITE: 'Change1 in ABAP system'.
 
 perform f_get_data.

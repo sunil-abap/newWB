@@ -3,3 +3,5 @@
 *&---------------------------------------------------------------------*
 DATA: gt_ska1 TYPE STANDARD TABLE OF ska1,
       gv_stop TYPE flag.
+
+DATA: gv_xblnr TYPE xblnr.

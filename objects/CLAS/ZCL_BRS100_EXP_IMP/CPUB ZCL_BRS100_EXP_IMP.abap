@@ -9,3 +9,6 @@ public section.
   class-methods GET_INSTANCE
     returning
       value(RO_INSTANCE) type ref to ZCL_BRS100_EXP_IMP .
+  class-methods GET_USER
+    importing
+      !USNAM type XUBNAME optional .
