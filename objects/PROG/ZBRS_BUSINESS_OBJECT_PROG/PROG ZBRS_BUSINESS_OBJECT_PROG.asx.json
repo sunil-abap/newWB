@@ -1,0 +1,57 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"PROG",
+    "OBJ_NAME":"ZBRS_BUSINESS_OBJECT_PROG",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SBORUGADDA",
+    "SRCDEP":"",
+    "DEVCLASS":"ZGIT_BRS_PKG",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-08-18",
+    "CHECK_DATE":"2024-08-18",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"ZBRS_BUSINESS_OBJECT_PROG",
+    "CLAS":"SWOP",
+    "SUBC":"S",
+    "APPL":"B",
+    "FIXPT":"X",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"ZBRS_BUSINESS_OBJECT_PROG",
+    "SPRSL":"E",
+    "TEXT":"Program for object type ZBRS_OBJT : ZBRS_NAME"
+   }
+  ]
+ }
+]

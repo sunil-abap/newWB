@@ -1,0 +1,56 @@
+[
+ {
+  "table":"O2THEMES",
+  "data":
+  [
+   {
+    "THEME":"ZBRS_BSP_THEME_001",
+    "AUTHOR":"SBORUGADDA",
+    "CREATEDON":"2024-08-18",
+    "CHANGEDBY":"SBORUGADDA",
+    "CHANGEDON":"2024-08-18"
+   }
+  ]
+ },
+ {
+  "table":"O2THEMEST",
+  "data":
+  [
+   {
+    "THEME":"ZBRS_BSP_THEME_001",
+    "LANGU":"E",
+    "DESCR":"BSP Theme test"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"WTHM",
+    "OBJ_NAME":"ZBRS_BSP_THEME_001",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SBORUGADDA",
+    "SRCDEP":"",
+    "DEVCLASS":"ZGIT_BRS_PKG",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-08-18",
+    "CHECK_DATE":"2024-08-18",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
