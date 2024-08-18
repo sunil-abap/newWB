@@ -61,6 +61,16 @@
   ]
  },
  {
+  "table":"TSTCP",
+  "data":
+  [
+   {
+    "TCODE":"ZBRS_SKA1_TCODE",
+    "PARAM":"/NSNUM TNRO-OBJECT=ZBRS_NR"
+   }
+  ]
+ },
+ {
   "table":"TSTCT",
   "data":
   [

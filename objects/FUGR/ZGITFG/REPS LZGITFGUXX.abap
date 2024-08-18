@@ -4,3 +4,5 @@
 *****************************************************************
 INCLUDE LZGITFGU01.
                     "ZGIT_ASSET_DEPR
+INCLUDE LZGITFGU02.
+                    "ZGIT_ASSET_DEPR_RFC
