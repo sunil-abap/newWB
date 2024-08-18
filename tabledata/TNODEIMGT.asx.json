@@ -1,0 +1,107 @@
+[
+ {
+  "table":"TNODEIMGT",
+  "data":
+  [
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F688C01",
+    "EXT_KEY":"",
+    "TEXT":"Accounting"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F68AC01",
+    "EXT_KEY":"",
+    "TEXT":"Master Data Distribution"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F692C01",
+    "EXT_KEY":"",
+    "TEXT":"AC <-> AC"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F69CC01",
+    "EXT_KEY":"",
+    "TEXT":"Distribution of Financial Accounting Data"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F6D4C01",
+    "EXT_KEY":"",
+    "TEXT":"AC <-> LO"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F6DAC01",
+    "EXT_KEY":"",
+    "TEXT":"AC <-> HR"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"FIN_GL_ALE",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F6A8C01",
+    "EXT_KEY":"",
+    "TEXT":"Set Up Distribution of Financial Accounting Data (New)"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"FIN_GL_ALE",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F6AAC01",
+    "EXT_KEY":"",
+    "TEXT":"Configure Distribution Scenario"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"FIN_GL_ALE",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F6B4C01",
+    "EXT_KEY":"",
+    "TEXT":"Business Add-Ins (BAdIs)"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"FIN_GL_ALE",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F6B6C01",
+    "EXT_KEY":"",
+    "TEXT":"BAdIs for Sender Systems"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"9B0D2A4498B11EEF97AA243D5F6DCC01",
+    "EXTENSION":"FIN_GL_ALE",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97AA243D5F6C4C01",
+    "EXT_KEY":"",
+    "TEXT":"BAdIs for Receiver Systems"
+   }
+  ]
+ }
+]

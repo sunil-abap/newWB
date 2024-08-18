@@ -1,0 +1,755 @@
+[
+ {
+  "table":"TMENU01T",
+  "data":
+  [
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D18C01",
+    "EXT_KEY":"",
+    "TEXT":"BAPI"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D1AC01",
+    "EXT_KEY":"",
+    "TEXT":"Generate ALE Interface"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D1CC01",
+    "EXT_KEY":"",
+    "TEXT":"Receiver Determination"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D1EC01",
+    "EXT_KEY":"",
+    "TEXT":"Define Filter Object Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D20C01",
+    "EXT_KEY":"",
+    "TEXT":"Assign Filter Object Type to BAPI"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D22C01",
+    "EXT_KEY":"",
+    "TEXT":"Dependencies"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D24C01",
+    "EXT_KEY":"",
+    "TEXT":"Between BAPIs"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D26C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Dependencies Between BAPI and Message Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D28C01",
+    "EXT_KEY":"",
+    "TEXT":"Assign Business Object to Message Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D2AC01",
+    "EXT_KEY":"",
+    "TEXT":"Define Function Module for Dependent Business Object"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D2CC01",
+    "EXT_KEY":"",
+    "TEXT":"Data Filtering"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D2EC01",
+    "EXT_KEY":"",
+    "TEXT":"Define Filter Object Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D30C01",
+    "EXT_KEY":"",
+    "TEXT":"Assign Filter Object Type to Parameter"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D32C01",
+    "EXT_KEY":"",
+    "TEXT":"Maintain Hierarchy of Table Parameters"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D34C01",
+    "EXT_KEY":"",
+    "TEXT":"Dependencies"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D36C01",
+    "EXT_KEY":"",
+    "TEXT":"Between BAPIs"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D38C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Dependencies Between BAPI and Message Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D3AC01",
+    "EXT_KEY":"",
+    "TEXT":"Assign Business Object to Message Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D3CC01",
+    "EXT_KEY":"",
+    "TEXT":"Define Function Module for Dependent Business Object"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D3EC01",
+    "EXT_KEY":"",
+    "TEXT":"Serialization"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D40C01",
+    "EXT_KEY":"",
+    "TEXT":"Serialization Using Business Objects"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D42C01",
+    "EXT_KEY":"",
+    "TEXT":"Determine Supported Business Objects"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D44C01",
+    "EXT_KEY":"",
+    "TEXT":"Assign Message Type to Business Object"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D46C01",
+    "EXT_KEY":"",
+    "TEXT":"Change Management"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D48C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Change-Relevant Fields"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D4AC01",
+    "EXT_KEY":"",
+    "TEXT":"Define Function Module for Evaluation"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D4CC01",
+    "EXT_KEY":"",
+    "TEXT":"IDoc"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D4EC01",
+    "EXT_KEY":"",
+    "TEXT":"Generate ALE interface"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D50C01",
+    "EXT_KEY":"",
+    "TEXT":"IDoc Type Development"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D52C01",
+    "EXT_KEY":"",
+    "TEXT":"Segments"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D54C01",
+    "EXT_KEY":"",
+    "TEXT":"IDoc Types"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D56C01",
+    "EXT_KEY":"",
+    "TEXT":"Logical Messages"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D58C01",
+    "EXT_KEY":"",
+    "TEXT":"IDoc Type for Message"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D5AC01",
+    "EXT_KEY":"",
+    "TEXT":"IDoc Checks"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D5CC01",
+    "EXT_KEY":"",
+    "TEXT":"IDoc Styles"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D5EC01",
+    "EXT_KEY":"",
+    "TEXT":"Data Filtering"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D60C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Filter Object Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D62C01",
+    "EXT_KEY":"",
+    "TEXT":"Assign Filter Object Type to IDoc Field"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D64C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Filters Using Classes"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D66C01",
+    "EXT_KEY":"",
+    "TEXT":"Reduction"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D68C01",
+    "EXT_KEY":"",
+    "TEXT":"Set Message Type to Reducible"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D6AC01",
+    "EXT_KEY":"",
+    "TEXT":"Define Mandatory Fields"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D6CC01",
+    "EXT_KEY":"",
+    "TEXT":"Dependencies"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D6EC01",
+    "EXT_KEY":"",
+    "TEXT":"Define Dependencies Between Message Types"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D70C01",
+    "EXT_KEY":"",
+    "TEXT":"Assign Business Object to Message Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D72C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Function Module for Dependent Business Object"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D74C01",
+    "EXT_KEY":"",
+    "TEXT":"Serialization"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D76C01",
+    "EXT_KEY":"",
+    "TEXT":"Serialization Using Time Stamps"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D78C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Serialization Object Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D7AC01",
+    "EXT_KEY":"",
+    "TEXT":"Define Serialization Object Type for Message Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D7CC01",
+    "EXT_KEY":"",
+    "TEXT":"Serialization Using Business Objects"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D7EC01",
+    "EXT_KEY":"",
+    "TEXT":"Determine Supported Business Objects"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D80C01",
+    "EXT_KEY":"",
+    "TEXT":"Assign Message Type to Business Object"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D82C01",
+    "EXT_KEY":"",
+    "TEXT":"Relationships"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D84C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Link Object Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D86C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Link Object Type for Message Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D88C01",
+    "EXT_KEY":"",
+    "TEXT":"Assign Link Object Type to IDoc Field"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D8AC01",
+    "EXT_KEY":"",
+    "TEXT":"Assign Business Object to Message Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D8CC01",
+    "EXT_KEY":"",
+    "TEXT":"Convert Organizational Units"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D8EC01",
+    "EXT_KEY":"",
+    "TEXT":"Engineering Change Management"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D90C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Change-Relevant Fields"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D92C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Function Module for Evaluation"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D94C01",
+    "EXT_KEY":"",
+    "TEXT":"Reducible Message Types"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5831D96C01",
+    "EXT_KEY":"",
+    "TEXT":"Assign IDoc Field to Change Document Field"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838514C01",
+    "EXT_KEY":"",
+    "TEXT":"Inbound Processing"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838516C01",
+    "EXT_KEY":"",
+    "TEXT":"Business Workflow - Development"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838518C01",
+    "EXT_KEY":"",
+    "TEXT":"Business Object Builder"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC583851AC01",
+    "EXT_KEY":"",
+    "TEXT":"Tasks/Task Groups"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC583851CC01",
+    "EXT_KEY":"",
+    "TEXT":"Create Tasks"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC583851EC01",
+    "EXT_KEY":"",
+    "TEXT":"Change Tasks"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838520C01",
+    "EXT_KEY":"",
+    "TEXT":"Display Tasks"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838522C01",
+    "EXT_KEY":"",
+    "TEXT":"Copy Tasks"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838524C01",
+    "EXT_KEY":"",
+    "TEXT":"Delete Tasks"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838526C01",
+    "EXT_KEY":"",
+    "TEXT":"Function Module"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838528C01",
+    "EXT_KEY":"",
+    "TEXT":"Maintain Attributes"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC583852AC01",
+    "EXT_KEY":"",
+    "TEXT":"Assign IDoc Type and Message Type"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC583852CC01",
+    "EXT_KEY":"",
+    "TEXT":"Define Process Code"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC583852EC01",
+    "EXT_KEY":"",
+    "TEXT":"Check Consistency"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838530C01",
+    "EXT_KEY":"",
+    "TEXT":"Outbound Processing"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838532C01",
+    "EXT_KEY":"",
+    "TEXT":"Define Process Code"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838534C01",
+    "EXT_KEY":"",
+    "TEXT":"Business Processes"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"9B0D2A4498B11EEF97A9EC5838536C01",
+    "EXT_KEY":"",
+    "TEXT":"Maintain Templates"
+   },
+   {
+    "SPRAS":"E",
+    "TREE_ID":"ZBRS_BALD",
+    "EXTENSION":"",
+    "BRANCH":"",
+    "NODE_ID":"ZBRS_BALD_T",
+    "EXT_KEY":"",
+    "TEXT":"Development"
+   }
+  ]
+ }
+]
