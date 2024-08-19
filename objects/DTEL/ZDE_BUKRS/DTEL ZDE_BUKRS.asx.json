@@ -55,11 +55,11 @@
     "DDLANGUAGE":"E",
     "AS4LOCAL":"N",
     "AS4VERS":0,
-    "DDTEXT":"company code",
+    "DDTEXT":"company code - task based commit test",
     "REPTEXT":"Co.cd",
     "SCRTEXT_S":"Co.cd",
     "SCRTEXT_M":"Co.cd",
-    "SCRTEXT_L":"company code"
+    "SCRTEXT_L":"company code - 1"
    }
   ]
  },
