@@ -1,0 +1,60 @@
+[
+ {
+  "table":"ACMDCLSRC",
+  "data":
+  [
+   {
+    "DCLNAME":"ZSHSM_FIN_USERID",
+    "AS4LOCAL":"A",
+    "AS4USER":"KCHELIKANI",
+    "AS4DATE":"2024-08-19",
+    "AS4TIME":"06:04:58",
+    "SOURCE":"@EndUserText.label: 'Auto assigned mapping role for SHSM_FIN_USERID' \r\n@MappingRole: true \r\ndefine role ZSHSM_FIN_USERID { \r\n    grant \r\n        select \r\n            on \r\n                SHSM_FIN_USERID \r\n                    where inheriting conditions from entity i_businessuservh; \r\n\r\n}",
+    "PARENTNAME":"",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"ACMDCLSRCT",
+  "data":
+  [
+   {
+    "DCLNAME":"ZSHSM_FIN_USERID",
+    "DCLLANGUAGE":"E",
+    "AS4LOCAL":"A",
+    "DDTEXT":"Auto assigned mapping role for SHSM_FIN_USERID"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DCLS",
+    "OBJ_NAME":"ZSHSM_FIN_USERID",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"KCHELIKANI",
+    "SRCDEP":"",
+    "DEVCLASS":"ZGIT_BRS_PKG",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-08-19",
+    "CHECK_DATE":"2024-08-19",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
