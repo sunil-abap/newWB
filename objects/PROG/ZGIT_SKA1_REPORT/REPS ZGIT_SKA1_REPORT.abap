@@ -14,5 +14,6 @@ START-OF-SELECTION.
 
 WRITE: 'GL Account report'.
 WRITE: 'Change1 in ABAP system'.
+WRITE: 'Change2 in ABAP system - conflict test'.
 
 perform f_get_data.
