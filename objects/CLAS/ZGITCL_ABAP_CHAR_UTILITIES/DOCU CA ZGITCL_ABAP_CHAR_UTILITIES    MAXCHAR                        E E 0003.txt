@@ -1,0 +1,16 @@
+U1 &MEANING&                                                               
+AS You can use MINCHAR and MAXCHAR in binary comparisons (SORT statement   
+   without AS TEXT addition; IF with operators <, >, <=, >=; BETWEEN;      
+   comparison with a selection criterion IF f IN sel). CLEAR f WITH        
+   MAXCHAR fills f with a value that is larger than or equal to all        
+   character sets.                                                         
+*  However, binary comparisons often do not meet the user's expectations;  
+   for example, ISO-8859-1 has the character set 1 < A < Z < a <Ä < ü      
+   while EBCDIC (SAP character set 0120) has  Ä < a < A < ü < Z < 1.       
+U1 &HINTS&                                                                 
+AS MAXCHAR is generally not a valid character of the current character     
+   set. In particular, you must not use TRANSLATE f TO UPPER CASE on       
+   MAXCHAR. The same applies to operations that implicitly convert to      
+   upper case, such as SEARCH, CS, NS, CP, or NP. You must not not use     
+   character set conversions on MAXCHAR.                                   
+*                                                                          

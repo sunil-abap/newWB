@@ -1,0 +1,20 @@
+*  &MEANING&                                                               
+AS Dieses Zeichen dient im Systemzeichensatz als Zeilenende-Markierung.    
+*  Wenn dieses Zeichen mit der ABAP-Anweisung TRANSFER in eine Datei       
+   ausgegeben wird, die im TEXT MODE geöffnet wurde, wird unter Microsoft  
+   Windows standardmäßig ein CR/LF-Paar (Carriage Return/Line Feed) in die 
+   Datei geschrieben; weitere Einzelheiten sind in der                     
+   Schlüsselwortdokumentation zu OPEN DATASET beschrieben.                 
+*                                                                          
+U1 &HINTS&                                                                 
+*  Dieses Zeichen wird typischerweise in Dateien verwendet. Es kann in     
+   Zusammenhang mit den ABAP-Anweisungen READ DATASET und TRANSFER sowie   
+   den CL_ABAP_CONV-Klassen benutzt werden.                                
+*  Zum Zeitpunkt der Erstellung dieser Dokumentation ist die Behandlung    
+   dieses Zeichens im RFC, bei WS_DOWNLOAD, GUI_DOWNLOAD, TRANSLATE ...    
+   CODE PAGE etc. unspezifiziert; dies betrifft insbesondere die           
+   Konvertierung zwischen EBCDIC und ACSII.                                
+*  Dieses Zeichen kann nicht auf ABAP-Listen oder Dynpros ausgegeben       
+   werden.                                                                 
+*                                                                          
+*                                                                          

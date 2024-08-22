@@ -1,0 +1,33 @@
+[
+ {
+  "table":"EDIMSGT",
+  "data":
+  [
+   {
+    "LANGUA":"D",
+    "MESTYP":"ZGITMATMAS",
+    "DESCRP":"Master Material"
+   },
+   {
+    "LANGUA":"E",
+    "MESTYP":"ZGITMATMAS",
+    "DESCRP":"Material master"
+   },
+   {
+    "LANGUA":"F",
+    "MESTYP":"ZGITMATMAS",
+    "DESCRP":"IDoc d'origine Article"
+   },
+   {
+    "LANGUA":"N",
+    "MESTYP":"ZGITMATMAS",
+    "DESCRP":"Master-IDoc artikel"
+   },
+   {
+    "LANGUA":"P",
+    "MESTYP":"ZGITMATMAS",
+    "DESCRP":"IDoc mestre material"
+   }
+  ]
+ }
+]

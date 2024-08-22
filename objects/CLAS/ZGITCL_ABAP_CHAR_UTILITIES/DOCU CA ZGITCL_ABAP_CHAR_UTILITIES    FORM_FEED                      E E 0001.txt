@@ -1,0 +1,13 @@
+U1 &MEANING&                                                               
+AS Form feed character in the system character set                         
+U1 &HINTS&                                                                 
+AS This character is typically used in files. It can be used in connection 
+   with the READ DATASET and TRANSFER statements as well as the            
+   CL_ABAP_CONV classes.                                                   
+*  At the time of the creation of this documentation, it is unspecified    
+   how to treat this character in RFCs, with procedures or statements such 
+   as WS_DOWNLOAD, GUI_DOWNLOAD, or TRANSLATE ... CODE PAGE; this is       
+   especially relevant to the conversion between EBCDIC and ACSII.         
+*  This character cannot be displayed on ABAP lists or screens.            
+*                                                                          
+*                                                                          

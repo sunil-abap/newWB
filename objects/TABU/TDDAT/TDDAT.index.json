@@ -1,0 +1,18 @@
+[
+ {
+  "table":"TDDAT",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"TABNAME",
+      "value":"ZGIT_SKA1"
+     }
+    ],
+    "hash":"qqZmAlbndQc4QlHicKcAMBwV8ZQ="
+   }
+  ]
+ }
+]

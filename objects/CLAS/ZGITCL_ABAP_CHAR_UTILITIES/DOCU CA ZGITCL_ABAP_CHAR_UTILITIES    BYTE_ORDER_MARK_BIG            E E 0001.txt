@@ -1,0 +1,7 @@
+U1 &MEANING&                                                               
+AS You can write this byte sequence in a type X or XSTRING container to    
+   show that the byte sequence is big-endian. This byte sequence mark is   
+   the Unicode character FEFF.                                             
+*                                                                          
+U1 &HINTS&                                                                 
+AS                                                                         

@@ -1,0 +1,14 @@
+U1 &MEANING&                                                               
+AS Tabulator-Zeichen im Systemzeichensatz                                  
+U1 &HINTS&                                                                 
+AS Dieses Zeichen wird typischerweise in Dateien verwendet. Es kann in     
+   Zusammenhang mit den ABAP-Anweisungen READ DATASET und TRANSFER sowie   
+   den CL_ABAP_CONV-Klassen benutzt werden.                                
+*  Zum Zeitpunkt der Erstellung dieser Dokumentation ist die Behandlung    
+   dieses Zeichens im RFC, bei WS_DOWNLOAD, GUI_DOWNLOAD, TRANSLATE ...    
+   CODE PAGE etc. unspezifiziert; dies betrifft insbesondere die           
+   Konvertierung zwischen EBCDIC und ACSII.                                
+*  Dieses Zeichen kann nicht auf ABAP-Listen oder Dynpros ausgegeben       
+   werden.                                                                 
+*                                                                          
+*                                                                          

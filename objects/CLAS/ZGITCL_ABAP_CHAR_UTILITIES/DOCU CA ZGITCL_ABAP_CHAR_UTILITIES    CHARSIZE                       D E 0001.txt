@@ -1,0 +1,7 @@
+U1 &MEANING&                                                               
+AS CHARSIZE ist der Faktor, mit dem man die deklarierte Länge eines Feldes 
+   vom Typ C multiplizieren muß, um die Größe des Feldes in Bytes zu       
+   erhalten. In einem Nicht-Unicode-System hat CHARSIZE den Wert 1.        
+*                                                                          
+U1 &HINTS&                                                                 
+AS                                                                         

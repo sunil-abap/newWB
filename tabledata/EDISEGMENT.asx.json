@@ -1,0 +1,20 @@
+[
+ {
+  "table":"EDISEGMENT",
+  "data":
+  [
+   {
+    "SEGTYP":"ZE1SEG1",
+    "QUALIFIER":"",
+    "GENERATED":"",
+    "PRESP":"SBORUGADDA",
+    "PWORK":"SBORUGADDA",
+    "PLAST":"SBORUGADDA",
+    "CREDATE":"2024-08-21",
+    "CRETIME":"19:57:43",
+    "LDATE":"2024-08-21",
+    "LTIME":"19:57:57"
+   }
+  ]
+ }
+]

@@ -1,0 +1,17 @@
+U1 &FUNCTIONALITY&                                                         
+AS Ermittelt die Bytereihenfolge zu einem Zahlenformat.                    
+U1 &PRECONDITION&                                                          
+AS                                                                         
+U1 &RESULT&                                                                
+M1 <EX>endian</>,,Die Bytereihenfolge, welche dem gegebenen Zahlenformat   
+   entspricht.                                                             
+U1 &PARAMETERS&                                                            
+M1 <EX>number_format</>,,Ein gültiges Zahlenformat ('0000' oder '0101').   
+U1 &EXCEPTIONS&                                                            
+M1 Eine Ausnahme wird geworfen, wenn ein ungültiges                        
+   Zahlenformat angegeben wird.                                            
+U1 &HINTS&                                                                 
+AS Das Systemzeichenformat kann mit dem Funktionsbaustein <EX>SYSTEM_FORMAT
+=  </> ermittelt werden; die entsprechende Bytereihenfolge ist in dem      
+   Attribut <DS:CA.CL_ABAP_CHAR_UTILITIES        ENDIAN>                   
+   <EX>CL_ABAP_CHAR_UTILITIES=>ENDIAN</></> abgelegt.                      

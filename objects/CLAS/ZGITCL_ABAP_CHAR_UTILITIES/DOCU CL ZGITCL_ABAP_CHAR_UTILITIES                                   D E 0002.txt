@@ -1,0 +1,14 @@
+U1 &FUNCTIONALITY&                                                         
+AS Die Komponenten dieser Klasse sind Hilfsmittel für die Verarbeitung von 
+   Zeichen.                                                                
+*                                                                          
+U1 &RELATIONS&                                                             
+AS                                                                         
+U1 &EXAMPLE&                                                               
+AS                                                                         
+U1 &HINTS&                                                                 
+AS                                                                         
+U1 &FURTHER_SOURCES_OF_INF&                                                
+AS Weitere Dokumentation befindet sich bei den einzelnen Komponenten. (Dies
+   gilt auch für die Klassenattribute.)                                    
+AS                                                                         

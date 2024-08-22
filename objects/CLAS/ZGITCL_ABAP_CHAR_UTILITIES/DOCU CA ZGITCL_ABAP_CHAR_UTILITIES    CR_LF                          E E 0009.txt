@@ -1,0 +1,20 @@
+U1 &MEANING&                                                               
+AS This attribute contains a CR/LF pair (Carriage Return/Line Feed) in the 
+   system character set.                                                   
+AS If a string or field with type C is converted to a Microsoft character  
+   set or UTF-8 (using the class CL_ABAP_CONV_OUT_CE), this character set  
+   is converted to the CR/LF sequence that can be used as an end of line   
+   character in Microsoft Windows.                                         
+U1 &HINTS&                                                                 
+*  You should not use the CR_LF attribute to write an end of line          
+   character into a file that was opened in Microsoft Windows in TEXT      
+   MODE. Use the NEWLINE attribute instead.                                
+*  These characters are typically used in files. The CR_LF attribute can   
+   be used in connection with the CL_ABAP_CONV classes.                    
+*  At the time of the creation of this documentation, it is unspecified    
+   how to treat this character in RFCs, with procedures or statements such 
+   as WS_DOWNLOAD, GUI_DOWNLOAD, or TRANSLATE ... CODE PAGE; this is       
+   especially relevant to the conversion between EBCDIC and ACSII.         
+*  The CR/LF characters cannot be displayed on ABAP lists or screens.      
+*                                                                          
+*                                                                          

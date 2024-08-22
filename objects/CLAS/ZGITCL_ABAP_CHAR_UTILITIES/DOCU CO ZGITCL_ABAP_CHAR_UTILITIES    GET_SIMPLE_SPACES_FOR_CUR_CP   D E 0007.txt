@@ -1,0 +1,30 @@
+U1 &FUNCTIONALITY&                                                         
+AS Diese Methode liefert einen String, der die in der gegenwärtigen        
+   Codepage meistgebräuchlichen Whitespace-Zeichen (SPACE, HORIZONTAL_TAB, 
+   NEWLINE etc.) enthält.                                                  
+LZ                                                                         
+U1 &PRECONDITION&                                                          
+AS                                                                         
+U1 &RESULT&                                                                
+AS Der zurückgelieferte String bezieht sich auf die gegenwärtige Codepage  
+   des Applikationsservers. Deshalb muß nach Ausführen von <AB>SET LOCALE  
+   LANGUAGE my_langu</> diese Methode erneut aufgerufen werden. Im Zweifel 
+   sollte bei jeder Verwendung diese Methode erneut aufgerufen werden.     
+   (Der Ergebnisstring wird aus Performance-Gründen in der Methode         
+   gepuffert.)                                                             
+AS Wenn die gegenwärtige Codepage eine Multibyte-Codepage (z.B. Japanisch) 
+   ist, enthält der Ergebnisstring auch die Multibyte-Darstellung des      
+   "Full-witdh ideographic space".                                         
+AS Der zurückgelieferte String kann als Operand der ABAP-Operatoren <AB>CA 
+=  </>, <AB>CO</> etc. verwendet werden. Damit kann festgestellt werden,   
+   ob und an welcher Position ein Feld Whitespaces enthält. (Die           
+   Operatoren <AB>CA</>, <AB>CO</>, <AB>NA</> und <AB>CN</> unterstützen   
+   auch Multibyte-Zeichen.)                                                
+LZ                                                                         
+U1 &PARAMETERS&                                                            
+AS                                                                         
+U1 &EXCEPTIONS&                                                            
+AS                                                                         
+U1 &HINTS&                                                                 
+AS Es gibt einige weniger gebräuchliche Whitespace-Zeichen, die von dieser 
+   Methode nicht zurückgeliefert werden.                                   

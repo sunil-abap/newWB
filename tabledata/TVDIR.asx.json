@@ -1,0 +1,23 @@
+[
+ {
+  "table":"TVDIR",
+  "data":
+  [
+   {
+    "TABNAME":"ZGIT_SKA1",
+    "AREA":"ZGIT_SKA1",
+    "DEVCLASS":"ZGIT_BRS_PKG",
+    "TYPE":"2",
+    "LISTE":1,
+    "DETAIL":2,
+    "OCCURS":0,
+    "CLTCODE":"",
+    "BASTAB":"X",
+    "NEWGENER":"",
+    "GENDATE":"2024-08-21",
+    "GENTIME":"19:40:17",
+    "FLAG":"X"
+   }
+  ]
+ }
+]

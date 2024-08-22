@@ -1,0 +1,8 @@
+U1 &MEANING&                                                               
+AS Diese Bytefolge kann in einen Kontainer vom Typ X oder XSTRING          
+   geschrieben werden, um anzuzeigen, daß die Byte-Reihenfolge "Little     
+   Endian" ist. Die Bytefolge ist die Little-Endian-Darstellung des        
+   Unicode-Zeichens FEFF.                                                  
+*                                                                          
+U1 &HINTS&                                                                 
+AS                                                                         

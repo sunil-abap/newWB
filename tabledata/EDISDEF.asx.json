@@ -1,0 +1,22 @@
+[
+ {
+  "table":"EDISDEF",
+  "data":
+  [
+   {
+    "SEGTYP":"ZE1SEG1",
+    "VERSION":0,
+    "SEGDEF":"ZE1SEG1000",
+    "RELEASED":"",
+    "CLOSED":"",
+    "CREDATE":"2024-08-21",
+    "CRETIME":"19:57:43",
+    "LDATE":"2024-08-21",
+    "LTIME":"19:57:57",
+    "FIELDNUM":13,
+    "EXPLENG":98,
+    "APPLREL":""
+   }
+  ]
+ }
+]

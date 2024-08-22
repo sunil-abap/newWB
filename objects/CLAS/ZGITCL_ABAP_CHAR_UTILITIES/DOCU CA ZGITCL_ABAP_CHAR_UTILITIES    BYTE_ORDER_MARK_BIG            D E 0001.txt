@@ -1,0 +1,7 @@
+U1 &MEANING&                                                               
+AS Diese Bytefolge kann in einen Kontainer vom Typ X oder XSTRING          
+   geschrieben werden, um anzuzeigen, daß die Byte-Reihenfolge "Big        
+   Endian" ist. Diese Byte-Order-Mark ist das Unicode-Zeichen FEFF.        
+*                                                                          
+U1 &HINTS&                                                                 
+AS                                                                         

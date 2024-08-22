@@ -1,0 +1,7 @@
+U1 &MEANING&                                                               
+AS You can write this byte sequence in a type X or XSTRING container to    
+   show that the characters in the container are in UTF-8. The byte        
+   sequence is the UTF-8 format of the Unicode character FEFF.             
+*                                                                          
+U1 &HINTS&                                                                 
+AS                                                                         

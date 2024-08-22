@@ -1,0 +1,7 @@
+U1 &MEANING&                                                               
+AS CHARSIZE is the factor, by which you multiply the declared length of a  
+   type C field to obtain the size of the field in bytes. In a non-Unicode 
+   system, CHARSIZE has the value 1.                                       
+*                                                                          
+U1 &HINTS&                                                                 
+AS                                                                         

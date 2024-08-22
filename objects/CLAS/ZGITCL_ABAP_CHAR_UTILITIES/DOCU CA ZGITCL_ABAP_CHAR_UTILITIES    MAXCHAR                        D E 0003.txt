@@ -1,0 +1,16 @@
+U1 &MEANING&                                                               
+AS MINCHAR und MAXCHAR können in binären Vergleichen (ABAP-Anweisung       
+   "SORT" ohne Zusatz "AS TEXT", "IF" mit den Operatoren "<", ">",  "      
+=  <=", ">=", "BETWEEN", Vergleich mit einem Selektionskriterium "IF f IN  
+   sel") benutzt werden. CLEAR f WITH MAXCHAR füllt f mit einem Wert, der  
+   größer oder gleich alle Zeichenketten ist.                              
+*  Binäre Vergleiche erfüllen allerdings oft nicht die Erwartungen der     
+   Benutzer; z.B. gilt im ISO-8859-1 Zeichensatz 1 < A < Z < a < Ä < ü,    
+   während in EBCDIC (SAP-Zeichensatz 0120) Ä < a < A < ü < Z < 1.         
+U1 &HINTS&                                                                 
+AS MAXCHAR ist im allgemeinen kein gültiges Zeichen des gegenwärtigen      
+   Zeichensatzes. Insbesondere darf TRANSLATE f TO UPPER CASE nicht auf    
+   MAXCHAR angewendet werden. Gleiches gilt für Operationen, die implizit  
+   in Großbuchstaben wandeln, wie SEARCH, CS, NS, CP, NP etc.              
+   Zeichensatzkonvertierungen dürfen nicht auf MAXCHAR angewendet werden.  
+*                                                                          

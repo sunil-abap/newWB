@@ -1,0 +1,6 @@
+U1 &MEANING&                                                               
+AS Aktuelle Bytereihenfolge (<EX>'B'</> für big-endian oder <EX>'L'</> für 
+   little-endian, abhängig vom Betriebssystem des Applikationsservers).    
+*                                                                          
+U1 &HINTS&                                                                 
+AS Siehe auch Domäne <DS:DE.ABAP_ENDIA><EX>ABAP_ENDIA</></> im Dictionary. 

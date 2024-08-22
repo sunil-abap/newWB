@@ -1,0 +1,15 @@
+U1 &FUNCTIONALITY&                                                         
+AS Finds the byte order of a number format.                                
+U1 &PRECONDITION&                                                          
+AS                                                                         
+U1 &RESULT&                                                                
+M1 <EX>endian</>,,The byte order that corresponds to this number format.   
+U1 &PARAMETERS&                                                            
+M1 <EX>number_format</>,,A valid number format ('0000' or '0101').         
+U1 &EXCEPTIONS&                                                            
+M1 An exception is raised if an invalid number format is specified.        
+U1 &HINTS&                                                                 
+AS The system character format can be determined using the function module 
+   <EX>SYSTEM_FORMAT</>; the relevant byte order is stored in the attribute
+=   <DS:CA.CL_ABAP_CHAR_UTILITIES        ENDIAN> <EX>                      
+=  CL_ABAP_CHAR_UTILITIES=>ENDIAN</></>.                                   

@@ -1,0 +1,14 @@
+U1 &FUNCTIONALITY&                                                         
+AS The components of this class are utilities for the processing of        
+   characters.                                                             
+*                                                                          
+U1 &RELATIONS&                                                             
+AS                                                                         
+U1 &EXAMPLE&                                                               
+AS                                                                         
+U1 &HINTS&                                                                 
+AS                                                                         
+U1 &FURTHER_SOURCES_OF_INF&                                                
+AS Further documentation comes with the individual components. (This also  
+   applies for the class attributes.)                                      
+AS                                                                         

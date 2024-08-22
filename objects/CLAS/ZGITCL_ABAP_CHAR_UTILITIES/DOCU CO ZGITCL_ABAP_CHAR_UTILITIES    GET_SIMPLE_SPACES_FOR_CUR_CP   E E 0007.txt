@@ -1,0 +1,29 @@
+U1 &FUNCTIONALITY&                                                         
+AS This method returns a string, which contains the space characters (for  
+   example SPACE, HORIZONTAL_TAB, and NEWLINE) most commonly used in the   
+   current codepage.                                                       
+LZ                                                                         
+U1 &PRECONDITION&                                                          
+AS                                                                         
+U1 &RESULT&                                                                
+AS The returned string refers to the current codepage of the application   
+   server. Therefore, after executing <AB>SET LOCALE LANGUAGE my_langu</>, 
+   you must call this method again. If in doubt, you should call this      
+   method before every use. (For performance reasons, the result string is 
+   buffered in the method.)                                                
+AS If the current codepage is a multibyte codepage (for example Japanese), 
+   then the result string also contains the multi-byte format of the       
+   <ZK>full-width ideographic space</>.                                    
+AS You can use the returned string as an operand for ABAP operators such   
+   as <AB>CA</> or <AB>CO</>. With this you can ascertain whether, and if  
+   so at what position, a field contains spaces. (The operators <AB>CA     
+=  </>, <AB>CO</>, <AB>NA</>, and <AB>CN</> also support multibyte         
+   characters.)                                                            
+LZ                                                                         
+U1 &PARAMETERS&                                                            
+AS                                                                         
+U1 &EXCEPTIONS&                                                            
+AS                                                                         
+U1 &HINTS&                                                                 
+AS There are some less commonly used space characters that are not         
+   returned by this method.                                                
