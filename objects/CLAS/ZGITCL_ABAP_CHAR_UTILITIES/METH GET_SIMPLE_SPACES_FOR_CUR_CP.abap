@@ -1,5 +1,5 @@
 method GET_SIMPLE_SPACES_FOR_CUR_CP .
-
+*conflict test - comment added in ABAP system
   if ( charsize = 1 AND sy-langu <> space_str_langu )  ##BOOL_OK
      OR space_str_langu is initial.
     constants: ispc type syhex02 value '3000'.
