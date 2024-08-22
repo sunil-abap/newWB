@@ -1,0 +1,38 @@
+[
+ {
+  "table":"EDE2T",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "EVCODE":"ZGITMATM",
+    "LANGUA":"D",
+    "DESCRP":"MATMAS  Materialstammdaten"
+   },
+   {
+    "MANDT":"100",
+    "EVCODE":"ZGITMATM",
+    "LANGUA":"E",
+    "DESCRP":"MATMAS  Material master data"
+   },
+   {
+    "MANDT":"100",
+    "EVCODE":"ZGITMATM",
+    "LANGUA":"F",
+    "DESCRP":"MATMAS  Données de base article"
+   },
+   {
+    "MANDT":"100",
+    "EVCODE":"ZGITMATM",
+    "LANGUA":"N",
+    "DESCRP":"MATMAS  Artikelstamgegevens"
+   },
+   {
+    "MANDT":"100",
+    "EVCODE":"ZGITMATM",
+    "LANGUA":"P",
+    "DESCRP":"MATMAS  dados mestre de material"
+   }
+  ]
+ }
+]

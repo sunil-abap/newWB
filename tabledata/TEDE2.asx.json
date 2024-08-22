@@ -1,0 +1,18 @@
+[
+ {
+  "table":"TEDE2",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "EVCODE":"ZGITMATM",
+    "EVENTT":"",
+    "EVENTN":"",
+    "EDIVR2":"6",
+    "EVENXX":"",
+    "EVENLX":"",
+    "EVENID":"IDOC_INPUT_MATMAS01"
+   }
+  ]
+ }
+]
