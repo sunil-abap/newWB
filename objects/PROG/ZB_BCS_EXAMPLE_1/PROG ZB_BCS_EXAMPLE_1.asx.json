@@ -1,0 +1,79 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"PROG",
+    "OBJ_NAME":"ZB_BCS_EXAMPLE_1",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SBORUGADDA",
+    "SRCDEP":"",
+    "DEVCLASS":"ZABAP_Z001",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"D",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-08-22",
+    "CHECK_DATE":"2024-08-22",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"ZB_BCS_EXAMPLE_1",
+    "VARCL":"X",
+    "SUBC":"1",
+    "APPL":"S",
+    "RSTAT":"T",
+    "RLOAD":"D",
+    "FIXPT":"X",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"ZB_BCS_EXAMPLE_1",
+    "SPRSL":"D",
+    "TEXT":"BCS-Nutzung, Beispiel 1"
+   },
+   {
+    "NAME":"ZB_BCS_EXAMPLE_1",
+    "SPRSL":"E",
+    "TEXT":"BCS Use, Example 1"
+   },
+   {
+    "NAME":"ZB_BCS_EXAMPLE_1",
+    "SPRSL":"F",
+    "TEXT":"Utilisation BCS, exemple 1"
+   },
+   {
+    "NAME":"ZB_BCS_EXAMPLE_1",
+    "SPRSL":"N",
+    "TEXT":"BCS-gebruik, voorbeeld 1"
+   },
+   {
+    "NAME":"ZB_BCS_EXAMPLE_1",
+    "SPRSL":"P",
+    "TEXT":"Utilização de BCS, exemplo 1"
+   }
+  ]
+ }
+]

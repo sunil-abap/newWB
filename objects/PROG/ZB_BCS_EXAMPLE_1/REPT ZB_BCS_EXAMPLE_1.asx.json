@@ -1,0 +1,148 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"D",
+    "ENTRY":"Fehler aufgetreten.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Errors occurred.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"F",
+    "ENTRY":"Erreur.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"N",
+    "ENTRY":"Fout opgetreden",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"P",
+    "ENTRY":"Ocorreram erros",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"D",
+    "ENTRY":"Fehlertyp:",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"Error Type",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"F",
+    "ENTRY":"Type d'erreur :",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"N",
+    "ENTRY":"Fouttype:",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"P",
+    "ENTRY":"Tipo erro:",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"D",
+    "ENTRY":"Dokument wurde erfolgreich versendet.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"E",
+    "ENTRY":"Document was sent.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"F",
+    "ENTRY":"Le document a été envoyé correctement.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"N",
+    "ENTRY":"Document verzonden",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"P",
+    "ENTRY":"O documento foi enviado com êxito",
+    "LENGTH":50
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"D",
+    "ENTRY":"BCS-Nutzung, Beispiel 1",
+    "LENGTH":23
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"BCS Use, Example 1",
+    "LENGTH":70
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"F",
+    "ENTRY":"Utilisation BCS, exemple 1",
+    "LENGTH":26
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"N",
+    "ENTRY":"BCS-gebruik, voorbeeld 1",
+    "LENGTH":24
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"P",
+    "ENTRY":"Utilização de BCS, exemplo 1",
+    "LENGTH":28
+   }
+  ]
+ }
+]
